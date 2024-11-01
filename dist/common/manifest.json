@@ -1,0 +1,96 @@
+{
+  "common/freemiusCommon-c53c3cc2.js.LICENSE.txt": "common/freemiusCommon-c53c3cc2.js.LICENSE.txt",
+  "common/freemiusPlugin-469ca366.js.LICENSE.txt": "common/freemiusPlugin-469ca366.js.LICENSE.txt",
+  "common/runtime-a4c11b2a.js.LICENSE.txt": "common/runtime-a4c11b2a.js.LICENSE.txt",
+  "common/tinymcePlugin-02da5c5b.js.LICENSE.txt": "common/tinymcePlugin-02da5c5b.js.LICENSE.txt",
+  "common/vendors~wpDashboard-7547e182.js.LICENSE.txt": "common/vendors~wpDashboard-7547e182.js.LICENSE.txt",
+  "common/wpDashboard-35c9a830.js.LICENSE.txt": "common/wpDashboard-35c9a830.js.LICENSE.txt",
+  "freemiusCommon.css": "common/freemiusCommon-4135a4d2.css",
+  "freemiusCommon.css.map": "common/freemiusCommon-4135a4d2.css.map",
+  "freemiusCommon.js": "common/freemiusCommon-c53c3cc2.js",
+  "freemiusCommon.js.map": "common/freemiusCommon-c53c3cc2.js.map",
+  "freemiusPlugin.css": "common/freemiusPlugin-e6f15d99.css",
+  "freemiusPlugin.css.map": "common/freemiusPlugin-e6f15d99.css.map",
+  "freemiusPlugin.js": "common/freemiusPlugin-469ca366.js",
+  "freemiusPlugin.js.map": "common/freemiusPlugin-469ca366.js.map",
+  "runtime.js": "common/runtime-a4c11b2a.js",
+  "runtime.js.map": "common/runtime-a4c11b2a.js.map",
+  "tinymcePlugin.js": "common/tinymcePlugin-02da5c5b.js",
+  "tinymcePlugin.js.map": "common/tinymcePlugin-02da5c5b.js.map",
+  "vendors~wpDashboard.js": "common/vendors~wpDashboard-7547e182.js",
+  "vendors~wpDashboard.js.map": "common/vendors~wpDashboard-7547e182.js.map",
+  "wpDashboard.css": "common/wpDashboard-e35220f2.css",
+  "wpDashboard.css.map": "common/wpDashboard-e35220f2.css.map",
+  "wpDashboard.js": "common/wpDashboard-35c9a830.js",
+  "wpDashboard.js.map": "common/wpDashboard-35c9a830.js.map",
+  "wpackioEp": {
+    "freemiusCommon": {
+      "assets": {
+        "js": [
+          "common/runtime-a4c11b2a.js",
+          "common/freemiusCommon-c53c3cc2.js"
+        ],
+        "js.map": [
+          "common/runtime-a4c11b2a.js.map",
+          "common/freemiusCommon-c53c3cc2.js.map"
+        ],
+        "css": [
+          "common/freemiusCommon-4135a4d2.css"
+        ],
+        "css.map": [
+          "common/freemiusCommon-4135a4d2.css.map"
+        ]
+      }
+    },
+    "freemiusPlugin": {
+      "assets": {
+        "js": [
+          "common/runtime-a4c11b2a.js",
+          "common/freemiusPlugin-469ca366.js"
+        ],
+        "js.map": [
+          "common/runtime-a4c11b2a.js.map",
+          "common/freemiusPlugin-469ca366.js.map"
+        ],
+        "css": [
+          "common/freemiusPlugin-e6f15d99.css"
+        ],
+        "css.map": [
+          "common/freemiusPlugin-e6f15d99.css.map"
+        ]
+      }
+    },
+    "tinymcePlugin": {
+      "assets": {
+        "js": [
+          "common/runtime-a4c11b2a.js",
+          "common/tinymcePlugin-02da5c5b.js"
+        ],
+        "js.map": [
+          "common/runtime-a4c11b2a.js.map",
+          "common/tinymcePlugin-02da5c5b.js.map"
+        ]
+      }
+    },
+    "wpDashboard": {
+      "assets": {
+        "js": [
+          "common/runtime-a4c11b2a.js",
+          "common/vendors~wpDashboard-7547e182.js",
+          "common/wpDashboard-35c9a830.js"
+        ],
+        "js.map": [
+          "common/runtime-a4c11b2a.js.map",
+          "common/vendors~wpDashboard-7547e182.js.map",
+          "common/wpDashboard-35c9a830.js.map"
+        ],
+        "css": [
+          "common/wpDashboard-e35220f2.css"
+        ],
+        "css.map": [
+          "common/wpDashboard-e35220f2.css.map"
+        ]
+      }
+    }
+  }
+}

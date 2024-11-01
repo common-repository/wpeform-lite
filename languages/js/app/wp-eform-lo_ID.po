@@ -1,0 +1,1503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-06T20:07:37+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#: form-16e463fd.js:459
+#: submission-33e67c25.js:459
+#: userPortal-e013c9a0.js:459
+msgid "caption…"
+msgstr ""
+
+#: form-16e463fd.js:516
+#: submission-33e67c25.js:516
+#: userPortal-e013c9a0.js:516
+msgid "ERROR: cannot render an element inside the same element."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "The element is required, kindly enter a value."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Length of input must be %1$d, currently it is %2$d."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Length of input can not be greater than %1$d, currently it is %2$d."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "No letters are allowed."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "No numbers are allowed."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "The email address is incorrect."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Only integers are allowed."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Only numbers are allowed."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Minimum required value is %1$s, currently it is %2$s."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Maximum allowed value is %1$s, currently it is %2$s."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please enter a valid phone number."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please enter a valid phone URL."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Required, please select an option."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "A maximum of %1$d option(s) allowed, you have selected %2$d."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "A minimum of %1$d option(s) required, you have selected %2$d."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please fill in your custom choice."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "The captcha is required."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "The answer is incorrect. Correct answer would be %1$s."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "This checkbox is required."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please check this toggle element."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Value cannot be less than {min}."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Value cannot be greater than {max}."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Value must be in the steps of {step}."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Value {value} must be in the steps of {step}"
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Minimum value {min} must be less than or equal to maximum value {max}."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "The rating is required."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please fill in the feedback."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Rating value is greater than maximum."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Required, please select at-least one option every row."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please enter a value."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Value must not be less than %1$s."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Value must not be greater than %1$s."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Invalid value used in date time input."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please fill all the items in the table."
+msgstr ""
+
+#: form-16e463fd.js:872
+#: submission-33e67c25.js:872
+#: userPortal-e013c9a0.js:872
+msgid "Please fill in the address."
+msgstr ""
+
+#: form-16e463fd.js:1174
+#: form-16e463fd.js:1260
+#: form-16e463fd.js:1278
+#: submission-33e67c25.js:1174
+#: submission-33e67c25.js:1260
+#: submission-33e67c25.js:1278
+#: userPortal-e013c9a0.js:1174
+#: userPortal-e013c9a0.js:1260
+#: userPortal-e013c9a0.js:1278
+msgid "enter your choice here"
+msgstr ""
+
+#: form-16e463fd.js:1182
+#: form-16e463fd.js:1269
+#: form-16e463fd.js:1286
+#: submission-33e67c25.js:1182
+#: submission-33e67c25.js:1269
+#: submission-33e67c25.js:1286
+#: userPortal-e013c9a0.js:1182
+#: userPortal-e013c9a0.js:1269
+#: userPortal-e013c9a0.js:1286
+msgid "No options selected."
+msgstr ""
+
+#: form-16e463fd.js:1201
+#: submission-33e67c25.js:1201
+#: userPortal-e013c9a0.js:1201
+msgid "This group element is empty"
+msgstr ""
+
+#: form-16e463fd.js:1222
+#: submission-33e67c25.js:1222
+#: userPortal-e013c9a0.js:1222
+msgid "This row element is empty"
+msgstr ""
+
+#: form-16e463fd.js:1226
+#: submission-33e67c25.js:1226
+#: userPortal-e013c9a0.js:1226
+msgid "This column element is empty"
+msgstr ""
+
+#: form-16e463fd.js:1247
+#: submission-33e67c25.js:1247
+#: userPortal-e013c9a0.js:1247
+msgid "Scroll to top"
+msgstr ""
+
+#: form-16e463fd.js:1286
+#: submission-33e67c25.js:1286
+#: userPortal-e013c9a0.js:1286
+msgid "Unknown"
+msgstr ""
+
+#: form-16e463fd.js:1309
+#: submission-33e67c25.js:1309
+#: userPortal-e013c9a0.js:1309
+msgid "%d %s %d = ?"
+msgstr ""
+
+#: form-16e463fd.js:1329
+#: form-16e463fd.js:6203
+#: submission-33e67c25.js:1329
+#: submission-33e67c25.js:6374
+#: userPortal-e013c9a0.js:1329
+#: userPortal-e013c9a0.js:6374
+msgid "Yes"
+msgstr ""
+
+#: form-16e463fd.js:1329
+#: form-16e463fd.js:6203
+#: submission-33e67c25.js:1329
+#: submission-33e67c25.js:6374
+#: userPortal-e013c9a0.js:1329
+#: userPortal-e013c9a0.js:6374
+msgid "No"
+msgstr ""
+
+#: form-16e463fd.js:1329
+#: submission-33e67c25.js:1329
+#: userPortal-e013c9a0.js:1329
+msgid "Yes."
+msgstr ""
+
+#: form-16e463fd.js:1329
+#: submission-33e67c25.js:1329
+#: userPortal-e013c9a0.js:1329
+msgid "No."
+msgstr ""
+
+#: form-16e463fd.js:1397
+#: submission-33e67c25.js:1397
+#: userPortal-e013c9a0.js:1397
+msgid "Outcome"
+msgstr ""
+
+#: form-16e463fd.js:1397
+#: submission-33e67c25.js:1397
+#: userPortal-e013c9a0.js:1397
+msgid "Obtained"
+msgstr ""
+
+#: form-16e463fd.js:1397
+#: submission-33e67c25.js:1397
+#: userPortal-e013c9a0.js:1397
+#: userPortal-e013c9a0.js:6873
+msgid "Out of"
+msgstr ""
+
+#: form-16e463fd.js:1397
+#: submission-33e67c25.js:1397
+#: userPortal-e013c9a0.js:1397
+msgid "%-age"
+msgstr ""
+
+#: form-16e463fd.js:1827
+#: submission-33e67c25.js:1827
+#: userPortal-e013c9a0.js:1827
+msgid "Cannot submit a form in preview mode."
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "US phone number"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: form-16e463fd.js:1937
+#: form-16e463fd.js:1938
+#: submission-33e67c25.js:1936
+#: submission-33e67c25.js:1937
+#: submission-33e67c25.js:1938
+#: userPortal-e013c9a0.js:1936
+#: userPortal-e013c9a0.js:1937
+#: userPortal-e013c9a0.js:1938
+msgctxt "wp-eform-mask-placeholder"
+msgid "_"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Mobile or telephone number."
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "US Social Security Number (SSN)"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Digits only"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "US Zip code"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Date MM-DD-YY"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Date YYYY-MM-DD"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Date DD/MM/YY"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Twitter URL"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Facebook URL"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "Instagram URL"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "General URL"
+msgstr ""
+
+#: form-16e463fd.js:1936
+#: submission-33e67c25.js:1936
+#: userPortal-e013c9a0.js:1936
+msgid "RGB or HEX color code"
+msgstr ""
+
+#: form-16e463fd.js:1937
+#: submission-33e67c25.js:1937
+#: userPortal-e013c9a0.js:1937
+msgid "RGB color code"
+msgstr ""
+
+#: form-16e463fd.js:2231
+#: submission-33e67c25.js:2231
+#: userPortal-e013c9a0.js:2231
+msgid "ERROR: The element with id %s does not exist"
+msgstr ""
+
+#: form-16e463fd.js:2231
+#: submission-33e67c25.js:2231
+#: userPortal-e013c9a0.js:2231
+msgid "This element is no longer accessible."
+msgstr ""
+
+#: form-16e463fd.js:2231
+#: submission-33e67c25.js:2231
+#: userPortal-e013c9a0.js:2231
+msgid "You do not have an active license for the %1$s plan. Once the license is active, this element will show up again."
+msgstr ""
+
+#: form-16e463fd.js:2231
+#: submission-33e67c25.js:2231
+#: userPortal-e013c9a0.js:2231
+msgid "ERROR: "
+msgstr ""
+
+#: form-16e463fd.js:2231
+#: submission-33e67c25.js:2231
+#: userPortal-e013c9a0.js:2231
+msgid "You can try and dismiss this to see if it works."
+msgstr ""
+
+#: form-16e463fd.js:2412
+#: submission-33e67c25.js:2412
+#: userPortal-e013c9a0.js:2412
+msgid "Inherit from theme"
+msgstr ""
+
+#: form-16e463fd.js:2412
+#: submission-33e67c25.js:2412
+#: userPortal-e013c9a0.js:2412
+msgid "System UI"
+msgstr ""
+
+#: form-16e463fd.js:2412
+#: submission-33e67c25.js:2412
+#: userPortal-e013c9a0.js:2412
+msgid "System UI Mono"
+msgstr ""
+
+#: form-16e463fd.js:2412
+#: submission-33e67c25.js:2412
+#: userPortal-e013c9a0.js:2412
+msgid "Custom Font"
+msgstr ""
+
+#: form-16e463fd.js:2749
+#: form-16e463fd.js:4374
+#: submission-33e67c25.js:2749
+#: submission-33e67c25.js:4374
+#: userPortal-e013c9a0.js:2749
+#: userPortal-e013c9a0.js:4374
+msgid "More information on the error can be found below."
+msgstr ""
+
+#: form-16e463fd.js:2749
+#: form-16e463fd.js:4374
+#: submission-33e67c25.js:2749
+#: submission-33e67c25.js:4374
+#: userPortal-e013c9a0.js:2749
+#: userPortal-e013c9a0.js:4374
+msgid "RELOAD PAGE"
+msgstr ""
+
+#: form-16e463fd.js:2749
+#: form-16e463fd.js:4374
+#: submission-33e67c25.js:2749
+#: submission-33e67c25.js:4374
+#: submission-33e67c25.js:6638
+#: userPortal-e013c9a0.js:2749
+#: userPortal-e013c9a0.js:4374
+#: userPortal-e013c9a0.js:6638
+msgid "RETRY WITHOUT RELOAD"
+msgstr ""
+
+#: form-16e463fd.js:2812
+#: submission-33e67c25.js:2812
+#: userPortal-e013c9a0.js:2812
+msgid "Search items"
+msgstr ""
+
+#: form-16e463fd.js:2812
+#: submission-33e67c25.js:2812
+#: userPortal-e013c9a0.js:2812
+msgid "No items found"
+msgstr ""
+
+#: form-16e463fd.js:2990
+#: submission-33e67c25.js:2990
+#: userPortal-e013c9a0.js:2990
+msgid "Dismiss"
+msgstr ""
+
+#: form-16e463fd.js:3043
+#: submission-33e67c25.js:3043
+#: userPortal-e013c9a0.js:3043
+msgid "Anonymous"
+msgstr ""
+
+#. translators: %1$s is hours, %2$s is minutes, %3$s is seconds
+#: form-16e463fd.js:3054
+#: submission-33e67c25.js:3054
+#: userPortal-e013c9a0.js:3054
+msgctxt "format-time-from-seconds"
+msgid "%1$s, %2$s, %3$s"
+msgstr ""
+
+#. translators: %d is replaced by hours
+#: form-16e463fd.js:3054
+#: submission-33e67c25.js:3054
+#: userPortal-e013c9a0.js:3054
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d is replaced by minutes
+#: form-16e463fd.js:3054
+#: submission-33e67c25.js:3054
+#: userPortal-e013c9a0.js:3054
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d is replaced by seconds
+#: form-16e463fd.js:3054
+#: form-16e463fd.js:5667
+#: submission-33e67c25.js:3054
+#: submission-33e67c25.js:5838
+#: userPortal-e013c9a0.js:3054
+#: userPortal-e013c9a0.js:5838
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators:%1$s is minutes, %2$s is seconds
+#: form-16e463fd.js:3054
+#: submission-33e67c25.js:3054
+#: userPortal-e013c9a0.js:3054
+msgctxt "format-time-from-seconds"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Jan"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Feb"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Mar"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Apr"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "May"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Jun"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Jul"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Aug"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Sep"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Oct"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Nov"
+msgstr ""
+
+#: form-16e463fd.js:3364
+#: submission-33e67c25.js:3364
+#: userPortal-e013c9a0.js:3364
+msgid "Dec"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "YEAR"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "YYYY"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "MONTH"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgctxt "month-select-placeholder"
+msgid "----"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "DAY"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "DD"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "HR"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "HOUR"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "MIN"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "MINUTE"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "SEC"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "SECOND"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "AM"
+msgstr ""
+
+#: form-16e463fd.js:3385
+#: submission-33e67c25.js:3385
+#: userPortal-e013c9a0.js:3385
+msgid "PM"
+msgstr ""
+
+#: form-16e463fd.js:4089
+#: submission-33e67c25.js:4089
+#: userPortal-e013c9a0.js:4089
+msgid "AUTH ERROR"
+msgstr ""
+
+#: form-16e463fd.js:4089
+#: submission-33e67c25.js:4089
+#: userPortal-e013c9a0.js:4089
+msgid "ERROR 404"
+msgstr ""
+
+#: form-16e463fd.js:4089
+#: submission-33e67c25.js:4089
+#: userPortal-e013c9a0.js:4089
+msgid "SERVER ERROR"
+msgstr ""
+
+#: form-16e463fd.js:4089
+#: submission-33e67c25.js:4089
+#: userPortal-e013c9a0.js:4089
+msgid "APP ERROR"
+msgstr ""
+
+#: form-16e463fd.js:4166
+#: submission-33e67c25.js:4166
+#: userPortal-e013c9a0.js:4166
+msgid "Increase value"
+msgstr ""
+
+#: form-16e463fd.js:4166
+#: submission-33e67c25.js:4166
+#: userPortal-e013c9a0.js:4166
+msgid "Decrease value"
+msgstr ""
+
+#: form-16e463fd.js:4374
+#: submission-33e67c25.js:4374
+#: userPortal-e013c9a0.js:4374
+msgid "Something went wrong"
+msgstr ""
+
+#: form-16e463fd.js:4374
+#: submission-33e67c25.js:4374
+#: userPortal-e013c9a0.js:4374
+msgid "There was an error in the application. Reloading the page might fix it."
+msgstr ""
+
+#: form-16e463fd.js:4483
+#: submission-33e67c25.js:4654
+#: userPortal-e013c9a0.js:4654
+msgid "Uncategorized"
+msgstr ""
+
+#: form-16e463fd.js:5588
+#: submission-33e67c25.js:5759
+#: userPortal-e013c9a0.js:5759
+msgctxt "timer"
+msgid "%s:%s:%s"
+msgstr ""
+
+#: form-16e463fd.js:5588
+#: submission-33e67c25.js:5759
+#: userPortal-e013c9a0.js:5759
+msgid "time elapsed since %s"
+msgstr ""
+
+#: form-16e463fd.js:5648
+#: submission-33e67c25.js:5819
+#: userPortal-e013c9a0.js:5819
+msgid "This page does not exist. Kindly navigate away from it."
+msgstr ""
+
+#: form-16e463fd.js:5648
+#: submission-33e67c25.js:5819
+#: userPortal-e013c9a0.js:5819
+msgid "This page is empty."
+msgstr ""
+
+#: form-16e463fd.js:5656
+#: submission-33e67c25.js:5827
+#: userPortal-e013c9a0.js:5827
+msgid "Some error has occured."
+msgstr ""
+
+#: form-16e463fd.js:5656
+#: submission-33e67c25.js:5827
+#: userPortal-e013c9a0.js:5827
+msgid "There has been some error related to %s."
+msgstr ""
+
+#: form-16e463fd.js:5667
+#: submission-33e67c25.js:5838
+#: userPortal-e013c9a0.js:5838
+msgid "%d hour, "
+msgid_plural "%d hours, "
+msgstr[0] ""
+msgstr[1] ""
+
+#: form-16e463fd.js:5667
+#: submission-33e67c25.js:5838
+#: userPortal-e013c9a0.js:5838
+msgid "%d minute, "
+msgid_plural "%d minutes, "
+msgstr[0] ""
+msgstr[1] ""
+
+#: form-16e463fd.js:5686
+#: submission-33e67c25.js:5857
+#: userPortal-e013c9a0.js:5857
+msgid "ERROR: The URL %s is invalid and cannot redirect. Please contact the site administrator for help."
+msgstr ""
+
+#: form-16e463fd.js:5692
+#: submission-33e67c25.js:5863
+#: userPortal-e013c9a0.js:5863
+msgctxt "hours short form"
+msgid "h"
+msgstr ""
+
+#: form-16e463fd.js:5692
+#: submission-33e67c25.js:5863
+#: userPortal-e013c9a0.js:5863
+msgctxt "minutes short form"
+msgid "m"
+msgstr ""
+
+#: form-16e463fd.js:5692
+#: submission-33e67c25.js:5863
+#: userPortal-e013c9a0.js:5863
+msgctxt "seconds short form"
+msgid "s"
+msgstr ""
+
+#: form-16e463fd.js:5717
+#: submission-33e67c25.js:5888
+#: userPortal-e013c9a0.js:5888
+msgid "Administrator Remarks"
+msgstr ""
+
+#: form-16e463fd.js:5717
+#: submission-33e67c25.js:5888
+#: userPortal-e013c9a0.js:5888
+msgid "this will show up in submission summary."
+msgstr ""
+
+#: form-16e463fd.js:5760
+#: submission-33e67c25.js:5931
+#: userPortal-e013c9a0.js:5931
+msgid "This will reset the form. Action cannot be undone, are you sure?"
+msgstr ""
+
+#: form-16e463fd.js:5768
+#: submission-33e67c25.js:5939
+#: userPortal-e013c9a0.js:5939
+msgid "The submission has been updated."
+msgstr ""
+
+#: form-16e463fd.js:5768
+#: submission-33e67c25.js:5939
+#: userPortal-e013c9a0.js:5939
+msgid "Oops, we have encountered an error!"
+msgstr ""
+
+#: form-16e463fd.js:5768
+#: submission-33e67c25.js:5939
+#: userPortal-e013c9a0.js:5939
+msgid "We have also sent an email to the user about this update."
+msgstr ""
+
+#: form-16e463fd.js:5768
+#: submission-33e67c25.js:5939
+#: userPortal-e013c9a0.js:5939
+msgid "RETRY"
+msgstr ""
+
+#: form-16e463fd.js:5958
+#: submission-33e67c25.js:6129
+#: userPortal-e013c9a0.js:6129
+msgid "This math group is empty."
+msgstr ""
+
+#: form-16e463fd.js:5987
+#: submission-33e67c25.js:6158
+#: userPortal-e013c9a0.js:6158
+msgid "enter your feedback here"
+msgstr ""
+
+#: form-16e463fd.js:5989
+#: submission-33e67c25.js:6160
+#: userPortal-e013c9a0.js:6160
+msgctxt "rating-separator"
+msgid " / "
+msgstr ""
+
+#: form-16e463fd.js:6006
+#: form-16e463fd.js:6008
+#: form-16e463fd.js:6012
+#: submission-33e67c25.js:6177
+#: submission-33e67c25.js:6179
+#: submission-33e67c25.js:6183
+#: userPortal-e013c9a0.js:6177
+#: userPortal-e013c9a0.js:6179
+#: userPortal-e013c9a0.js:6183
+msgid "This group is empty."
+msgstr ""
+
+#: form-16e463fd.js:6010
+#: submission-33e67c25.js:6181
+#: userPortal-e013c9a0.js:6181
+msgid "This slider group is empty."
+msgstr ""
+
+#: form-16e463fd.js:6046
+#: form-16e463fd.js:6135
+#: submission-33e67c25.js:6217
+#: submission-33e67c25.js:6306
+#: userPortal-e013c9a0.js:6217
+#: userPortal-e013c9a0.js:6306
+msgid "Unknown Row"
+msgstr ""
+
+#: form-16e463fd.js:6046
+#: submission-33e67c25.js:6217
+#: userPortal-e013c9a0.js:6217
+msgctxt "matrixchoice-dislay-heading-separator"
+msgid ": "
+msgstr ""
+
+#: form-16e463fd.js:6046
+#: form-16e463fd.js:6135
+#: submission-33e67c25.js:6217
+#: submission-33e67c25.js:6306
+#: userPortal-e013c9a0.js:6217
+#: userPortal-e013c9a0.js:6306
+msgid "Unknown column"
+msgstr ""
+
+#: form-16e463fd.js:6046
+#: submission-33e67c25.js:6217
+#: userPortal-e013c9a0.js:6217
+msgctxt "matrixchoice-column-separator"
+msgid ", "
+msgstr ""
+
+#: form-16e463fd.js:6046
+#: submission-33e67c25.js:6217
+#: userPortal-e013c9a0.js:6217
+msgctxt "matrixchoice-row-separator"
+msgid " | "
+msgstr ""
+
+#: form-16e463fd.js:6079
+#: submission-33e67c25.js:6250
+#: userPortal-e013c9a0.js:6250
+msgid "UNKNOWN ITEM"
+msgstr ""
+
+#: form-16e463fd.js:6092
+#: submission-33e67c25.js:6263
+#: userPortal-e013c9a0.js:6263
+msgctxt "sortable-item-separator"
+msgid ", "
+msgstr ""
+
+#: form-16e463fd.js:6107
+#: submission-33e67c25.js:6278
+#: userPortal-e013c9a0.js:6278
+msgid "No user input."
+msgstr ""
+
+#: form-16e463fd.js:6107
+#: submission-33e67c25.js:6278
+#: userPortal-e013c9a0.js:6278
+msgid "…"
+msgstr ""
+
+#: form-16e463fd.js:6135
+#: submission-33e67c25.js:6306
+#: userPortal-e013c9a0.js:6306
+msgctxt "matrixinput-dislay-row-col-separator"
+msgid " / "
+msgstr ""
+
+#: form-16e463fd.js:6135
+#: submission-33e67c25.js:6306
+#: userPortal-e013c9a0.js:6306
+msgctxt "matrixinput-dislay-heading-separator"
+msgid ": "
+msgstr ""
+
+#: form-16e463fd.js:6135
+#: submission-33e67c25.js:6306
+#: userPortal-e013c9a0.js:6306
+msgctxt "matrixinput-display-empty-value"
+msgid "…"
+msgstr ""
+
+#: form-16e463fd.js:6135
+#: submission-33e67c25.js:6306
+#: userPortal-e013c9a0.js:6306
+msgctxt "matrixinput-row-col-value-separator"
+msgid ", "
+msgstr ""
+
+#: form-16e463fd.js:6135
+#: submission-33e67c25.js:6306
+#: userPortal-e013c9a0.js:6306
+msgid "Unknown row"
+msgstr ""
+
+#: form-16e463fd.js:6149
+#: submission-33e67c25.js:6320
+#: userPortal-e013c9a0.js:6320
+msgid "Count not load countries, please enter manually"
+msgstr ""
+
+#: form-16e463fd.js:6149
+#: submission-33e67c25.js:6320
+#: userPortal-e013c9a0.js:6320
+msgid "Country"
+msgstr ""
+
+#: form-16e463fd.js:6150
+#: submission-33e67c25.js:6321
+#: userPortal-e013c9a0.js:6321
+msgid "could not load states, please enter manually"
+msgstr ""
+
+#: form-16e463fd.js:6150
+#: submission-33e67c25.js:6321
+#: userPortal-e013c9a0.js:6321
+msgid "State"
+msgstr ""
+
+#: form-16e463fd.js:6186
+#: submission-33e67c25.js:6357
+#: userPortal-e013c9a0.js:6357
+msgctxt "address-item-separator"
+msgid ", "
+msgstr ""
+
+#: form-16e463fd.js:6359
+msgid "A server side error has occured"
+msgstr ""
+
+#: form-16e463fd.js:6359
+msgid "There was an error trying to fetch form data from the server. Try refreshing the page to see if that resolves it."
+msgstr ""
+
+#. translators: %%TOKEN%% is replaced by submission token, %%FORM%% is replaced by form name
+#: submission-33e67c25.js:6548
+#: userPortal-e013c9a0.js:6548
+msgctxt "wpeform-useredit-heading"
+msgid "Editing submission on %%FORM%%"
+msgstr ""
+
+#: submission-33e67c25.js:6548
+#: userPortal-e013c9a0.js:6548
+msgid "Cancel edit"
+msgstr ""
+
+#: submission-33e67c25.js:6550
+#: submission-33e67c25.js:6632
+#: userPortal-e013c9a0.js:6550
+#: userPortal-e013c9a0.js:6632
+msgid "Could not get submission data"
+msgstr ""
+
+#: submission-33e67c25.js:6550
+#: submission-33e67c25.js:6632
+#: userPortal-e013c9a0.js:6550
+#: userPortal-e013c9a0.js:6632
+msgid "There was some problem retrieving submission. Please reload the page and try again."
+msgstr ""
+
+#: submission-33e67c25.js:6550
+#: userPortal-e013c9a0.js:6550
+msgid "You cannot edit the submission"
+msgstr ""
+
+#: submission-33e67c25.js:6550
+#: userPortal-e013c9a0.js:6550
+msgid "GO BACK TO PREVIEW"
+msgstr ""
+
+#: submission-33e67c25.js:6550
+#: userPortal-e013c9a0.js:6550
+msgid "It is not possible to edit this submission. Only managers can make changes to the data. If you think this is a mistake, kindly contact the site administrator."
+msgstr ""
+
+#: submission-33e67c25.js:6567
+#: userPortal-e013c9a0.js:6567
+msgid "at"
+msgstr ""
+
+#: submission-33e67c25.js:6567
+#: userPortal-e013c9a0.js:6567
+msgid "Print submission"
+msgstr ""
+
+#: submission-33e67c25.js:6567
+#: userPortal-e013c9a0.js:6567
+msgid "Print Submission"
+msgstr ""
+
+#: submission-33e67c25.js:6567
+#: userPortal-e013c9a0.js:6567
+msgid "Download submission as PDF"
+msgstr ""
+
+#: submission-33e67c25.js:6567
+#: userPortal-e013c9a0.js:6567
+msgid "Edit Submission"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+msgid "Form"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+#: userPortal-e013c9a0.js:6873
+msgid "Submission Id"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+msgid "Created On"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+msgid "Updated On"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+msgctxt "submission-summary-score"
+msgid "%s / %s"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+msgid "Record"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+msgid "Remarks"
+msgstr ""
+
+#: submission-33e67c25.js:6575
+#: userPortal-e013c9a0.js:6575
+msgid "Duration"
+msgstr ""
+
+#: submission-33e67c25.js:6630
+#: userPortal-e013c9a0.js:6630
+msgid "Score Outcome"
+msgstr ""
+
+#: submission-33e67c25.js:6630
+#: userPortal-e013c9a0.js:6630
+#: userPortal-e013c9a0.js:6873
+msgid "Score"
+msgid_plural "Scores"
+msgstr[0] ""
+msgstr[1] ""
+
+#: submission-33e67c25.js:6630
+#: userPortal-e013c9a0.js:6630
+msgid "Designation"
+msgid_plural "Designations"
+msgstr[0] ""
+msgstr[1] ""
+
+#: submission-33e67c25.js:6638
+#: userPortal-e013c9a0.js:6638
+msgid "The submission could not be found"
+msgstr ""
+
+#: submission-33e67c25.js:6638
+#: userPortal-e013c9a0.js:6638
+msgid "RE ENTER SUBMISSION ID"
+msgstr ""
+
+#: submission-33e67c25.js:6638
+#: userPortal-e013c9a0.js:6638
+msgid "There was an error trying to fetch submission data from the server. Try refreshing the page to see if that resolves it."
+msgstr ""
+
+#: submission-33e67c25.js:6740
+msgid "please enter the submission id here"
+msgstr ""
+
+#: submission-33e67c25.js:6741
+msgid "Please enter a submission id."
+msgstr ""
+
+#: submission-33e67c25.js:6741
+msgid "PREVIEW"
+msgstr ""
+
+#: submission-33e67c25.js:6743
+#: submission-33e67c25.js:6748
+msgid "Enter submission id"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "10 items"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "20 items"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "30 items"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "40 items"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "per page"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "no results found."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "Go previous"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgctxt "pagination-separator"
+msgid "/"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6792
+msgid "Go next"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6797
+msgid "Ascending"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6797
+msgid "Descending"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6797
+msgid "search items"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6797
+msgid "Sort by"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6816
+msgctxt "datatable-items-in-page"
+msgid "Showing %1$d-%2$d / %3$d %4$s"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6861
+msgid "to"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "filter by a form"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "no forms found."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "search forms"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "filter by a category"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "no categories found."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "search categories"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "filter by date"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "start / end date"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "FILTERS"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6864
+msgid "LOGOUT"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6866
+msgid "Submission created %%CREATEDATE%%."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6866
+msgid "Last updated %%UPDATEDATE%%."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6866
+msgid "You have obtained %%SCORE%% / %%TOTALSCORE%%."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6866
+msgid "ADMIN REMARKS"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6866
+msgid "DOWNLOAD"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6866
+msgid "VIEW"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Form Id"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "First Name"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Last Name"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Email"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Phone"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "% Score"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Created"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Updated"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Paid"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Time"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+#: userPortal-e013c9a0.js:6885
+msgid "You do not have any submissions yet."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "No submissions found for selected filters. Try clearing them."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "CLEAR FILTERS"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "No submissions founds. Try clearing the search."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "CLEAR SEARCH"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Could not fetch submissions."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "There was some error trying to fetch data. Please refresh the page and see if that resolves the issue."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Please select a submission to preview it here."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Submissions"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "Submission"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6873
+msgid "search submissions"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6880
+msgid "Could not load submissions page."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6880
+msgid "There was an error trying to fetch submissions data from the server. Make sure you are logged in and try refreshing the page to see if that resolves it."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6885
+msgid "Welcome %%USERNAME%%"
+msgstr ""
+
+#: userPortal-e013c9a0.js:6885
+msgid "You have %%SUBMISSIONS%% submission, with an average score of %%SCOREAVG%%%."
+msgstr ""
+
+#: userPortal-e013c9a0.js:6885
+msgid "You have %%SUBMISSIONS%% submissions, with an average score of %%SCOREAVG%%%."
+msgstr ""

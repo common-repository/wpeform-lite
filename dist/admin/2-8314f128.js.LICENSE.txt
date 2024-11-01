@@ -1,0 +1,26 @@
+/*!
+ * 
+ * WPEForm - WordPress Form Solution
+ * 
+ * @author Swashata Ghosh (WPEForm)
+ * @version 1.6.5
+ * @link GPL-3.0
+ * @license GPL-3.0
+ * 
+ * Copyright (c) 2023 Swashata Ghosh (WPEForm)
+ * 
+ * This software is released under the GPL-3.0 License
+ * https://opensource.org/licenses/GPL-3.0
+ * 
+ * Compiled with the help of https://wpack.io
+ * A zero setup Webpack Bundler Script for WordPress
+ */
+
+/** @license React v17.0.2
+ * react-dom-server.browser.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */

@@ -1,0 +1,31 @@
+/*!
+ * 
+ * WPEForm - WordPress Form Solution
+ * 
+ * @author Swashata Ghosh (WPEForm)
+ * @version 1.6.5
+ * @link GPL-3.0
+ * @license GPL-3.0
+ * 
+ * Copyright (c) 2023 Swashata Ghosh (WPEForm)
+ * 
+ * This software is released under the GPL-3.0 License
+ * https://opensource.org/licenses/GPL-3.0
+ * 
+ * Compiled with the help of https://wpack.io
+ * A zero setup Webpack Bundler Script for WordPress
+ */
+
+/*!
+ * @kurkle/color v0.2.1
+ * https://github.com/kurkle/color#readme
+ * (c) 2022 Jukka Kurkela
+ * Released under the MIT License
+ */
+
+/*!
+ * Chart.js v3.9.1
+ * https://www.chartjs.org
+ * (c) 2022 Chart.js Contributors
+ * Released under the MIT License
+ */

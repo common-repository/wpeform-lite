@@ -1,0 +1,5878 @@
+{
+   "domain": "wp-eform",
+   "locale_data": {
+      "wp-eform": {
+         "1": [
+            ""
+         ],
+         "": {
+            "domain": "wp-eform"
+         },
+         "Anonymous": [
+            ""
+         ],
+         "%d hour": [
+            "",
+            "%d hours"
+         ],
+         "%d minute": [
+            "",
+            "%d minutes"
+         ],
+         "%d second": [
+            "",
+            "%d seconds"
+         ],
+         "time elapsed since %s": [
+            ""
+         ],
+         "This page does not exist. Kindly navigate away from it.": [
+            ""
+         ],
+         "This page is empty.": [
+            ""
+         ],
+         "Some error has occured.": [
+            ""
+         ],
+         "There has been some error related to %s.": [
+            ""
+         ],
+         "%d hour, ": [
+            "",
+            "%d hours, "
+         ],
+         "%d minute, ": [
+            "",
+            "%d minutes, "
+         ],
+         "ERROR: The URL %s is invalid and cannot redirect. Please contact the site administrator for help.": [
+            ""
+         ],
+         "Administrator Remarks": [
+            ""
+         ],
+         "this will show up in submission summary.": [
+            ""
+         ],
+         "This will reset the form. Action cannot be undone, are you sure?": [
+            ""
+         ],
+         "The submission has been updated.": [
+            ""
+         ],
+         "Oops, we have encountered an error!": [
+            ""
+         ],
+         "We have also sent an email to the user about this update.": [
+            ""
+         ],
+         "RETRY": [
+            ""
+         ],
+         "Back": [
+            ""
+         ],
+         "Add New": [
+            ""
+         ],
+         "Something went wrong": [
+            ""
+         ],
+         "There was an error in the application. Reloading the page might fix it.": [
+            ""
+         ],
+         "More information on the error can be found below.": [
+            ""
+         ],
+         "RELOAD PAGE": [
+            ""
+         ],
+         "RETRY WITHOUT RELOAD": [
+            ""
+         ],
+         "Cancel edit": [
+            ""
+         ],
+         "Could not get submission data": [
+            ""
+         ],
+         "There was some problem retrieving submission. Please reload the page and try again.": [
+            ""
+         ],
+         "You cannot edit the submission": [
+            ""
+         ],
+         "GO BACK TO PREVIEW": [
+            ""
+         ],
+         "It is not possible to edit this submission. Only managers can make changes to the data. If you think this is a mistake, kindly contact the site administrator.": [
+            ""
+         ],
+         "at": [
+            ""
+         ],
+         "Print submission": [
+            ""
+         ],
+         "Print Submission": [
+            ""
+         ],
+         "Download submission as PDF": [
+            ""
+         ],
+         "Edit Submission": [
+            ""
+         ],
+         "Form": [
+            ""
+         ],
+         "Submission Id": [
+            ""
+         ],
+         "Created On": [
+            ""
+         ],
+         "Updated On": [
+            ""
+         ],
+         "Record": [
+            ""
+         ],
+         "Remarks": [
+            ""
+         ],
+         "Duration": [
+            ""
+         ],
+         "Score Outcome": [
+            ""
+         ],
+         "Score": [
+            "",
+            "Scores"
+         ],
+         "Designation": [
+            "",
+            "Designations"
+         ],
+         "The submission could not be found": [
+            ""
+         ],
+         "RE ENTER SUBMISSION ID": [
+            ""
+         ],
+         "There was an error trying to fetch submission data from the server. Try refreshing the page to see if that resolves it.": [
+            ""
+         ],
+         "Some error occured. Please retry!": [
+            ""
+         ],
+         "YES": [
+            ""
+         ],
+         "NO": [
+            ""
+         ],
+         "BULK ACTION": [
+            ""
+         ],
+         "FILTER": [
+            ""
+         ],
+         "clear all filters.": [
+            ""
+         ],
+         "Sort by and order": [
+            ""
+         ],
+         "Ascending": [
+            ""
+         ],
+         "Descending": [
+            ""
+         ],
+         "View Mode": [
+            ""
+         ],
+         "Exit fullscreen mode.": [
+            ""
+         ],
+         "Enter fullscreen mode.": [
+            ""
+         ],
+         "search items": [
+            ""
+         ],
+         "Please untrash the item to see the preview.": [
+            ""
+         ],
+         "Please select an item from the list and the preview will show up here.": [
+            ""
+         ],
+         "TABLE": [
+            ""
+         ],
+         "LIST": [
+            ""
+         ],
+         "UPDATE LOG": [
+            ""
+         ],
+         "OK": [
+            ""
+         ],
+         "Could not load update logs": [
+            ""
+         ],
+         "Reload": [
+            ""
+         ],
+         "On": [
+            ""
+         ],
+         "User Id": [
+            ""
+         ],
+         "User Name": [
+            ""
+         ],
+         "created on": [
+            ""
+         ],
+         "TRASH": [
+            ""
+         ],
+         "UNTRASH": [
+            ""
+         ],
+         "The form once deleted cannot be restored. Are you sure?": [
+            ""
+         ],
+         "DELETE": [
+            ""
+         ],
+         "VIEW": [
+            ""
+         ],
+         "SUBMISSIONS": [
+            ""
+         ],
+         "EDIT": [
+            ""
+         ],
+         "Exporting form, please wait...": [
+            ""
+         ],
+         "Successfully downloaded export code of form.": [
+            ""
+         ],
+         "Could not download the export code. Please check network connection and try again.": [
+            ""
+         ],
+         "DOWNLOAD FORM": [
+            ""
+         ],
+         "Duplicating form, please wait...": [
+            ""
+         ],
+         "Successfully duplicated the form. Redirecting...": [
+            ""
+         ],
+         "Some error has occured": [
+            ""
+         ],
+         "Could not duplicate the form. Please check network connection and try again.": [
+            ""
+         ],
+         "DUPLICATE FORM": [
+            ""
+         ],
+         "It has been visited %1$d time.": [
+            "",
+            "It has been visited %1$d times."
+         ],
+         "you": [
+            ""
+         ],
+         "Untitled form": [
+            ""
+         ],
+         "%1$d Submission": [
+            "",
+            "%1$d Submissions"
+         ],
+         "Filed under: ": [
+            ""
+         ],
+         "View forms only from this category": [
+            ""
+         ],
+         "A server side error has occured": [
+            ""
+         ],
+         "There was an error trying to fetch form data from the server. Try refreshing the page to see if that resolves it.": [
+            ""
+         ],
+         "Something went wrong when untrashing the forms.": [
+            ""
+         ],
+         "Dangerous operation ahead": [
+            ""
+         ],
+         "Forms once deleted permanently, cannot be restored. Are you sure?": [
+            ""
+         ],
+         "CANCEL": [
+            ""
+         ],
+         "Something went wrong when deleting the forms.": [
+            ""
+         ],
+         "Something went wrong when trashing the forms.": [
+            ""
+         ],
+         "Form Name": [
+            ""
+         ],
+         "Created": [
+            ""
+         ],
+         "Updated": [
+            ""
+         ],
+         "Owner": [
+            ""
+         ],
+         "Form Visits": [
+            ""
+         ],
+         "Submissions": [
+            ""
+         ],
+         "Categories": [
+            ""
+         ],
+         "Actions": [
+            ""
+         ],
+         "Unknown": [
+            ""
+         ],
+         "Category": [
+            ""
+         ],
+         "Deleted": [
+            ""
+         ],
+         "Ghost": [
+            ""
+         ],
+         " (you)": [
+            ""
+         ],
+         "OWNED": [
+            ""
+         ],
+         "Forms created by you.": [
+            ""
+         ],
+         "SHARED": [
+            ""
+         ],
+         "Forms shared with you by other users.": [
+            ""
+         ],
+         "ALL": [
+            ""
+         ],
+         "All forms from all users, you can access this because you are an administrator.": [
+            ""
+         ],
+         "TRASHED": [
+            ""
+         ],
+         "Trashed forms.": [
+            ""
+         ],
+         "Form Id": [
+            ""
+         ],
+         "Total Entries": [
+            ""
+         ],
+         "Form Owner": [
+            ""
+         ],
+         "No forms found.": [
+            ""
+         ],
+         "No forms found, please clear some of the filters.": [
+            ""
+         ],
+         "No forms shared with you.": [
+            ""
+         ],
+         "Trash is empty.": [
+            ""
+         ],
+         "Server Error": [
+            ""
+         ],
+         "forms": [
+            ""
+         ],
+         "form": [
+            ""
+         ],
+         "Forms": [
+            ""
+         ],
+         "please enter the submission id here": [
+            ""
+         ],
+         "Please enter a submission id.": [
+            ""
+         ],
+         "PREVIEW": [
+            ""
+         ],
+         "Boxy": [
+            ""
+         ],
+         "Material": [
+            ""
+         ],
+         "Dark mode": [
+            ""
+         ],
+         "Set dark mode behavior for this form.\n\n\t- **OFF** - Always show the light theme.\n\t- **AUTO** - Automatically show light or dark variant based on user preference.\n\t- **ALWAYS** - Always show the dark variant.\n\n\tIf your theme supports dark mode, then it is better to keep it to **AUTO**.": [
+            ""
+         ],
+         "Off": [
+            ""
+         ],
+         "Auto": [
+            ""
+         ],
+         "Always": [
+            ""
+         ],
+         "Default Theme": [
+            ""
+         ],
+         "Select the default theme used while creating a form, and for different system pages like summary page, user portal page etc.": [
+            ""
+         ],
+         "Default Style": [
+            ""
+         ],
+         "Select the default control theme used while creating a form, and for different system pages.": [
+            ""
+         ],
+         "Prevent third-party themes and plugins to override WPEForm style": [
+            ""
+         ],
+         "If enabled, forms, user portal, summary and everything by the plugin will be put under a `shadow root` on your page. This will prevent your theme's or any other plugin's CSS from overriding WPEForm styles.": [
+            ""
+         ],
+         "Custom CSS code": [
+            ""
+         ],
+         "Enter custom CSS code that will be added to the form, user portal and summary page applications. All our output are put inside a shadow root so that theme or other plugin's CSS cannot override the style. Adding style for WPEForm in theme's `style.css` will not modify it. But putting the CSS here will do it.": [
+            ""
+         ],
+         "Only CSS code entered here can affect your form, user portal or summary page.": [
+            ""
+         ],
+         "New Link": [
+            ""
+         ],
+         "Add link to include in the application.": [
+            ""
+         ],
+         "Link": [
+            ""
+         ],
+         "Custom CSS Links": [
+            ""
+         ],
+         "Copied!": [
+            ""
+         ],
+         "For further instruction please visit our documentation page.": [
+            ""
+         ],
+         "Setup script (copy this to the head of your site)": [
+            ""
+         ],
+         "The `integrity` and `crossorigin` attributes are used for [Subresource Integrity (SRI) checking](https://www.w3.org/TR/SRI/). **If you use the `integrity` attribute, be sure to update it when the plugin updates.**": [
+            ""
+         ],
+         "Alternetly you can embed the following JavaScript code directly": [
+            ""
+         ],
+         "Inlining the JavaScript code saves a request to your server and is only recommended for advanced users. You will need to update the code when plugin version or plan changes.": [
+            ""
+         ],
+         "Summary page": [
+            ""
+         ],
+         "Enter the ID of the page which contains the summary block or shortcode. Selecting none will fallback to WP EForm system generated page.": [
+            ""
+         ],
+         "use system generated standalone page": [
+            ""
+         ],
+         "User portal page": [
+            ""
+         ],
+         "Enter the ID of the page which contains the user portal block or shortcode. Selecting none will fallback to WP EForm system generated page.": [
+            ""
+         ],
+         "Sandbox admin pages": [
+            ""
+         ],
+         "Whether or not remove all third-party scripts and styles from admin pages managed by WPEForm. Enable this if you are seeing weird output in the admin area.": [
+            ""
+         ],
+         "if admin pages break after disabling this, go to the Standalone App and re-enable to fix.": [
+            ""
+         ],
+         "Prefer standalone admin pages": [
+            ""
+         ],
+         "If you want to go directly to the Standalone admin pages when navigating from WordPress Admin, enable this option.": [
+            ""
+         ],
+         "to go back to WordPress, click on the WordPress Admin from the top menu.": [
+            ""
+         ],
+         "Remove data after uninstall": [
+            ""
+         ],
+         "If enabled, then all data from database will be removed when you have uninstalled the plugin.": [
+            ""
+         ],
+         "WARNING: Enabling will cause data loss after uninstallation.": [
+            ""
+         ],
+         "Headless Mode": [
+            ""
+         ],
+         "Allow headless queries from the following domains": [
+            ""
+         ],
+         "Enter comma separated list of hostnames you trust forms will be hosted from. Use the wildcard `*` if you want to trust all domains. To render forms in headless mode, please follow [instructions here](https://www.wpeform.io/docs/advanced-topics/headless-mode/).": [
+            ""
+         ],
+         "must be full http(s) address, like `https://example.com` without trailing slash or paths. separate multiple hostnames with comma: eg `https://www.example.com,http://example.com`": [
+            ""
+         ],
+         "Need to enable headless mode": [
+            ""
+         ],
+         "To enable headless mode, edit your `wp-config.php` file, put the following snippet before the last line and **reload this page**.": [
+            ""
+         ],
+         "After that you will shown configuration and documentation for headless forms.": [
+            ""
+         ],
+         "HTML after opening <body> tag": [
+            ""
+         ],
+         "HTML to print right after the opening `<body>` tag of standalone pages, including form, summary and user portal.": [
+            ""
+         ],
+         "HTML before closing <body> tag": [
+            ""
+         ],
+         "HTML to print right before the closing `<body>` tag of standalone pages, including form, summary and user portal.": [
+            ""
+         ],
+         "HTML inside <head> tag": [
+            ""
+         ],
+         "HTML to print inside the `<head>` tag of standalone pages, including form, summary and user portal.": [
+            ""
+         ],
+         "System page title": [
+            ""
+         ],
+         "Title of the user portal system page. This does not affect the title of the page where you have published the block or shortcode. In case you have not setup a user portal page, then the one generated by this plugin is used and this title is used on that page.": [
+            ""
+         ],
+         "Primary label": [
+            ""
+         ],
+         "The main label or welcome text shown in user portal interface. It has the following format strings.\n\n- `%%USERNAME%%` - Name of the user.\n\nYou may use the format strings anywhere you want, or omit them.": [
+            ""
+         ],
+         "No submission message": [
+            ""
+         ],
+         "Message shown to the user, when there are no submissions.": [
+            ""
+         ],
+         "Secondary label": [
+            ""
+         ],
+         "For singular submission": [
+            ""
+         ],
+         "Secondary label shown when there is only 1 submission. It has the following format strings.\n\n- `%%SUBMISSIONS%%` - Submission count.\n- `%%SCOREAVG%%` - Average score obtained from all submissions.\n\nYou may use the format strings anywhere you want, or omit them.": [
+            ""
+         ],
+         "For multiple submissions": [
+            ""
+         ],
+         "Secondary label shown when there are more than one submissions. It has the following format strings.\n\n- `%%SUBMISSIONS%%` - Submission count.\n- `%%SCOREAVG%%` - Average score obtained from all submissions.\n\nYou may use the format strings anywhere you want, or omit them.": [
+            ""
+         ],
+         "Form label": [
+            ""
+         ],
+         "The label of the submission id input field of the form shown to the user, when the summary page is accessed directly.": [
+            ""
+         ],
+         "Once you click this button, the error overlay will popup. You can click the recover button to get back here.": [
+            ""
+         ],
+         "TEST SENTRY INTEGRATION": [
+            ""
+         ],
+         "Add DSN, enable back-end application, UPDATE settings and reload page to test integration.": [
+            ""
+         ],
+         "Enable sentry application monitoring": [
+            ""
+         ],
+         "[sentry](https://sentry.io) is an application monitoring platform. It helps you catch and track errors in WPEFORM application. This is recommended for advanced level users and agencies only. If you are using another plugin with Sentry monitoring, do NOT turn this on.": [
+            ""
+         ],
+         "Our application monitoring is powered by [sentry](https://sentry.io), and is lazily loaded when an error occurs.": [
+            ""
+         ],
+         "DSN (CLIENT KEY)": [
+            ""
+         ],
+         "Go to [sentry](https://sentry.io) > Settings > Project > (SDK SETUP) Client Keys (DSN) and copy the value of DSN here (starting with `https://`).": [
+            ""
+         ],
+         "Show feedback dialog on error": [
+            ""
+         ],
+         "Whether or not to show the sentry feedback dialog on error.": [
+            ""
+         ],
+         "Enable for front-end application": [
+            ""
+         ],
+         "Enable for Forms, Summary, User Portal and any other front facing part of WPEFORM application.": [
+            ""
+         ],
+         "Enable for back-end application": [
+            ""
+         ],
+         "Enable for all admin related part of WPEFORM application.": [
+            ""
+         ],
+         "Page title is required.": [
+            ""
+         ],
+         "This field is required.": [
+            ""
+         ],
+         "Form label is required.": [
+            ""
+         ],
+         "Appearance": [
+            ""
+         ],
+         "System": [
+            ""
+         ],
+         "Standalone Pages": [
+            ""
+         ],
+         "User Portal Page": [
+            ""
+         ],
+         "Summary Page": [
+            ""
+         ],
+         "Sentry Monitoring": [
+            ""
+         ],
+         "Enter submission id": [
+            ""
+         ],
+         "Settings updated successfully.": [
+            ""
+         ],
+         "Could not update settings. Please try again.": [
+            ""
+         ],
+         "Any unsaved changes will be lost. Are you sure?": [
+            ""
+         ],
+         "UPDATE": [
+            ""
+         ],
+         "Settings": [
+            ""
+         ],
+         "Edit settings affecting the whole site": [
+            ""
+         ],
+         "Server side error": [
+            ""
+         ],
+         "Some error occured while trying to fetch the settings. Please refresh the page to try again.": [
+            ""
+         ],
+         "Form submission is not available in preview mode.": [
+            ""
+         ],
+         "Editors": [
+            ""
+         ],
+         "We encountered an error trying to save the form. Please use the FORCE SAVE button below to see if it gone.": [
+            ""
+         ],
+         "Autosave is turned on and all your changes are being saved automatically.": [
+            ""
+         ],
+         "Autosave is turned off. You must save changes yourself.": [
+            ""
+         ],
+         "Auto Save": [
+            ""
+         ],
+         "Last saved %s...": [
+            ""
+         ],
+         "Created by": [
+            ""
+         ],
+         "on": [
+            ""
+         ],
+         "FORCE SAVE": [
+            ""
+         ],
+         "Hide form preview": [
+            ""
+         ],
+         "Show form preview": [
+            ""
+         ],
+         "Preview the form in new tab": [
+            ""
+         ],
+         "Undo": [
+            ""
+         ],
+         "Redo": [
+            ""
+         ],
+         "Back to all forms": [
+            ""
+         ],
+         "Saving": [
+            ""
+         ],
+         "Save": [
+            ""
+         ],
+         "Error while saving!": [
+            ""
+         ],
+         "Auto save is On!": [
+            ""
+         ],
+         "Auto save is Off!": [
+            ""
+         ],
+         "Error!": [
+            ""
+         ],
+         "Saving...": [
+            ""
+         ],
+         "!Saved": [
+            ""
+         ],
+         "Saved": [
+            ""
+         ],
+         "Not Saved!": [
+            ""
+         ],
+         "Builder": [
+            ""
+         ],
+         "Design & Behavior": [
+            ""
+         ],
+         "Logic": [
+            ""
+         ],
+         "Payment": [
+            ""
+         ],
+         "Permission": [
+            ""
+         ],
+         "Integration": [
+            ""
+         ],
+         "Pool": [
+            ""
+         ],
+         "Everything from Free.": [
+            ""
+         ],
+         "Show more": [
+            ""
+         ],
+         "Kindly ask your administrator to upgrade.": [
+            ""
+         ],
+         "The plan is not released yet. Please stay tuned.": [
+            ""
+         ],
+         "billed once": [
+            ""
+         ],
+         "billed annually": [
+            ""
+         ],
+         "billed monthly": [
+            ""
+         ],
+         "START FREE TRIAL": [
+            ""
+         ],
+         "14 Days free trial": [
+            ""
+         ],
+         "This feature is a part of the %1$s plan.": [
+            ""
+         ],
+         "Free": [
+            ""
+         ],
+         "Everything from %1$s.": [
+            ""
+         ],
+         "BROWSE PLANS": [
+            ""
+         ],
+         "UPGRADE NOW": [
+            ""
+         ],
+         "There has been some error in the application, as initialValues to ConfigTab was invalid.": [
+            ""
+         ],
+         "Nothing to show here. Please upgrade your plan.": [
+            ""
+         ],
+         "Integrations": [
+            ""
+         ],
+         "Payments": [
+            ""
+         ],
+         "Can edit submission": [
+            ""
+         ],
+         "Enable if you want the user to be able to edit the submission. Works only for logged in users.": [
+            ""
+         ],
+         "Impose time limit on edit": [
+            ""
+         ],
+         "If you want the user to be able to edit only after a certain amount of time, enable it here.": [
+            ""
+         ],
+         "Edit expiration time": [
+            ""
+         ],
+         "Enter the edit expiration time in minutes. Having 0 means it is always editable.": [
+            ""
+         ],
+         "MIN": [
+            ""
+         ],
+         "Notices": [
+            ""
+         ],
+         "Show notice if submitted": [
+            ""
+         ],
+         "Show a notice on top of the form, if it has been submitted already.": [
+            ""
+         ],
+         "Submitted notice": [
+            ""
+         ],
+         "The notice to show if already submitted.": [
+            ""
+         ],
+         "works for logged in user or if cookies are set.": [
+            ""
+         ],
+         "Count based": [
+            ""
+         ],
+         "Restrict submission based on total count?": [
+            ""
+         ],
+         "If you want to restrict submissions based on total count, increase the number here from `0`.": [
+            ""
+         ],
+         "Notice to show when limit has not reached": [
+            ""
+         ],
+         "This notice, if not empty, is shown always.": [
+            ""
+         ],
+         "Notice to show when limit reached": [
+            ""
+         ],
+         "This is notice is shown when limit is reached.": [
+            ""
+         ],
+         "Email Based": [
+            ""
+         ],
+         "Accepted submission per email?": [
+            ""
+         ],
+         "If you want to restrict submission count per email, put it here. `0` means no limit.": [
+            ""
+         ],
+         "Email Notice": [
+            ""
+         ],
+         "Notice to show when email restriction has reached.": [
+            ""
+         ],
+         "IP Based": [
+            ""
+         ],
+         "Accepted submission per IP?": [
+            ""
+         ],
+         "may not work if IP anonymization is active": [
+            ""
+         ],
+         "IP Notice": [
+            ""
+         ],
+         "Notice to show when IP restriction has reached.": [
+            ""
+         ],
+         "User Based": [
+            ""
+         ],
+         "Accepted submission per User?": [
+            ""
+         ],
+         "If you want to restrict submission count per user, put it here. `0` means no limit.": [
+            ""
+         ],
+         "works only for logged in user.": [
+            ""
+         ],
+         "User Notice": [
+            ""
+         ],
+         "Notice to show when User restriction has reached.": [
+            ""
+         ],
+         "Cookie Based": [
+            ""
+         ],
+         "Accepted submission based on cookie?": [
+            ""
+         ],
+         "If you want to restrict submission count based on Cookie, put it here. `0` means no limit.": [
+            ""
+         ],
+         "users can clear cookie to bypass this limit.": [
+            ""
+         ],
+         "Cookie Notice": [
+            ""
+         ],
+         "Notice to show when Cookie restriction has reached.": [
+            ""
+         ],
+         "Login Based": [
+            ""
+         ],
+         "Restriction based on login status": [
+            ""
+         ],
+         "If you want to impose restriction based on the login stauts of the current user, you can do it here.": [
+            ""
+         ],
+         "No restriction": [
+            ""
+         ],
+         "Must be logged in": [
+            ""
+         ],
+         "Must be logged out": [
+            ""
+         ],
+         "Message to show?": [
+            ""
+         ],
+         "This message is shown if the user is not logged in. You can use dynamic anchor tag `%LOGIN_LINK%` which will be handled by WordPress.": [
+            ""
+         ],
+         "This message is shown if the user is logged in. You can use dynamic anchor tag `%LOGOUT_LINK%` which will be handled by WordPress.": [
+            ""
+         ],
+         "Interval Based": [
+            ""
+         ],
+         "Time to wait before one can submit again": [
+            ""
+         ],
+         "Enter the time in **minutes** one has to wait before being able to submit again.": [
+            ""
+         ],
+         "users can clear the cookie to bypass this limit.": [
+            ""
+         ],
+         "Interval Notice": [
+            ""
+         ],
+         "Notice to show when Interval restriction has reached.": [
+            ""
+         ],
+         "Date Based": [
+            ""
+         ],
+         "Starts on": [
+            ""
+         ],
+         "Set submission start date and time.": [
+            ""
+         ],
+         "disabled": [
+            ""
+         ],
+         "Before start notice": [
+            ""
+         ],
+         "Notice shown to the user before start date.": [
+            ""
+         ],
+         "Ends on": [
+            ""
+         ],
+         "Set submission end date and time.": [
+            ""
+         ],
+         "After expire notice": [
+            ""
+         ],
+         "Notice shown to the user after expiration date.": [
+            ""
+         ],
+         "Form Access": [
+            ""
+         ],
+         "Limits": [
+            ""
+         ],
+         "Permissions": [
+            ""
+         ],
+         "select pages": [
+            ""
+         ],
+         "Untitled Page": [
+            ""
+         ],
+         "Add New Consequence": [
+            ""
+         ],
+         "Add some consequences to get started": [
+            ""
+         ],
+         "Consequence": [
+            ""
+         ],
+         "Do": [
+            ""
+         ],
+         "select an action": [
+            ""
+         ],
+         "SHOW ELEMENTS": [
+            ""
+         ],
+         "HIDE ELEMENTS": [
+            ""
+         ],
+         "SET VALUE OF": [
+            ""
+         ],
+         "SHOW PAGES": [
+            ""
+         ],
+         "HIDE PAGES": [
+            ""
+         ],
+         "The followings": [
+            ""
+         ],
+         "ELEMENTS TO SHOW": [
+            ""
+         ],
+         "ELEMENTS TO HIDE": [
+            ""
+         ],
+         "Of The Field": [
+            ""
+         ],
+         "Select an element": [
+            ""
+         ],
+         "TO": [
+            ""
+         ],
+         "set a value": [
+            ""
+         ],
+         "The following pages": [
+            ""
+         ],
+         "PAGES TO SHOW": [
+            ""
+         ],
+         "PAGES TO HIDE": [
+            ""
+         ],
+         "Add New Logic": [
+            ""
+         ],
+         "No Logics yet! Add some to get started.": [
+            ""
+         ],
+         "Given the following events": [
+            ""
+         ],
+         "Fire the following consequences": [
+            ""
+         ],
+         "Conditionals": [
+            ""
+         ],
+         "Change the title of the page. Will be shown on the tabs.": [
+            ""
+         ],
+         "Page title": [
+            ""
+         ],
+         "Change the subtitle of the page. Will be shown on the tabs.": [
+            ""
+         ],
+         "Page subtitle": [
+            ""
+         ],
+         "Change the icon for the page. Will be shown on the tabs.": [
+            ""
+         ],
+         "Page icon": [
+            ""
+         ],
+         "If enabled, this page will be initially hidden. You can change this from conditional logic.": [
+            ""
+         ],
+         "Initially hidden?": [
+            ""
+         ],
+         "Change the number of **seconds** for timer for this page. Works only if timer is activated.": [
+            ""
+         ],
+         "Page timer": [
+            ""
+         ],
+         "SECONDS": [
+            ""
+         ],
+         "You need to set TIMER (from Settings) as PAGE SPECIFIC to limit time for this page.": [
+            ""
+         ],
+         "Page title is required": [
+            ""
+         ],
+         "The page no longer exists. Please close the window.": [
+            ""
+         ],
+         "Close": [
+            ""
+         ],
+         "Cancel": [
+            ""
+         ],
+         "* kindly fix the errors marked red.": [
+            ""
+         ],
+         "The element no longer exists. Please close the window.": [
+            ""
+         ],
+         "The element is not registered and can not be configured.": [
+            ""
+         ],
+         "This element has nothing to be configured.": [
+            ""
+         ],
+         "This element is a part of the {neededPlan} plan.": [
+            ""
+         ],
+         "Back to Config": [
+            ""
+         ],
+         "CONFIG": [
+            ""
+         ],
+         "HELP": [
+            ""
+         ],
+         "Pool title": [
+            ""
+         ],
+         "Pool title is required": [
+            ""
+         ],
+         "The pool no longer exists. Please close the window.": [
+            ""
+         ],
+         "Page Configuration": [
+            ""
+         ],
+         "Pool Configuration": [
+            ""
+         ],
+         "Choice": [
+            ""
+         ],
+         "Input": [
+            ""
+         ],
+         "Design": [
+            ""
+         ],
+         "Security": [
+            ""
+         ],
+         "No elements found. Please try some other search.": [
+            ""
+         ],
+         "search elements": [
+            ""
+         ],
+         "Add Elements": [
+            ""
+         ],
+         "Hover on an element to learn about it, click to add to the curent position.": [
+            ""
+         ],
+         "Add New Element": [
+            ""
+         ],
+         "ADD NEW ELEMENT": [
+            ""
+         ],
+         "Untitled": [
+            ""
+         ],
+         "no where else to move, you can drag to rearrange.": [
+            ""
+         ],
+         "Parents": [
+            ""
+         ],
+         "Pages": [
+            ""
+         ],
+         "Elements": [
+            ""
+         ],
+         "Pools": [
+            ""
+         ],
+         "%s has no elements. Please add an element to continue.": [
+            ""
+         ],
+         "Current": [
+            ""
+         ],
+         "ADD NEW %s": [
+            ""
+         ],
+         "ELEMENT": [
+            ""
+         ],
+         "Set column size of the element": [
+            ""
+         ],
+         "Unmark the element required": [
+            ""
+         ],
+         "Mark the element required": [
+            ""
+         ],
+         "Show element initially": [
+            ""
+         ],
+         "Hide element initially": [
+            ""
+         ],
+         "Open configuration": [
+            ""
+         ],
+         "Duplicate this element": [
+            ""
+         ],
+         "Move to other places": [
+            ""
+         ],
+         "Add new element after this": [
+            ""
+         ],
+         "Are You Sure?": [
+            ""
+         ],
+         "This element will be deleted and if it has children, it will be moved to the default pool.": [
+            ""
+         ],
+         "Yes": [
+            ""
+         ],
+         "No": [
+            ""
+         ],
+         "Delete this element": [
+            ""
+         ],
+         "element title...": [
+            ""
+         ],
+         "The element no longer exists.": [
+            ""
+         ],
+         "DELETE ELEMENT": [
+            ""
+         ],
+         "CONFIGURE": [
+            ""
+         ],
+         "DUPLICATE": [
+            ""
+         ],
+         "ADD BEFORE": [
+            ""
+         ],
+         "ADD AFTER": [
+            ""
+         ],
+         "Are you sure?": [
+            ""
+         ],
+         "Menu": [
+            ""
+         ],
+         "The pool no longer exists. Please move to an existing pool or create a new pool.": [
+            ""
+         ],
+         "Please add a pool to continue.": [
+            ""
+         ],
+         "Add New Pool": [
+            ""
+         ],
+         "%s has no elements. Please add an element to start.": [
+            ""
+         ],
+         "No pools yet. Create one to get started": [
+            ""
+         ],
+         "NEW POOL": [
+            ""
+         ],
+         "This pool will be deleted and all the elements will be moved to the built in pool.": [
+            ""
+         ],
+         "The page no longer exists. Please move to an existing page or create a new page.": [
+            ""
+         ],
+         "Please add a page to continue.": [
+            ""
+         ],
+         "Add New Page": [
+            ""
+         ],
+         "No pages yet. Create one to get started": [
+            ""
+         ],
+         "NEW Page": [
+            ""
+         ],
+         "This page will be deleted and all the elements will be moved to the built in pool.": [
+            ""
+         ],
+         "You have unsaved changes": [
+            ""
+         ],
+         "If you navigate away from this page, then the changes in the element will be lost. Do you want to proceed anyway?": [
+            ""
+         ],
+         "If you navigate away from this page, then the changes in the page will be lost. Do you want to proceed anyway?": [
+            ""
+         ],
+         "Your changes are not saved and will be lost after closing the configuration window. Are you sure you want to exit?": [
+            ""
+         ],
+         "Your changes are not saved and will be lost after changing configuration window. Are you sure you want to configure another element without saving?": [
+            ""
+         ],
+         "Your changes are not saved and will be lost after changing configuration window. Are you sure you want to configure another page without saving?": [
+            ""
+         ],
+         "You have unsaved changes, are you sure you want to leave?": [
+            ""
+         ],
+         "You have unsaved changes with the form. If you leave the changes will be lost. Are you sure?": [
+            ""
+         ],
+         "You will lose the page configuration if you leave. Are you sure?": [
+            ""
+         ],
+         "You will lose the element configuration if you leave. Are you sure?": [
+            ""
+         ],
+         "You will lose the pool configuration if you leave. Are you sure?": [
+            ""
+         ],
+         "Page 1": [
+            ""
+         ],
+         "a subtitle goes here": [
+            ""
+         ],
+         "Could not save the form": [
+            ""
+         ],
+         "The form you are requesting, can not be found.": [
+            ""
+         ],
+         "Form not found": [
+            ""
+         ],
+         "Please enter category title": [
+            ""
+         ],
+         "Category title should have a minimum of 3 characters.": [
+            ""
+         ],
+         "Please enter category description": [
+            ""
+         ],
+         "Category description should have a minimum of 10 characters.": [
+            ""
+         ],
+         "Category Title": [
+            ""
+         ],
+         "Category Description": [
+            ""
+         ],
+         "Add Category": [
+            ""
+         ],
+         "Update Category": [
+            ""
+         ],
+         "Edit the form category": [
+            ""
+         ],
+         "Error updating the category": [
+            ""
+         ],
+         "Successfully updated the category": [
+            ""
+         ],
+         "Something went wrong, please try again!": [
+            ""
+         ],
+         "GraphQL error. Please try again": [
+            ""
+         ],
+         "Category not found": [
+            ""
+         ],
+         "Some error has occured and we could not fetch the results. Please go back and try again.": [
+            ""
+         ],
+         "Add a new form category": [
+            ""
+         ],
+         "Could not create the category": [
+            ""
+         ],
+         "Successfully created the category": [
+            ""
+         ],
+         "You can filter submissions by forms from the form page.": [
+            ""
+         ],
+         "Check it out.": [
+            ""
+         ],
+         "You can see forms, submissions, categories in list mode or table mode.": [
+            ""
+         ],
+         "Give it a try.": [
+            ""
+         ],
+         "When viewing submissions in table mode, you can filter by a form to see all form fields.": [
+            ""
+         ],
+         "You can change the default theme and style from settings.": [
+            ""
+         ],
+         "Go to settings.": [
+            ""
+         ],
+         "Administrators can change the default theme and style from settings.": [
+            ""
+         ],
+         "You can share forms and submissions with editors of your site by selecting them when editing a form.": [
+            ""
+         ],
+         "Assign forms to one or more categories to let submitters filter their submissions easily.": [
+            ""
+         ],
+         "You can always restore deleted forms, submissions and categories from the trash view.": [
+            ""
+         ],
+         "You can use sentry.io to monitor wpeform application pages and the GraphQL API.": [
+            ""
+         ],
+         "Go to settings to enable it now.": [
+            ""
+         ],
+         "wpeform uses GraphQL technology for the APIs and React (JS) for the application.": [
+            ""
+         ],
+         "Always download your important forms to prevent dataloss in case of a server crash.": [
+            ""
+         ],
+         "You can view all forms and submissions (not just created by you), by choosing \"ALL\" mode from listing pages.": [
+            ""
+         ],
+         "Check out what more wpeform has to offer with the premium version.": [
+            ""
+         ],
+         "Start your free trial now.": [
+            ""
+         ],
+         "Upgrade now.": [
+            ""
+         ],
+         "Good Afternoon": [
+            ""
+         ],
+         "Good Evening": [
+            ""
+         ],
+         "Good Morning": [
+            ""
+         ],
+         "ERROR: could not fetch submissions from the API.": [
+            ""
+         ],
+         "%%LOADER%% new submissions across %%LOADER%% forms in the last": [
+            ""
+         ],
+         "No new submissions in the last": [
+            ""
+         ],
+         "%%NEWSUB%% new submissions across %%FORM%% forms in the last": [
+            ""
+         ],
+         "Select number of days since today": [
+            ""
+         ],
+         "7 days": [
+            ""
+         ],
+         "15 days": [
+            ""
+         ],
+         "30 days": [
+            ""
+         ],
+         "100 days": [
+            ""
+         ],
+         "365 days": [
+            ""
+         ],
+         "NEW FORM": [
+            ""
+         ],
+         "VIEW SUBMISSIONS": [
+            ""
+         ],
+         "Show another tip": [
+            ""
+         ],
+         "User portal and summary pages are published within your site.": [
+            ""
+         ],
+         "User portal and summary pages are not set-up, fallback pages will be used. Kindly go to SETTINGS > SYSTEM to set them up.": [
+            ""
+         ],
+         "Pretty permalink is enabled and system pages from wpeform will have nice URLs.": [
+            ""
+         ],
+         "Pretty permalink is not enabled, while wpeform continues to work, we recommend to enable it to get nicer URLs. Go to SETTINGS > PERMALINK to enable.": [
+            ""
+         ],
+         "Your plugin wpeform v%s is functioning properly.": [
+            ""
+         ],
+         "Something seems to be wrong with plugin update. Kindly deactivate and activate to fix.": [
+            ""
+         ],
+         "You are running a supported version of PHP (%s).": [
+            ""
+         ],
+         "You are running an outdated version of PHP (%s).": [
+            ""
+         ],
+         "Plugin Status": [
+            ""
+         ],
+         "Refresh data": [
+            ""
+         ],
+         "Forms created": [
+            ""
+         ],
+         "TOTAL FORMS CREATED": [
+            ""
+         ],
+         "Forms viewed": [
+            ""
+         ],
+         "TOTAL VIEWS": [
+            ""
+         ],
+         "TOTAL SUBMISSIONS": [
+            ""
+         ],
+         "Conversion": [
+            ""
+         ],
+         "CONVERSION RATE": [
+            ""
+         ],
+         "Form View": [
+            ""
+         ],
+         "Form Submission": [
+            ""
+         ],
+         "Conversion %": [
+            ""
+         ],
+         "PERFORMING FORMS": [
+            ""
+         ],
+         "4 Forms": [
+            ""
+         ],
+         "10 Forms": [
+            ""
+         ],
+         "20 Forms": [
+            ""
+         ],
+         "Such emptiness!": [
+            ""
+         ],
+         "But fear not, create some forms, collect some submissions and beautiful statistics will show up here.": [
+            ""
+         ],
+         "view": [
+            ""
+         ],
+         "download": [
+            ""
+         ],
+         "LATEST SUBMISSIONS": [
+            ""
+         ],
+         "10 rows": [
+            ""
+         ],
+         "20 rows": [
+            ""
+         ],
+         "50 rows": [
+            ""
+         ],
+         "100 rows": [
+            ""
+         ],
+         "STOP POLLING": [
+            ""
+         ],
+         "5 SECONDS": [
+            ""
+         ],
+         "10 SECONDS": [
+            ""
+         ],
+         "15 SECONDS": [
+            ""
+         ],
+         "30 SECONDS": [
+            ""
+         ],
+         "60 SECONDS": [
+            ""
+         ],
+         "LIVE DATA": [
+            ""
+         ],
+         "SHOW LIVE": [
+            ""
+         ],
+         "Error fetching data.": [
+            ""
+         ],
+         "RETRY FETCH": [
+            ""
+         ],
+         "FORM": [
+            ""
+         ],
+         "NAME": [
+            ""
+         ],
+         "EMAIL": [
+            ""
+         ],
+         "SCORE": [
+            ""
+         ],
+         "ACTIONS": [
+            ""
+         ],
+         "10 weeks": [
+            ""
+         ],
+         "12 months": [
+            ""
+         ],
+         "Current Plan": [
+            ""
+         ],
+         "START TRIAL": [
+            ""
+         ],
+         "Creating an empty form, please wait...": [
+            ""
+         ],
+         "Successfully created the form, redirecting.": [
+            ""
+         ],
+         "Something went wrong and we could not create the form.": [
+            ""
+         ],
+         "minimum of 3 characters in length.": [
+            ""
+         ],
+         "You must enter a form name.": [
+            ""
+         ],
+         "enter form name here": [
+            ""
+         ],
+         "START FRESH": [
+            ""
+         ],
+         "Please select a template.": [
+            ""
+         ],
+         "Creating form from template, please wait...": [
+            ""
+         ],
+         "You must select a category.": [
+            ""
+         ],
+         "You must select a template.": [
+            ""
+         ],
+         "Form Template Category": [
+            ""
+         ],
+         "select category": [
+            ""
+         ],
+         "Form Template": [
+            ""
+         ],
+         "select template": [
+            ""
+         ],
+         "select category first": [
+            ""
+         ],
+         "START WITH TEMPLATE": [
+            ""
+         ],
+         "Cannot submit form in preview mode.": [
+            ""
+         ],
+         "click to reupload.": [
+            ""
+         ],
+         "upload is not supported in this browser.": [
+            ""
+         ],
+         "please wait...": [
+            ""
+         ],
+         "click here": [
+            ""
+         ],
+         "Importing the form, please wait...": [
+            ""
+         ],
+         "Successfully imported the form, redirecting.": [
+            ""
+         ],
+         "Could not import from the code.": [
+            ""
+         ],
+         "You must upload the form import code.": [
+            ""
+         ],
+         "Import Form": [
+            ""
+         ],
+         "paste form export code here...": [
+            ""
+         ],
+         "or to upload file": [
+            ""
+         ],
+         "IMPORT FROM CODE": [
+            ""
+         ],
+         "New Form": [
+            ""
+         ],
+         "Create a new form from scratch or template": [
+            ""
+         ],
+         "Create new form": [
+            ""
+         ],
+         "OR": [
+            ""
+         ],
+         "Form preview will show up here once you have selected a template.": [
+            ""
+         ],
+         "Title": [
+            ""
+         ],
+         "Description": [
+            ""
+         ],
+         "Total forms in this category": [
+            ""
+         ],
+         "The category once deleted cannot be restored. Are you sure?": [
+            ""
+         ],
+         "Id": [
+            ""
+         ],
+         "Name": [
+            ""
+         ],
+         "Forms Count": [
+            ""
+         ],
+         "VIEW ALL FORMS": [
+            ""
+         ],
+         "title": [
+            ""
+         ],
+         "description": [
+            ""
+         ],
+         "No categories found.": [
+            ""
+         ],
+         "No categories, please clear some of the filters.": [
+            ""
+         ],
+         "Could not preview the category.": [
+            ""
+         ],
+         "%1$d Form": [
+            "",
+            "%1$d Forms"
+         ],
+         "categories": [
+            ""
+         ],
+         "category": [
+            ""
+         ],
+         "Something went wrong when untrashing the categories.": [
+            ""
+         ],
+         "Categories once deleted permanently, cannot be restored. Are you sure?": [
+            ""
+         ],
+         "Something went wrong when deleting the categories.": [
+            ""
+         ],
+         "Something went wrong when trashing the categories.": [
+            ""
+         ],
+         "Solid": [
+            ""
+         ],
+         "Regular": [
+            ""
+         ],
+         "Brands": [
+            ""
+         ],
+         "search icons": [
+            ""
+         ],
+         "Show from all categories": [
+            ""
+         ],
+         "No fonts found. Try clearning the search or changing the category.": [
+            ""
+         ],
+         "Clear icon": [
+            ""
+         ],
+         "total %d icon": [
+            "",
+            "total %d icons"
+         ],
+         "Change mode between Font Awesome icon picker and custom class name.": [
+            ""
+         ],
+         "custom": [
+            ""
+         ],
+         "icon": [
+            ""
+         ],
+         "The submission once deleted cannot be restored. Are you sure?": [
+            ""
+         ],
+         "DOWNLOAD": [
+            ""
+         ],
+         "Show submissions from this form only.": [
+            ""
+         ],
+         "Something went wrong when untrashing the submissions.": [
+            ""
+         ],
+         "Submissions once deleted permanently, cannot be restored. Are you sure?": [
+            ""
+         ],
+         "Something went wrong when deleting the submissions.": [
+            ""
+         ],
+         "Something went wrong when trying to trash the submissions": [
+            ""
+         ],
+         "Token": [
+            ""
+         ],
+         "N/A": [
+            ""
+         ],
+         "Unknown element": [
+            ""
+         ],
+         "This element is conditionally hidden in the submission.": [
+            ""
+         ],
+         "hidden": [
+            ""
+         ],
+         "Unknown answer": [
+            ""
+         ],
+         "An error has occured while trying to fetch the form. ": [
+            ""
+         ],
+         "Email": [
+            ""
+         ],
+         "Phone": [
+            ""
+         ],
+         "Out Of": [
+            ""
+         ],
+         "%-age": [
+            ""
+         ],
+         "IP Addr": [
+            ""
+         ],
+         "Time": [
+            ""
+         ],
+         "Admin Remarks": [
+            ""
+         ],
+         "Referer": [
+            ""
+         ],
+         "Submission Owner": [
+            ""
+         ],
+         "Form owner": [
+            ""
+         ],
+         "Submissions from forms owned and managed by you.": [
+            ""
+         ],
+         "Submissions from forms owned by others but shared with you.": [
+            ""
+         ],
+         "All submissions from all forms, you can access this because you are an administrator.": [
+            ""
+         ],
+         "Trashed submissions.": [
+            ""
+         ],
+         "First Name": [
+            ""
+         ],
+         "Last Name": [
+            ""
+         ],
+         "Out of": [
+            ""
+         ],
+         "% Score": [
+            ""
+         ],
+         "Paid": [
+            ""
+         ],
+         "No submissions found.": [
+            ""
+         ],
+         "No submissions found, please clear some of the filters.": [
+            ""
+         ],
+         "No submissions from shared forms with you.": [
+            ""
+         ],
+         "submissions": [
+            ""
+         ],
+         "submission": [
+            ""
+         ],
+         "Filter by a form": [
+            ""
+         ],
+         "Unknown form": [
+            ""
+         ],
+         "View all Categories": [
+            ""
+         ],
+         "View all Forms": [
+            ""
+         ],
+         "View all Submissions": [
+            ""
+         ],
+         "View Submission": [
+            ""
+         ],
+         "ERROR": [
+            ""
+         ],
+         "enter your code": [
+            ""
+         ],
+         "ERROR: cannot render an element inside the same element.": [
+            ""
+         ],
+         "Rearrange": [
+            ""
+         ],
+         "Move up": [
+            ""
+         ],
+         "Move down": [
+            ""
+         ],
+         "Add new after this": [
+            ""
+         ],
+         " [PRIMARY]": [
+            ""
+         ],
+         "Are you sure? This can not be undone.": [
+            ""
+         ],
+         "Delete": [
+            ""
+         ],
+         "Form name": [
+            ""
+         ],
+         "Order Id": [
+            ""
+         ],
+         "Subscription frequency": [
+            ""
+         ],
+         "Subscription interval": [
+            ""
+         ],
+         "Payment Gateway": [
+            ""
+         ],
+         "Order Detail": [
+            ""
+         ],
+         "Payment Status": [
+            ""
+         ],
+         "Site Name": [
+            ""
+         ],
+         "Full Name": [
+            ""
+         ],
+         "Email Address": [
+            ""
+         ],
+         "Phone Number": [
+            ""
+         ],
+         "Total Submissions": [
+            ""
+         ],
+         "Highest Score Outcome Name": [
+            ""
+         ],
+         "Highest Score Outcome Description": [
+            ""
+         ],
+         "Highest Score Obtained": [
+            ""
+         ],
+         "Highest Score Outof": [
+            ""
+         ],
+         "Highest Score Designation": [
+            ""
+         ],
+         "Highest Score Designation Description": [
+            ""
+         ],
+         "Score Outcome Name for %s": [
+            ""
+         ],
+         "Score Outcome Description for %s": [
+            ""
+         ],
+         "Score Obtained for %s": [
+            ""
+         ],
+         "Score Outof for %s": [
+            ""
+         ],
+         "Score Designation for %s": [
+            ""
+         ],
+         "Score Designation Description for %s": [
+            ""
+         ],
+         "Remaining Submissions": [
+            ""
+         ],
+         "Start Date": [
+            ""
+         ],
+         "End Date": [
+            ""
+         ],
+         "Wait Time": [
+            ""
+         ],
+         "Reset Timer": [
+            ""
+         ],
+         "Redirect Time": [
+            ""
+         ],
+         "Link to administrate submission.": [
+            ""
+         ],
+         "Link to submission.": [
+            ""
+         ],
+         "Link to redirection after submission.": [
+            ""
+         ],
+         "Link to standalone form.": [
+            ""
+         ],
+         "Link to last submission, only for the notice.": [
+            ""
+         ],
+         "The element is required, kindly enter a value.": [
+            ""
+         ],
+         "Length of input must be %1$d, currently it is %2$d.": [
+            ""
+         ],
+         "Length of input can not be greater than %1$d, currently it is %2$d.": [
+            ""
+         ],
+         "No letters are allowed.": [
+            ""
+         ],
+         "No numbers are allowed.": [
+            ""
+         ],
+         "The email address is incorrect.": [
+            ""
+         ],
+         "Only integers are allowed.": [
+            ""
+         ],
+         "Only numbers are allowed.": [
+            ""
+         ],
+         "Minimum required value is %1$s, currently it is %2$s.": [
+            ""
+         ],
+         "Maximum allowed value is %1$s, currently it is %2$s.": [
+            ""
+         ],
+         "Please enter a valid phone number.": [
+            ""
+         ],
+         "Please enter a valid phone URL.": [
+            ""
+         ],
+         "Required, please select an option.": [
+            ""
+         ],
+         "A maximum of %1$d option(s) allowed, you have selected %2$d.": [
+            ""
+         ],
+         "A minimum of %1$d option(s) required, you have selected %2$d.": [
+            ""
+         ],
+         "Please fill in your custom choice.": [
+            ""
+         ],
+         "The captcha is required.": [
+            ""
+         ],
+         "The answer is incorrect. Correct answer would be %1$s.": [
+            ""
+         ],
+         "This checkbox is required.": [
+            ""
+         ],
+         "Please check this toggle element.": [
+            ""
+         ],
+         "Value cannot be less than {min}.": [
+            ""
+         ],
+         "Value cannot be greater than {max}.": [
+            ""
+         ],
+         "Value must be in the steps of {step}.": [
+            ""
+         ],
+         "Value {value} must be in the steps of {step}": [
+            ""
+         ],
+         "Minimum value {min} must be less than or equal to maximum value {max}.": [
+            ""
+         ],
+         "The rating is required.": [
+            ""
+         ],
+         "Please fill in the feedback.": [
+            ""
+         ],
+         "Rating value is greater than maximum.": [
+            ""
+         ],
+         "Required, please select at-least one option every row.": [
+            ""
+         ],
+         "Please enter a value.": [
+            ""
+         ],
+         "Value must not be less than %1$s.": [
+            ""
+         ],
+         "Value must not be greater than %1$s.": [
+            ""
+         ],
+         "Invalid value used in date time input.": [
+            ""
+         ],
+         "Please fill all the items in the table.": [
+            ""
+         ],
+         "Please fill in the address.": [
+            ""
+         ],
+         "Full": [
+            ""
+         ],
+         "3/4th": [
+            ""
+         ],
+         "2/3rd": [
+            ""
+         ],
+         "Half": [
+            ""
+         ],
+         "1/3rd": [
+            ""
+         ],
+         "1/4th": [
+            ""
+         ],
+         "Custom": [
+            ""
+         ],
+         "Primary title of the element.": [
+            ""
+         ],
+         "Secondary title of the element.": [
+            ""
+         ],
+         "Sub title": [
+            ""
+         ],
+         "element subtitle...": [
+            ""
+         ],
+         "If this is not empty, then we will show the this below element title and subtitle. A great place to add images, videos and other long explanatory text to your question. Unlike title and subtitle, this can be multi-line.": [
+            ""
+         ],
+         "element description...": [
+            ""
+         ],
+         "If enabled, then you can change this element's styles irrespective of the form settings.": [
+            ""
+         ],
+         "Customize element style": [
+            ""
+         ],
+         "If this is not empty, then a hint button will be shown alongside the form control. Upon clicking it will show the message.": [
+            ""
+         ],
+         "Hint message": [
+            ""
+         ],
+         "Select the icon which will be shown on the hint button.": [
+            ""
+         ],
+         "Hint icon": [
+            ""
+         ],
+         "Select tooltip of hint button.": [
+            ""
+         ],
+         "Hint Label": [
+            ""
+         ],
+         "If this is not empty, then it will be shown in submission report along with the users answer. If you want to put explanation text for right/wrong answers which you want to show only after submission, put it here.": [
+            ""
+         ],
+         "Answer description": [
+            ""
+         ],
+         "Whether or not to hide this element initially in the form. You can adjust the visibility with conditional logics.": [
+            ""
+         ],
+         "Custom HTML class name which will be applied to this element.": [
+            ""
+         ],
+         "CSS classname": [
+            ""
+         ],
+         "none": [
+            ""
+         ],
+         "Set the width of the element from a pre-defined list. These widths are responsive and will only take the given width when there is enough container space. If you want more fine grained control, then kindly select Manual and configure from there.": [
+            ""
+         ],
+         "Width": [
+            ""
+         ],
+         "The primary width of the element, initially set to 100%. Percentage value works against the width of the container, i.e, where the form is published. If you need different width at different screen size, then set the responsive widths in the next configuration.": [
+            ""
+         ],
+         "Basic width": [
+            ""
+         ],
+         "100%": [
+            ""
+         ],
+         "New Width Config": [
+            ""
+         ],
+         "No width preset yet, element will appear %s width on all screens.": [
+            ""
+         ],
+         "Responsive widths": [
+            ""
+         ],
+         "Matches the form container (not the whole viewport) minimum width.": [
+            ""
+         ],
+         "Container min width (px)": [
+            ""
+         ],
+         "Apply this width to the element if form container matches the minimum width.": [
+            ""
+         ],
+         "Element width": [
+            ""
+         ],
+         "enter your choice here": [
+            ""
+         ],
+         "No options selected.": [
+            ""
+         ],
+         "This group element is empty": [
+            ""
+         ],
+         "This row element is empty": [
+            ""
+         ],
+         "This column element is empty": [
+            ""
+         ],
+         "Scroll to top": [
+            ""
+         ],
+         "%d %s %d = ?": [
+            ""
+         ],
+         "Yes.": [
+            ""
+         ],
+         "No.": [
+            ""
+         ],
+         "Outcome": [
+            ""
+         ],
+         "Obtained": [
+            ""
+         ],
+         "Must provide a value.": [
+            ""
+         ],
+         "You can specify default value of the field here.": [
+            ""
+         ],
+         "Default value": [
+            ""
+         ],
+         "You can prefil value based on a number of parameters.\n- **URL Parameter** - Based on URL GET Parameters.\n- **User Meta** - Based on custom metadata stored in WordPress for current user.\n- **None** - Do not prefil value.\n": [
+            ""
+         ],
+         "Prefil type": [
+            ""
+         ],
+         "URL Parameter": [
+            ""
+         ],
+         "User Meta": [
+            ""
+         ],
+         "None": [
+            ""
+         ],
+         "Key of the prefil parameter.": [
+            ""
+         ],
+         "User meta key": [
+            ""
+         ],
+         "GET parameter key": [
+            ""
+         ],
+         "Required": [
+            ""
+         ],
+         "Whether this element can be edited by user.": [
+            ""
+         ],
+         "Readonly": [
+            ""
+         ],
+         "Quiz Performance": [
+            ""
+         ],
+         "Score conditions": [
+            ""
+         ],
+         "Add New Score": [
+            ""
+         ],
+         "This element will not contribute to any score. Add a score to start contributing to scores.": [
+            ""
+         ],
+         "If value": [
+            ""
+         ],
+         "IS": [
+            ""
+         ],
+         "IS NOT": [
+            ""
+         ],
+         "This": [
+            ""
+         ],
+         "compare value...": [
+            ""
+         ],
+         "Then": [
+            ""
+         ],
+         "ADD": [
+            ""
+         ],
+         "SUBTRACT": [
+            ""
+         ],
+         "To": [
+            ""
+         ],
+         "From": [
+            ""
+         ],
+         "Whether or not this element requires a valid value from user.": [
+            ""
+         ],
+         "A mask placeholder is required.": [
+            ""
+         ],
+         "A mask preset is required.": [
+            ""
+         ],
+         "A mask string is required.": [
+            ""
+         ],
+         "A mask RegEx is required.": [
+            ""
+         ],
+         "Mask type": [
+            ""
+         ],
+         "Enable masking on the input. Masking is a great way to selectively let the user enter proper text, like phone number, some Id etc.": [
+            ""
+         ],
+         "Choose from presets": [
+            ""
+         ],
+         "String mask": [
+            ""
+         ],
+         "Auto select from list of RegExp": [
+            ""
+         ],
+         "Mask preset": [
+            ""
+         ],
+         "Select from one of the presets provided by system.": [
+            ""
+         ],
+         "please select a preset.": [
+            ""
+         ],
+         "Mask string": [
+            ""
+         ],
+         "Enter a parsable string to be used as mask. Please check with documentation to learn more.": [
+            ""
+         ],
+         "please enter a string": [
+            ""
+         ],
+         "Add New RegExp": [
+            ""
+         ],
+         "Please add at-least one regular expression to get started.": [
+            ""
+         ],
+         "Regular expressions": [
+            ""
+         ],
+         "Expression": [
+            ""
+         ],
+         "Any valid JavaScript Regular Expression. This will be fed directly to `new RegExp`, so do not begin or end with `\\`.": [
+            ""
+         ],
+         "Case Sensitive?": [
+            ""
+         ],
+         "Whether or not the regular expression search would be case sensitive.": [
+            ""
+         ],
+         "Mask placeholder": [
+            ""
+         ],
+         "Character you would like to use to mask empty input.": [
+            ""
+         ],
+         "Always show mask?": [
+            ""
+         ],
+         "If disabled, will show mask characters only when in focus.": [
+            ""
+         ],
+         "Type": [
+            ""
+         ],
+         "Select the type of input the element would accept.": [
+            ""
+         ],
+         "Everything": [
+            ""
+         ],
+         "Valid email address": [
+            ""
+         ],
+         "Number only (integers and floats)": [
+            ""
+         ],
+         "Integer only": [
+            ""
+         ],
+         "Valid phone number": [
+            ""
+         ],
+         "Valid url (links)": [
+            ""
+         ],
+         "Everything except numbers": [
+            ""
+         ],
+         "Everything except letters": [
+            ""
+         ],
+         "Minimum length": [
+            ""
+         ],
+         "Minimum length of string input.": [
+            ""
+         ],
+         "Maximum length": [
+            ""
+         ],
+         "Minimum value": [
+            ""
+         ],
+         "Minimum value of numeric input.": [
+            ""
+         ],
+         "Maximum value": [
+            ""
+         ],
+         "Minimum number of options": [
+            ""
+         ],
+         "Minimum number of options user has to select.": [
+            ""
+         ],
+         "Maximum number of options": [
+            ""
+         ],
+         "Maximum number of options user can select.": [
+            ""
+         ],
+         "any": [
+            ""
+         ],
+         "Title is required": [
+            ""
+         ],
+         "Minimum container width is required.": [
+            ""
+         ],
+         "group container": [
+            ""
+         ],
+         "row container": [
+            ""
+         ],
+         "COLUMN": [
+            ""
+         ],
+         "column size container": [
+            ""
+         ],
+         "Heading icon": [
+            ""
+         ],
+         "Select the icon that will show up along side the heading.": [
+            ""
+         ],
+         "Size": [
+            ""
+         ],
+         "Set text size.": [
+            ""
+         ],
+         "Show dividing line": [
+            ""
+         ],
+         "If enabled, it will show a horizontal dividing line along-side the heading.": [
+            ""
+         ],
+         "Show scroll to top": [
+            ""
+         ],
+         "If enabled, it will show a scroll to top button along-side the heading.": [
+            ""
+         ],
+         "HTML tag": [
+            ""
+         ],
+         "Set HTML tag.": [
+            ""
+         ],
+         "Interface": [
+            ""
+         ],
+         "heading title subtitle article post": [
+            ""
+         ],
+         "If turned on, then the order of the option will be shuffled. But the others option will always appear last.": [
+            ""
+         ],
+         "Shuffle order": [
+            ""
+         ],
+         "Set the number of columns options will be arranged in. Auto means, it will adjust according to the available width.": [
+            ""
+         ],
+         "Column size": [
+            ""
+         ],
+         "Single column": [
+            ""
+         ],
+         "Two column": [
+            ""
+         ],
+         "Three column": [
+            ""
+         ],
+         "Four column": [
+            ""
+         ],
+         "Set icon for the dropdown control.": [
+            ""
+         ],
+         "Fill icon": [
+            ""
+         ],
+         "New Option": [
+            ""
+         ],
+         "No options yet, please add at-least one option to get started.": [
+            ""
+         ],
+         "Options": [
+            ""
+         ],
+         "Option Label": [
+            ""
+         ],
+         "Primary label of the option. If you want to use HTML or rich snippets, you need to edit the Rich Label. The primary label is used many places internally and should not be left blank.": [
+            ""
+         ],
+         "Label": [
+            ""
+         ],
+         "If this is not empty, then we will show this in the answer sheet alongside the label. If you want to put some explanation as related to this option, this is the place.": [
+            ""
+         ],
+         "Answer Description": [
+            ""
+         ],
+         "Assign a numeric value with the option. It will be used on mathematical evaluators.": [
+            ""
+         ],
+         "Numeric value": [
+            ""
+         ],
+         "Enable an option which user can select and enter custom text.": [
+            ""
+         ],
+         "Enable Free Input": [
+            ""
+         ],
+         "Select the option which is to be treated as others.": [
+            ""
+         ],
+         "Free input option": [
+            ""
+         ],
+         "select an option": [
+            ""
+         ],
+         "Enter the placeholder for the input field.": [
+            ""
+         ],
+         "Free Input placeholder": [
+            ""
+         ],
+         "Label is required for an option.": [
+            ""
+         ],
+         "Selection Range": [
+            ""
+         ],
+         "Attributes": [
+            ""
+         ],
+         "Validation": [
+            ""
+         ],
+         "checkbox multiple options": [
+            ""
+         ],
+         "radio single option one option": [
+            ""
+         ],
+         "Dropdown type": [
+            ""
+         ],
+         "If set to **Single**, user can choose only one option, if set to **Multiple**, user can choose more than one options.": [
+            ""
+         ],
+         "Single": [
+            ""
+         ],
+         "Multiple": [
+            ""
+         ],
+         "Select the icon which will be used to fill up the selected option.": [
+            ""
+         ],
+         "Icon": [
+            ""
+         ],
+         "Set the placeholder text to show when no items are selected.": [
+            ""
+         ],
+         "Placeholder": [
+            ""
+         ],
+         "Enable to show a search control in the dropdown menu.": [
+            ""
+         ],
+         "Show search?": [
+            ""
+         ],
+         "Set search input placeholder.": [
+            ""
+         ],
+         "Search placeholder": [
+            ""
+         ],
+         "Set the notice to show when no options show up after search.": [
+            ""
+         ],
+         "Empty search result notice": [
+            ""
+         ],
+         "select dropdown multiple options": [
+            ""
+         ],
+         "Alignment": [
+            ""
+         ],
+         "Set button alignment. Justify will make the buttons take up all space.": [
+            ""
+         ],
+         "LEFT": [
+            ""
+         ],
+         "CENTER": [
+            ""
+         ],
+         "RIGHT": [
+            ""
+         ],
+         "JUSTIFY": [
+            ""
+         ],
+         "Set button size.": [
+            ""
+         ],
+         "SMALL": [
+            ""
+         ],
+         "REGULAR": [
+            ""
+         ],
+         "LARGE": [
+            ""
+         ],
+         "Style": [
+            ""
+         ],
+         "Set button style.": [
+            ""
+         ],
+         "Rounded corner": [
+            ""
+         ],
+         "If enabled, buttons will have rounded corners.": [
+            ""
+         ],
+         "Colorful": [
+            ""
+         ],
+         "You can either have the buttons colored as theme's primary color or simple grey scale.": [
+            ""
+         ],
+         "Open link in": [
+            ""
+         ],
+         "Set where to open the link if buttons are assigned URLs.": [
+            ""
+         ],
+         "SELF": [
+            ""
+         ],
+         "NEW TAB": [
+            ""
+         ],
+         "POP UP": [
+            ""
+         ],
+         "Popup window width": [
+            ""
+         ],
+         "Width of the popup window.": [
+            ""
+         ],
+         "Popup window height": [
+            ""
+         ],
+         "Height of the popup window.": [
+            ""
+         ],
+         "New Button": [
+            ""
+         ],
+         "No buttons yet, please add at-least one button to get started.": [
+            ""
+         ],
+         "Buttons": [
+            ""
+         ],
+         "Label of the button.": [
+            ""
+         ],
+         "Icon to show beside the label.": [
+            ""
+         ],
+         "Set the position of the icon.": [
+            ""
+         ],
+         "Icon position": [
+            ""
+         ],
+         "Before": [
+            ""
+         ],
+         "After": [
+            ""
+         ],
+         "Link for the button. There are some special links which are treated differently.\n\n- `#wpeform-prev` - Go to the previous page of the form (if supported).\n- `#wpeform-next` - Go to the next page of the form (if supported).\n- `#wpeform-submit` - Submit the form (if possible).\n\nAny other link value will be treated as proper URL.\n": [
+            ""
+         ],
+         "buttons previous next submit": [
+            ""
+         ],
+         "This text is shown when the input is empty.": [
+            ""
+         ],
+         "Empty": [
+            ""
+         ],
+         "Icon of input control. Chose none to disable it.": [
+            ""
+         ],
+         "Input Mask": [
+            ""
+         ],
+         "Input Type": [
+            ""
+         ],
+         "text single line input": [
+            ""
+         ],
+         "text name first name person name input": [
+            ""
+         ],
+         "John": [
+            ""
+         ],
+         "A Single Line Input element fine tuned for collecting first name. Automatically sets user settings when you add it.": [
+            ""
+         ],
+         "Is this the submitting User's First Name?": [
+            ""
+         ],
+         "If yes, then it will be collected specially and stored directly in the model. It will show up later in submission list directly and you can use it as formatting values for email message etc. You can later change it from Settings > User Settings": [
+            ""
+         ],
+         "text name last name person name input": [
+            ""
+         ],
+         "Doe": [
+            ""
+         ],
+         "A Single Line Input element fine tuned for collecting last name. Automatically sets user settings when you add it.": [
+            ""
+         ],
+         "Is this the submitting User's Last Name?": [
+            ""
+         ],
+         "text email address e-mail address input": [
+            ""
+         ],
+         "Email address": [
+            ""
+         ],
+         "john.doe@example.com": [
+            ""
+         ],
+         "A Single Line Input element fine tuned for collecting email. Automatically sets user settings when you add it.": [
+            ""
+         ],
+         "Is this the submitting User's Email Address?": [
+            ""
+         ],
+         "text phone telephone mobile communication sms number input": [
+            ""
+         ],
+         "Phone number": [
+            ""
+         ],
+         "999 99 99": [
+            ""
+         ],
+         "A Single Line Input element fine tuned for collecting phone numbers. Automatically sets user settings when you add it.": [
+            ""
+         ],
+         "Filters": [
+            ""
+         ],
+         "textarea multiline input": [
+            ""
+         ],
+         "captcha security": [
+            ""
+         ],
+         "ACTIVE STATE": [
+            ""
+         ],
+         "Active label": [
+            ""
+         ],
+         "Label used when the toggle element is active or turned on.": [
+            ""
+         ],
+         "Active icon": [
+            ""
+         ],
+         "Icon to show when toggle element is active or turned on.": [
+            ""
+         ],
+         "INACTIVE STATE": [
+            ""
+         ],
+         "Inactive label": [
+            ""
+         ],
+         "Label used when the toggle element is inactive or turned off.": [
+            ""
+         ],
+         "Inactive icon": [
+            ""
+         ],
+         "Icon to show when toggle element is inactive or turned off.": [
+            ""
+         ],
+         "toggle switch on off zero one 0 1": [
+            ""
+         ],
+         "The minimum value slider would accept.": [
+            ""
+         ],
+         "The maximum value slider would accept.": [
+            ""
+         ],
+         "Step value": [
+            ""
+         ],
+         "Step value slider would provide.": [
+            ""
+         ],
+         "Decimal precision": [
+            ""
+         ],
+         "Decimal precision for the input.": [
+            ""
+         ],
+         "Show free input": [
+            ""
+         ],
+         "If enabled, a free number input would be shown alongside the slider.": [
+            ""
+         ],
+         "Show marks": [
+            ""
+         ],
+         "If enabled, then marks will be drawn alongside the slider track.": [
+            ""
+         ],
+         "New Mark": [
+            ""
+         ],
+         "Please add a mark to continue.": [
+            ""
+         ],
+         "Custom Marks": [
+            ""
+         ],
+         "Show label": [
+            ""
+         ],
+         "Label of the mark. Keep it short.": [
+            ""
+         ],
+         "When value is": [
+            ""
+         ],
+         "Index position of the mark. Starting from zero and stepping up to maximum value by step value.": [
+            ""
+         ],
+         "slider picker number drag spinner": [
+            ""
+         ],
+         "Checked": [
+            ""
+         ],
+         "Unchecked": [
+            ""
+         ],
+         "Checkbox icon": [
+            ""
+         ],
+         "Icon to show in the checkbox.": [
+            ""
+         ],
+         "checkbox terms conditions toggle switch on off zero one 0 1": [
+            ""
+         ],
+         "ERROR: The element with id %s does not exist": [
+            ""
+         ],
+         "This element is no longer accessible.": [
+            ""
+         ],
+         "You do not have an active license for the %1$s plan. Once the license is active, this element will show up again.": [
+            ""
+         ],
+         "ERROR: ": [
+            ""
+         ],
+         "You can try and dismiss this to see if it works.": [
+            ""
+         ],
+         "Count not load countries, please enter manually": [
+            ""
+         ],
+         "Country": [
+            ""
+         ],
+         "could not load states, please enter manually": [
+            ""
+         ],
+         "State": [
+            ""
+         ],
+         "select an element": [
+            ""
+         ],
+         "caption…": [
+            ""
+         ],
+         "Cannot submit a form in preview mode.": [
+            ""
+         ],
+         "EQUAL TO": [
+            ""
+         ],
+         "GREATER THAN": [
+            ""
+         ],
+         "LESS THAN": [
+            ""
+         ],
+         "CONTAINING": [
+            ""
+         ],
+         "STARTING WITH": [
+            ""
+         ],
+         "ENDING WITH": [
+            ""
+         ],
+         "Add New Event": [
+            ""
+         ],
+         "Add some events to get started": [
+            ""
+         ],
+         "Event": [
+            ""
+         ],
+         "If element": [
+            ""
+         ],
+         "Has": [
+            ""
+         ],
+         "select": [
+            ""
+         ],
+         "VALUE": [
+            ""
+         ],
+         "LENGTH": [
+            ""
+         ],
+         "WHICH IS": [
+            ""
+         ],
+         "WHICH IS NOT": [
+            ""
+         ],
+         "select a value to compare": [
+            ""
+         ],
+         "compare value": [
+            ""
+         ],
+         "length value": [
+            ""
+         ],
+         "set relation with next event": [
+            ""
+         ],
+         "AND": [
+            ""
+         ],
+         "Dismiss": [
+            ""
+         ],
+         "Numbered List (%s+%s+7)": [
+            ""
+         ],
+         "Bullet List (%s+%s+8)": [
+            ""
+         ],
+         "Block Quote (%s+%s+B)": [
+            ""
+         ],
+         "Heading One": [
+            ""
+         ],
+         "Heading Two (%s+%s+A)": [
+            ""
+         ],
+         "Heading Three (%s+%s+S)": [
+            ""
+         ],
+         "Heading Four (%s+%s+D)": [
+            ""
+         ],
+         "Heading Five": [
+            ""
+         ],
+         "Heading Six": [
+            ""
+         ],
+         "Code Block (%s+%s+9)": [
+            ""
+         ],
+         "Paragraph (%s+%s+P)": [
+            ""
+         ],
+         "Bold (%s+B)": [
+            ""
+         ],
+         "Italic (%s+I)": [
+            ""
+         ],
+         "Underline (%s+U)": [
+            ""
+         ],
+         "Strikethrough (%s+%s+X)": [
+            ""
+         ],
+         "Inline Code (%s+`)": [
+            ""
+         ],
+         "Super script": [
+            ""
+         ],
+         "Sub script": [
+            ""
+         ],
+         "REMOVE": [
+            ""
+         ],
+         "Edit Link": [
+            ""
+         ],
+         "Insert Link": [
+            ""
+         ],
+         "URL": [
+            ""
+         ],
+         "enter url here": [
+            ""
+         ],
+         "enter link title here": [
+            ""
+         ],
+         "Target": [
+            ""
+         ],
+         "__self": [
+            ""
+         ],
+         "Rel": [
+            ""
+         ],
+         "enter rel value here": [
+            ""
+         ],
+         "Insert link (%s+K)": [
+            ""
+         ],
+         "Insert/Edit Link": [
+            ""
+         ],
+         "Select Media": [
+            ""
+         ],
+         "Edit Media": [
+            ""
+         ],
+         "Insert Media": [
+            ""
+         ],
+         "Media link": [
+            ""
+         ],
+         "enter src here": [
+            ""
+         ],
+         "UPLOAD": [
+            ""
+         ],
+         "You can paste YouTube, Vimeo or Wistia URLs or any image, video or audio URL. You can also use WP Media to insert from your library.": [
+            ""
+         ],
+         "Caption text": [
+            ""
+         ],
+         "enter caption text here": [
+            ""
+         ],
+         "ALT text or Title": [
+            ""
+         ],
+         "enter alt text here": [
+            ""
+         ],
+         "Align left": [
+            ""
+         ],
+         "Align center": [
+            ""
+         ],
+         "Align right": [
+            ""
+         ],
+         "Media width": [
+            ""
+         ],
+         "width with unit": [
+            ""
+         ],
+         "Media height": [
+            ""
+         ],
+         "height with unit": [
+            ""
+         ],
+         "Media": [
+            ""
+         ],
+         "Edit": [
+            ""
+         ],
+         "Edit media": [
+            ""
+         ],
+         "Insert media": [
+            ""
+         ],
+         "Edit media element": [
+            ""
+         ],
+         "Delete media element": [
+            ""
+         ],
+         "Edit LaTeX": [
+            ""
+         ],
+         "Insert LaTeX": [
+            ""
+         ],
+         "LaTeX code": [
+            ""
+         ],
+         "enter latex formula here": [
+            ""
+         ],
+         "LaTeX": [
+            ""
+         ],
+         "Recall info from": [
+            ""
+         ],
+         "Recall": [
+            ""
+         ],
+         "Recall value from (@)": [
+            ""
+         ],
+         "clear color": [
+            ""
+         ],
+         "Align Left (%s+%s+L)": [
+            ""
+         ],
+         "Align Center (%s+%s+C)": [
+            ""
+         ],
+         "Align Right (%s+%s+R)": [
+            ""
+         ],
+         "Justify (%s+%s+J)": [
+            ""
+         ],
+         "total %d word": [
+            "",
+            "total %d words"
+         ],
+         "Enter URL": [
+            ""
+         ],
+         "Enter Media URL": [
+            ""
+         ],
+         "Invalid URL": [
+            ""
+         ],
+         "Enter LaTeX formula": [
+            ""
+         ],
+         "Help": [
+            ""
+         ],
+         "Using rich text editor": [
+            ""
+         ],
+         "Use the rich text editor to insert any rich snippet. Apart from regular snippets, following extra features are available.": [
+            ""
+         ],
+         "You can insert a recall information tag by writing @. This will show up in the actual form": [
+            ""
+         ],
+         "You can insert any media, YouTube, Wistia, DailyMotion, Vimeo or something from your WordPress library by the media button.": [
+            ""
+         ],
+         "You can insert mathematical formula using LaTeX, using the formula button.": [
+            ""
+         ],
+         "Most blocks and marks can be toggled with a shortcut key. Hover on the buttons to get the key.": [
+            ""
+         ],
+         "Markdown shortcuts": [
+            ""
+         ],
+         "Start a new line with the following characters to quickly insert a block.": [
+            ""
+         ],
+         "Heading one.": [
+            ""
+         ],
+         "Heading two.": [
+            ""
+         ],
+         "Heading three.": [
+            ""
+         ],
+         "Heading four.": [
+            ""
+         ],
+         "Heading five.": [
+            ""
+         ],
+         "Heading six.": [
+            ""
+         ],
+         "Bullet list.": [
+            ""
+         ],
+         "Numbered list.": [
+            ""
+         ],
+         "Block quote.": [
+            ""
+         ],
+         "Preformatted block.": [
+            ""
+         ],
+         "Enter some rich text…": [
+            ""
+         ],
+         "US phone number": [
+            ""
+         ],
+         "Mobile or telephone number.": [
+            ""
+         ],
+         "US Social Security Number (SSN)": [
+            ""
+         ],
+         "Digits only": [
+            ""
+         ],
+         "US Zip code": [
+            ""
+         ],
+         "Date MM-DD-YY": [
+            ""
+         ],
+         "Date YYYY-MM-DD": [
+            ""
+         ],
+         "Date DD/MM/YY": [
+            ""
+         ],
+         "Twitter URL": [
+            ""
+         ],
+         "Facebook URL": [
+            ""
+         ],
+         "Instagram URL": [
+            ""
+         ],
+         "General URL": [
+            ""
+         ],
+         "RGB or HEX color code": [
+            ""
+         ],
+         "RGB color code": [
+            ""
+         ],
+         "Search items": [
+            ""
+         ],
+         "No items found": [
+            ""
+         ],
+         "GO BACK": [
+            ""
+         ],
+         "REFRESH PAGE": [
+            ""
+         ],
+         "Select": [
+            ""
+         ],
+         "Set Image": [
+            ""
+         ],
+         "Remove": [
+            ""
+         ],
+         "Vertical": [
+            ""
+         ],
+         "Horizontal": [
+            ""
+         ],
+         "Inline": [
+            ""
+         ],
+         "Left": [
+            ""
+         ],
+         "Center": [
+            ""
+         ],
+         "Right": [
+            ""
+         ],
+         "Set how individual form elements will appear.": [
+            ""
+         ],
+         "Layout": [
+            ""
+         ],
+         "Set label and control layout.\n\n- **Vertical** - Vertically align labels and controls.\n- **Horizontal** - Horizontally align labels and controls.\n- **Inline** - Element title are shown as placeholders where applicable.": [
+            ""
+         ],
+         "Set alignment of label and form elements where applicable.": [
+            ""
+         ],
+         "FLAT": [
+            ""
+         ],
+         "3D BORDERED": [
+            ""
+         ],
+         "GRADIENT": [
+            ""
+         ],
+         "OUTLINE": [
+            ""
+         ],
+         "UNKNOWN ITEM": [
+            ""
+         ],
+         "Increase value": [
+            ""
+         ],
+         "Decrease value": [
+            ""
+         ],
+         "AUTH ERROR": [
+            ""
+         ],
+         "ERROR 404": [
+            ""
+         ],
+         "SERVER ERROR": [
+            ""
+         ],
+         "APP ERROR": [
+            ""
+         ],
+         "No %s found.": [
+            ""
+         ],
+         "No items found.": [
+            ""
+         ],
+         "Uncategorized": [
+            ""
+         ],
+         "Inherit from theme": [
+            ""
+         ],
+         "System UI": [
+            ""
+         ],
+         "System UI Mono": [
+            ""
+         ],
+         "Custom Font": [
+            ""
+         ],
+         "An error has occured in the application. It mostly happens because of network error. Please try the recover button and if that does not work, do a hard refresh.": [
+            ""
+         ],
+         "Recover": [
+            ""
+         ],
+         "Fixed width": [
+            ""
+         ],
+         "Fluid width": [
+            ""
+         ],
+         "Specify maximum width of your form in CSS unit. All css values like, 100% or 500px are accepted.": [
+            ""
+         ],
+         "Max width": [
+            ""
+         ],
+         "Container layout": [
+            ""
+         ],
+         "Set how the form container behaves with available space.\n\n- **Fixed Width** - Container will take a fixed width most optimizied for current screen size.\n- **Fluid Width** - Container will automatically take all available space.": [
+            ""
+         ],
+         "Can not be less than zero.": [
+            ""
+         ],
+         "Can not be greater than 4.": [
+            ""
+         ],
+         "Tabs & Progressbar": [
+            ""
+         ],
+         "If enabled, the form will show tabs for multi-paged forms.": [
+            ""
+         ],
+         "Show tabs": [
+            ""
+         ],
+         "If enabled, the form will show progress bar for multi-paged forms.": [
+            ""
+         ],
+         "Show progress bar": [
+            ""
+         ],
+         "Position the progress bar either on top or on bottom.": [
+            ""
+         ],
+         "Progress bar position": [
+            ""
+         ],
+         "Bottom": [
+            ""
+         ],
+         "Top": [
+            ""
+         ],
+         "Show progress value": [
+            ""
+         ],
+         "If enabled, it will show the numeric value along with the progress bar.": [
+            ""
+         ],
+         "Progress bar precision": [
+            ""
+         ],
+         "Mention to how many decimal points, should the progress bar value show up.": [
+            ""
+         ],
+         "Scroll Behavior": [
+            ""
+         ],
+         "Auto scroll": [
+            ""
+         ],
+         "Automatically scroll to the next field once current field is filled.": [
+            ""
+         ],
+         "Scroll Offset (px)": [
+            ""
+         ],
+         "Number of pixels from the top of the viewport. This is useful when you have sticky or fixed header etc.": [
+            ""
+         ],
+         "Pagination Behavior": [
+            ""
+         ],
+         "Auto pagination": [
+            ""
+         ],
+         "Automatically take to the next page once current page is filled and completely validated.": [
+            ""
+         ],
+         "Auto progress delay": [
+            ""
+         ],
+         "Number of milliseconds to wait before automatically taking to the next page.": [
+            ""
+         ],
+         "Auto submit": [
+            ""
+         ],
+         "Automatically submit the form, once the last page is filled and completely validated.": [
+            ""
+         ],
+         "Restrict pagination": [
+            ""
+         ],
+         "Restrict pagination based on the given condition. This may affect both next and previous pagination based on the condition selected.": [
+            ""
+         ],
+         "No Restrictions": [
+            ""
+         ],
+         "Next if valid": [
+            ""
+         ],
+         "Next and Previous if valid": [
+            ""
+         ],
+         "Block previous page": [
+            ""
+         ],
+         "Completely blocks navigation to the previous page.": [
+            ""
+         ],
+         "Navigation Buttons": [
+            ""
+         ],
+         "Use built-in page navigation?": [
+            ""
+         ],
+         "If enabled, it will make use of built-in form navigation panel.": [
+            ""
+         ],
+         "Navigation Buttons / General": [
+            ""
+         ],
+         "Barlike appearance": [
+            ""
+         ],
+         "If enabled, then buttons will appear in a bar like container with a proper colored background, depending on your configuration.": [
+            ""
+         ],
+         "Hide irrelevant buttons": [
+            ""
+         ],
+         "When a particular button is not relevant, like the NEXT button when there's no more page to go next, hide it instead of disabling it.": [
+            ""
+         ],
+         "Navigation Buttons / Previous Button": [
+            ""
+         ],
+         "Previous label": [
+            ""
+         ],
+         "Label of previous button.": [
+            ""
+         ],
+         "Previous Icon": [
+            ""
+         ],
+         "Previous icon position": [
+            ""
+         ],
+         "Icon position for the button.": [
+            ""
+         ],
+         "Navigation Buttons / Submit Button": [
+            ""
+         ],
+         "Submit label": [
+            ""
+         ],
+         "Label of Submit button.": [
+            ""
+         ],
+         "Submit Icon": [
+            ""
+         ],
+         "Submit icon position": [
+            ""
+         ],
+         "Navigation Buttons / Next Button": [
+            ""
+         ],
+         "Next label": [
+            ""
+         ],
+         "Label of Next button.": [
+            ""
+         ],
+         "Next Icon": [
+            ""
+         ],
+         "Next icon position": [
+            ""
+         ],
+         "Navigation Buttons / Update Button": [
+            ""
+         ],
+         "Update label": [
+            ""
+         ],
+         "Label of Update button.": [
+            ""
+         ],
+         "Update Icon": [
+            ""
+         ],
+         "Update icon position": [
+            ""
+         ],
+         "Navigation Buttons / Reset Button": [
+            ""
+         ],
+         "Show reset button": [
+            ""
+         ],
+         "If enabled, it will show a form reset button.": [
+            ""
+         ],
+         "Reset label": [
+            ""
+         ],
+         "Label of Reset button.": [
+            ""
+         ],
+         "Reset Icon": [
+            ""
+         ],
+         "Reset icon position": [
+            ""
+         ],
+         "Reset message": [
+            ""
+         ],
+         "Message shown to the user to confirm the reset action.": [
+            ""
+         ],
+         "Built-in navigation disabled": [
+            ""
+         ],
+         "Kindly add a Buttons element in every page.": [
+            ""
+         ],
+         "Custom background": [
+            ""
+         ],
+         "Enable custom background image on form.": [
+            ""
+         ],
+         "Background image": [
+            ""
+         ],
+         "Set background image here. This image will be shown all over the form body.": [
+            ""
+         ],
+         "Set background": [
+            ""
+         ],
+         "Background size": [
+            ""
+         ],
+         "Set CSS value of `background-size` attribute.": [
+            ""
+         ],
+         "Background position": [
+            ""
+         ],
+         "Set CSS value of `background-position` attribute.": [
+            ""
+         ],
+         "Background repeat": [
+            ""
+         ],
+         "Set CSS value of `background-repeat` attribute.": [
+            ""
+         ],
+         "Repeat both": [
+            ""
+         ],
+         "Repeat X": [
+            ""
+         ],
+         "Repeat Y": [
+            ""
+         ],
+         "Repeat none": [
+            ""
+         ],
+         "Background origin": [
+            ""
+         ],
+         "Set CSS value of `background-origin` attribute.": [
+            ""
+         ],
+         "Border Box": [
+            ""
+         ],
+         "Content Box": [
+            ""
+         ],
+         "Padding Box": [
+            ""
+         ],
+         "Background clip": [
+            ""
+         ],
+         "Set CSS value of `background-clip` attribute.": [
+            ""
+         ],
+         "Background attachment": [
+            ""
+         ],
+         "Set CSS value of `background-attachment` attribute.": [
+            ""
+         ],
+         "Scroll": [
+            ""
+         ],
+         "Fixed": [
+            ""
+         ],
+         "Local": [
+            ""
+         ],
+         "Set dark mode behavior for this form.\n\n- **OFF** - Always show the light theme.\n- **AUTO** - Automatically show light or dark variant based on user preference.\n- **ALWAYS** - Always show the dark variant.\n\nIf your theme supports dark mode, then it is better to keep it to **AUTO**.": [
+            ""
+         ],
+         "Color scheme": [
+            ""
+         ],
+         "Select form color scheme from the available ones.": [
+            ""
+         ],
+         "Custom primary color": [
+            ""
+         ],
+         "Set a color value to be used as the primary color in the form.": [
+            ""
+         ],
+         "Custom border color": [
+            ""
+         ],
+         "Set a color value to be used as the border and divider color in the form.": [
+            ""
+         ],
+         "Custom background color": [
+            ""
+         ],
+         "Set a color value to be used as the background color in the form.": [
+            ""
+         ],
+         "Custom text color": [
+            ""
+         ],
+         "Set a color value to be used as the text color in the form.": [
+            ""
+         ],
+         "Custom CSS": [
+            ""
+         ],
+         "Add any custom CSS you would want in the page where the form would be.": [
+            ""
+         ],
+         "enter custom css code here": [
+            ""
+         ],
+         "Can not be less than 12px.": [
+            ""
+         ],
+         "Font size base (px)": [
+            ""
+         ],
+         "Size of the body font. Rest will be calculated based on this.": [
+            ""
+         ],
+         "Body font": [
+            ""
+         ],
+         "Set form body and label `font-family`.": [
+            ""
+         ],
+         "Custom body font": [
+            ""
+         ],
+         "Enter CSS value of `font-family` here. You will have to make sure the font is available on the page.": [
+            ""
+         ],
+         "Heading font": [
+            ""
+         ],
+         "Set form heading and label `font-family`.": [
+            ""
+         ],
+         "Custom heading font": [
+            ""
+         ],
+         "Bold title font": [
+            ""
+         ],
+         "Enable to make title fonts bold.": [
+            ""
+         ],
+         "Italic subtitle font": [
+            ""
+         ],
+         "Enable to make subtitle fonts italic.": [
+            ""
+         ],
+         "Disable form auto complete": [
+            ""
+         ],
+         "Enable this if you want to turn off form auto complete.": [
+            ""
+         ],
+         "Feedbacks": [
+            ""
+         ],
+         "The following dynamic anchor links are available inside all of the editors below.": [
+            ""
+         ],
+         "Link to redirection after submission, if set.": [
+            ""
+         ],
+         "Link to current page.": [
+            ""
+         ],
+         "Link to user portal or browse submissions page, if set.": [
+            ""
+         ],
+         "Simply set a anchor tag as usual, and in the URL, you can set any of the mentioned values.": [
+            ""
+         ],
+         "New Submission Feedback": [
+            ""
+         ],
+         "Success subject": [
+            ""
+         ],
+         "Subject to show for successful submission feedback.": [
+            ""
+         ],
+         "Success message": [
+            ""
+         ],
+         "Message to show for successful submission feedback.": [
+            ""
+         ],
+         "Submission Update Feedback": [
+            ""
+         ],
+         "Update subject": [
+            ""
+         ],
+         "Subject to show for submission update feedback.": [
+            ""
+         ],
+         "Update message": [
+            ""
+         ],
+         "Message to show for submission update feedback.": [
+            ""
+         ],
+         "Errors & Retry": [
+            ""
+         ],
+         "Error UI title": [
+            ""
+         ],
+         "Title to show on the UI, when some error happens, like if submission fails.": [
+            ""
+         ],
+         "Retry button label": [
+            ""
+         ],
+         "Retry Icon": [
+            ""
+         ],
+         "Retry icon position": [
+            ""
+         ],
+         "Kiosk Mode": [
+            ""
+         ],
+         "Enable kiosk mode": [
+            ""
+         ],
+         "Auto reset form after submission.": [
+            ""
+         ],
+         "If enabled, then after a successful submission, the form will be reset automatically (after set interval). It will also disable any sort of redirection.": [
+            ""
+         ],
+         "Kiosk reset time": [
+            ""
+         ],
+         "seconds": [
+            ""
+         ],
+         "Mention time (in seconds) after which the form will be reset.": [
+            ""
+         ],
+         "Kiosk reset message": [
+            ""
+         ],
+         "Message to show when resetting for the kiosk mode.": [
+            ""
+         ],
+         "This will be appended after success message.": [
+            ""
+         ],
+         "Score percentage based logic": [
+            ""
+         ],
+         "Add New Condition": [
+            ""
+         ],
+         "No items present, Redirect to URL will be used.": [
+            ""
+         ],
+         "Score %": [
+            ""
+         ],
+         "Redirect To": [
+            ""
+         ],
+         "Redirect to URL": [
+            ""
+         ],
+         "If score": [
+            ""
+         ],
+         "percentage falls between": [
+            ""
+         ],
+         "and": [
+            ""
+         ],
+         "Total score based logic": [
+            ""
+         ],
+         "total falls between": [
+            ""
+         ],
+         "Condition based logic": [
+            ""
+         ],
+         "Condition": [
+            ""
+         ],
+         "For events": [
+            ""
+         ],
+         "Redirect after submission": [
+            ""
+         ],
+         "If you want the form to redirect to a specified URl after submission, enable the settings here.": [
+            ""
+         ],
+         "To View Submission Page": [
+            ""
+         ],
+         "To User Portal Page": [
+            ""
+         ],
+         "To Specified URL": [
+            ""
+         ],
+         "Based on Total Score Obtained": [
+            ""
+         ],
+         "Based on Percentage Score Obtained": [
+            ""
+         ],
+         "Based on Conditional logic": [
+            ""
+         ],
+         "URL to redirect to. In case score or conditional logic is active, this will be the URL used when no cases match.": [
+            ""
+         ],
+         "Redirection delay": [
+            ""
+         ],
+         "Delay in number of milliseconds before the user is actually redirected.": [
+            ""
+         ],
+         "Redirect message": [
+            ""
+         ],
+         "The message shown until the redirect is carried out. It is shown even if the delay is 0 because the browser may block automatic redirection based on user settings.": [
+            ""
+         ],
+         "Redirect parent if inside iframe": [
+            ""
+         ],
+         "If your form is inside an iFrame, then usually only the iframe would be redirected. But you can enable this setting to force redirect the parent instead. Only works if iframe parent has the same domain as the iframe itself.": [
+            ""
+         ],
+         "Messages & Behavior": [
+            ""
+         ],
+         "Pagination": [
+            ""
+         ],
+         "Redirection": [
+            ""
+         ],
+         "Background": [
+            ""
+         ],
+         "Theme": [
+            ""
+         ],
+         "Typography": [
+            ""
+         ],
+         "Email Config": [
+            ""
+         ],
+         "Send emails to": [
+            ""
+         ],
+         "Comma separated": [
+            ""
+         ],
+         "Enter comma separated list of emails like `person@example.com,person2@example.org` etc.": [
+            ""
+         ],
+         "From name": [
+            ""
+         ],
+         "Set email from name.": [
+            ""
+         ],
+         "Form email": [
+            ""
+         ],
+         "Set from email. Something under the domain from where you are sending the email from, otherwise it may bounce.": [
+            ""
+         ],
+         "Include full submission": [
+            ""
+         ],
+         "If enabled, it will include the whole submission in the email.": [
+            ""
+         ],
+         "Reply to user from email": [
+            ""
+         ],
+         "If enabled, you can reply to the email directly and it will go to the user. Works by setting `reply-to` header in the email.": [
+            ""
+         ],
+         "New Submission Notification": [
+            ""
+         ],
+         "Subject": [
+            ""
+         ],
+         "Set admin notification email's subject line for new submissions.": [
+            ""
+         ],
+         "Message": [
+            ""
+         ],
+         "Set admin notification email's message for new submissions.": [
+            ""
+         ],
+         "Update Notifications": [
+            ""
+         ],
+         "Set admin notification email's subject line for submission updates.": [
+            ""
+         ],
+         "Set admin notification email's message for submission updates.": [
+            ""
+         ],
+         "Email Layout": [
+            ""
+         ],
+         "Header": [
+            ""
+         ],
+         "Set Email Header HTML.": [
+            ""
+         ],
+         "Footer": [
+            ""
+         ],
+         "Set Email Footer HTML.": [
+            ""
+         ],
+         "Store logged in user id": [
+            ""
+         ],
+         "If enabled and if user is logged in while submitting the form, the submission will hold the record of the user visible to you.": [
+            ""
+         ],
+         "Store IP address": [
+            ""
+         ],
+         "If enabled, the IP address of the user will be logged and visible to you.": [
+            ""
+         ],
+         "Annonymize IP address": [
+            ""
+         ],
+         "If enabled, then the IP address will be obscured.": [
+            ""
+         ],
+         "First Name element": [
+            ""
+         ],
+         "Pick the element which would map to the First Name of the user submitting the form.": [
+            ""
+         ],
+         "please select an element": [
+            ""
+         ],
+         "Last Name element": [
+            ""
+         ],
+         "Pick the element which would map to the Last Name of the user submitting the form.": [
+            ""
+         ],
+         "Email element": [
+            ""
+         ],
+         "Pick the element which would map to the Email of the user submitting the form.": [
+            ""
+         ],
+         "Phone Number element": [
+            ""
+         ],
+         "Pick the element which would map to the Phone Number of the user submitting the form.": [
+            ""
+         ],
+         "View Online button": [
+            ""
+         ],
+         "If enabled, would show a VIEW ONLINE button after your message.": [
+            ""
+         ],
+         "Button text": [
+            ""
+         ],
+         "Text of VIEW ONLINE button.": [
+            ""
+         ],
+         "Show full submission": [
+            ""
+         ],
+         "Set user notification email's subject line for new submissions.": [
+            ""
+         ],
+         "Set user notification email's message for new submissions.": [
+            ""
+         ],
+         "User Update Notifications": [
+            ""
+         ],
+         "Set user notification email's subject line for submission updates.": [
+            ""
+         ],
+         "Set user notification email's message for submission updates.": [
+            ""
+         ],
+         "Admin Update Notifications": [
+            ""
+         ],
+         "Score precision": [
+            ""
+         ],
+         "Set decimal precision of score value.": [
+            ""
+         ],
+         "Scores List": [
+            ""
+         ],
+         "No scores list found. Please add one to get started.": [
+            ""
+         ],
+         "Score name": [
+            ""
+         ],
+         "Outcome name": [
+            ""
+         ],
+         "Outcome description": [
+            ""
+         ],
+         "Score Name": [
+            ""
+         ],
+         "Help Text": [
+            ""
+         ],
+         "Color": [
+            ""
+         ],
+         "Set the color of the score. This is used at various places to highlight. Especially useful for outcome like scoring system.": [
+            ""
+         ],
+         "OUTCOME": [
+            ""
+         ],
+         "If you want to have outcome based quizzes, this is where you define the outcome name. The default score name is for administrative purpose only and will not show up in the form result. But any outcome name you specify here will show up. Read our documentation to learn how to setup multiple outcome based scoring system like personality quizzes etc.": [
+            ""
+         ],
+         "Set the description of the outcome here.": [
+            ""
+         ],
+         "Designation description goes here": [
+            ""
+         ],
+         "Designation Name": [
+            ""
+         ],
+         "Add New Designation": [
+            ""
+         ],
+         "No designations found. Kindly add one to get started": [
+            ""
+         ],
+         "For score": [
+            ""
+         ],
+         "Set the score category for which this designation works.": [
+            ""
+         ],
+         "Designation true if score value is from...": [
+            ""
+         ],
+         "Designation true if score value is to...": [
+            ""
+         ],
+         "percent": [
+            ""
+         ],
+         "total": [
+            ""
+         ],
+         "Designation name": [
+            ""
+         ],
+         "Set name of the designation.": [
+            ""
+         ],
+         "Designation description": [
+            ""
+         ],
+         "Set description of the designation.": [
+            ""
+         ],
+         "Admin Notification": [
+            ""
+         ],
+         "User Data": [
+            ""
+         ],
+         "User Notification": [
+            ""
+         ],
+         "This math group is empty.": [
+            ""
+         ],
+         "enter your feedback here": [
+            ""
+         ],
+         "This group is empty.": [
+            ""
+         ],
+         "This slider group is empty.": [
+            ""
+         ],
+         "Unknown Row": [
+            ""
+         ],
+         "Unknown column": [
+            ""
+         ],
+         "Jan": [
+            ""
+         ],
+         "Feb": [
+            ""
+         ],
+         "Mar": [
+            ""
+         ],
+         "Apr": [
+            ""
+         ],
+         "May": [
+            ""
+         ],
+         "Jun": [
+            ""
+         ],
+         "Jul": [
+            ""
+         ],
+         "Aug": [
+            ""
+         ],
+         "Sep": [
+            ""
+         ],
+         "Oct": [
+            ""
+         ],
+         "Nov": [
+            ""
+         ],
+         "Dec": [
+            ""
+         ],
+         "YEAR": [
+            ""
+         ],
+         "YYYY": [
+            ""
+         ],
+         "MONTH": [
+            ""
+         ],
+         "DAY": [
+            ""
+         ],
+         "DD": [
+            ""
+         ],
+         "HR": [
+            ""
+         ],
+         "HOUR": [
+            ""
+         ],
+         "MINUTE": [
+            ""
+         ],
+         "SEC": [
+            ""
+         ],
+         "SECOND": [
+            ""
+         ],
+         "AM": [
+            ""
+         ],
+         "PM": [
+            ""
+         ],
+         "No user input.": [
+            ""
+         ],
+         "…": [
+            ""
+         ],
+         "Unknown row": [
+            ""
+         ],
+         "multiple group table star scale number emoji rating": [
+            ""
+         ],
+         "RATING ELEMENT": [
+            ""
+         ],
+         "Rating Item %1$d": [
+            ""
+         ],
+         "multiple group table elements": [
+            ""
+         ],
+         "Do you want to add some default elements?": [
+            ""
+         ],
+         "If you say yes, then we will add 4 random elements to the group. If you say no, you will not be asked this question again for this session.": [
+            ""
+         ],
+         "Item %1$d": [
+            ""
+         ],
+         "NO AND DON'T ASK ME AGAIN": [
+            ""
+         ],
+         "Shuffle items": [
+            ""
+         ],
+         "If enabled, items in the sortable list will be shuffled.": [
+            ""
+         ],
+         "Lock to vertical scroll": [
+            ""
+         ],
+         "If enabled, the items in the sortable can be dragged only over the vertical axis.": [
+            ""
+         ],
+         "NEW ITEM": [
+            ""
+         ],
+         "No items found. Please add one to get started.": [
+            ""
+         ],
+         "Sortable item": [
+            ""
+         ],
+         "Items": [
+            ""
+         ],
+         "ITEM": [
+            ""
+         ],
+         "Sortable items": [
+            ""
+         ],
+         "Enter the label of the item.": [
+            ""
+         ],
+         "sortable order drag-n-drop drag drop arrange arrangement": [
+            ""
+         ],
+         "CLEAR": [
+            ""
+         ],
+         "Set the icon used in radio or checkbox inside the matrix.": [
+            ""
+         ],
+         "Can select multiple columns in a row?": [
+            ""
+         ],
+         "If enabled, then user can select multiple items in a row. Otherwise, can select only one item per row.": [
+            ""
+         ],
+         "Table design": [
+            ""
+         ],
+         "Select type of the table.": [
+            ""
+         ],
+         "Stripped": [
+            ""
+         ],
+         "First column width": [
+            ""
+         ],
+         "Width of the first column, or also the heading column of every row.": [
+            ""
+         ],
+         "NEW ROW": [
+            ""
+         ],
+         "No rows found. Please add one to get started.": [
+            ""
+         ],
+         "Row": [
+            ""
+         ],
+         "Rows": [
+            ""
+         ],
+         "ROW": [
+            ""
+         ],
+         "Label of the row.": [
+            ""
+         ],
+         "NEW COLUMN": [
+            ""
+         ],
+         "No columns found. Please add one to get started.": [
+            ""
+         ],
+         "Column": [
+            ""
+         ],
+         "Columns": [
+            ""
+         ],
+         "Numeric value for this column item.": [
+            ""
+         ],
+         "Width of the column.": [
+            ""
+         ],
+         "matrix table tabular row column cell checkbox radio": [
+            ""
+         ],
+         "DATETIME": [
+            ""
+         ],
+         "FORMULA": [
+            ""
+         ],
+         "Picker type": [
+            ""
+         ],
+         "Set the type of the datetime picker.": [
+            ""
+         ],
+         "Date Only": [
+            ""
+         ],
+         "Date & Time": [
+            ""
+         ],
+         "Time Only": [
+            ""
+         ],
+         "Date Format": [
+            ""
+         ],
+         "Set the format of the date time picker.": [
+            ""
+         ],
+         "Time Format": [
+            ""
+         ],
+         "Set the time format, either 24hrs or 12hrs with am/pm.": [
+            ""
+         ],
+         "12 hours": [
+            ""
+         ],
+         "24 hours": [
+            ""
+         ],
+         "Date time separator": [
+            ""
+         ],
+         "Separator text between date and time.": [
+            ""
+         ],
+         "Hide seconds": [
+            ""
+         ],
+         "Enable this option to hide the seconds input field. The value will be set to 0 internally.": [
+            ""
+         ],
+         "Prefix icon": [
+            ""
+         ],
+         "Icon used in the datetime picker control.": [
+            ""
+         ],
+         "Show input labels": [
+            ""
+         ],
+         "Whether or not to show input labels below date input controls.": [
+            ""
+         ],
+         "Min value": [
+            ""
+         ],
+         "Set minimum value the user must enter.": [
+            ""
+         ],
+         "Max value": [
+            ""
+         ],
+         "Set maximum value the user can enter.": [
+            ""
+         ],
+         "date time datetime date-time calendar": [
+            ""
+         ],
+         "Multiline text input?": [
+            ""
+         ],
+         "If enabled, it will show a text-area instead of an input text.": [
+            ""
+         ],
+         "matrix table tabular row column cell text input textarea": [
+            ""
+         ],
+         "The minimum value range would accept.": [
+            ""
+         ],
+         "The maximum value range would accept.": [
+            ""
+         ],
+         "Step value range would provide.": [
+            ""
+         ],
+         "Range separator": [
+            ""
+         ],
+         "Separator used when displaying the range.": [
+            ""
+         ],
+         "If enabled, a free number input would be shown alongside the range.": [
+            ""
+         ],
+         "If enabled, then marks will be drawn alongside the range track.": [
+            ""
+         ],
+         "range picker number drag spinner multiple slider": [
+            ""
+         ],
+         "Highlighted": [
+            ""
+         ],
+         "Tabular": [
+            ""
+         ],
+         "Simple": [
+            ""
+         ],
+         "Formula": [
+            ""
+         ],
+         "Enter the mathematical formula. You can tag elements for any mathematical operation.": [
+            ""
+         ],
+         "enter mathematical formula": [
+            ""
+         ],
+         "Select the appearance type.": [
+            ""
+         ],
+         "Decimal precision to take when showing output.": [
+            ""
+         ],
+         "Decimal separator": [
+            ""
+         ],
+         "Decimal separator when formatting the output.": [
+            ""
+         ],
+         "Thousands separator": [
+            ""
+         ],
+         "Thousands separator when formatting the output.": [
+            ""
+         ],
+         "Prefix": [
+            ""
+         ],
+         "Custom prefix to show before the output.": [
+            ""
+         ],
+         "Suffix": [
+            ""
+         ],
+         "Custom suffix to show after the output.": [
+            ""
+         ],
+         "mathematical calculator calculation add subtract multiply divide science scientific": [
+            ""
+         ],
+         "multiple group table mathematical calculator calculation add subtract multiply divide science scientific": [
+            ""
+         ],
+         "MATH ELEMENT": [
+            ""
+         ],
+         "Product price": [
+            ""
+         ],
+         " USD": [
+            ""
+         ],
+         "Quantity": [
+            ""
+         ],
+         "Tax (@14%)": [
+            ""
+         ],
+         "Total for today": [
+            ""
+         ],
+         "Star Rating": [
+            ""
+         ],
+         "Scale Rating": [
+            ""
+         ],
+         "Icon Rating": [
+            ""
+         ],
+         "Emoji Rating": [
+            ""
+         ],
+         "Custom Rating": [
+            ""
+         ],
+         "Rating type": [
+            ""
+         ],
+         "Choose the type of the rating.\n\n- **Star Rating**: Shows a list of star icons.\n- **Scale Rating**: Shows a list of circle icons.\n- **Icon Rating**: Choose the icon shown in the list.\n- **Emoji Rating**: Shows five emojis to choose from.\n- **Custom Rating**: Add your own list of icons and order them the way you want.\n": [
+            ""
+         ],
+         "Rating icon": [
+            ""
+         ],
+         "Choose the icon to use for the rating element.": [
+            ""
+         ],
+         "Maximum rating value": [
+            ""
+         ],
+         "Choose the maximum number of rating icons to show. The value starts with 1.": [
+            ""
+         ],
+         "Show feedback if value is": [
+            ""
+         ],
+         "greater than": [
+            ""
+         ],
+         "equals to": [
+            ""
+         ],
+         "less than": [
+            ""
+         ],
+         "Feedback placeholder": [
+            ""
+         ],
+         "Placeholder/Label used in the feedback input.": [
+            ""
+         ],
+         "New Item": [
+            ""
+         ],
+         "No items found. Please add some items to get started.": [
+            ""
+         ],
+         "Rating": [
+            ""
+         ],
+         "Custom Ratings": [
+            ""
+         ],
+         "Set the icon for this rating item.": [
+            ""
+         ],
+         "Rating value starts from 1.": [
+            ""
+         ],
+         "star scale number emoji rating testimonial": [
+            ""
+         ],
+         "multiple group table slider picker number drag spinner": [
+            ""
+         ],
+         "SLIDER ELEMENT": [
+            ""
+         ],
+         "Slider Item %1$d": [
+            ""
+         ],
+         "multiple group table range picker number drag spinner multiple slider": [
+            ""
+         ],
+         "RANGE ELEMENT": [
+            ""
+         ],
+         "Range Item %1$d": [
+            ""
+         ],
+         "Show address line one": [
+            ""
+         ],
+         "Whether or not to show address field one.": [
+            ""
+         ],
+         "Line one placeholder": [
+            ""
+         ],
+         "The placeholder text used in address line one.": [
+            ""
+         ],
+         "Show address line two": [
+            ""
+         ],
+         "Whether or not to show address field two.": [
+            ""
+         ],
+         "Line two placeholder": [
+            ""
+         ],
+         "The placeholder text used in address line two.": [
+            ""
+         ],
+         "Show country": [
+            ""
+         ],
+         "Whether or not to show country field.": [
+            ""
+         ],
+         "Country placeholder": [
+            ""
+         ],
+         "The placeholder text used in address country field.": [
+            ""
+         ],
+         "Could not load countries data. Please retry.": [
+            ""
+         ],
+         "Retry": [
+            ""
+         ],
+         "Restrict countries to": [
+            ""
+         ],
+         "If enabled, the country field will only accept from the given list of countries.": [
+            ""
+         ],
+         "Show state": [
+            ""
+         ],
+         "Whether or not to show state field.": [
+            ""
+         ],
+         "State placeholder": [
+            ""
+         ],
+         "The placeholder text used in address state field.": [
+            ""
+         ],
+         "Show city": [
+            ""
+         ],
+         "Whether or not to show city field.": [
+            ""
+         ],
+         "City placeholder": [
+            ""
+         ],
+         "The placeholder text used in address city field.": [
+            ""
+         ],
+         "Show zip": [
+            ""
+         ],
+         "Whether or not to show zip field.": [
+            ""
+         ],
+         "Zip placeholder": [
+            ""
+         ],
+         "The placeholder text used in address zip field.": [
+            ""
+         ],
+         "Disable icons in fields": [
+            ""
+         ],
+         "If enabled, no icons will be shown in the fields.": [
+            ""
+         ],
+         "address city country state county zip post": [
+            ""
+         ],
+         "Enable MailChimp integration": [
+            ""
+         ],
+         "If you would like to send submissions data to your mailchimp list, kindly enable it here.": [
+            ""
+         ],
+         "API key": [
+            ""
+         ],
+         "Enter MailChimp API key. It can be found under Account > Extra > API Keys. You can also [visit this url](https://us8.admin.mailchimp.com/account/api/).": [
+            ""
+         ],
+         "Could not load your MailChimp lists. Make sure the API key is correct.": [
+            ""
+         ],
+         "Please enter your MailChimp API key to get started.": [
+            ""
+         ],
+         "Double Opt In": [
+            ""
+         ],
+         "Enable this to have double opt it, i.e, the user must confirm from their own email address to get added to the list. This reduces spam.": [
+            ""
+         ],
+         "Add to lists": [
+            ""
+         ],
+         "Select all the lists you would like to add the subscriber to.": [
+            ""
+         ],
+         "select lists": [
+            ""
+         ],
+         "Tags": [
+            ""
+         ],
+         "Add tags to the subscriber. You can have many tags separated by comma.": [
+            ""
+         ],
+         "Add New Field": [
+            ""
+         ],
+         "No custom data will be sent, add some to get started": [
+            ""
+         ],
+         "Send following additional merge fields": [
+            ""
+         ],
+         "Field": [
+            ""
+         ],
+         "Merge field id": [
+            ""
+         ],
+         "Enter the MERGE FIELD ID here. Make sure your list is configured to accept this merge field.": [
+            ""
+         ],
+         "enter merge field id here": [
+            ""
+         ],
+         "From element": [
+            ""
+         ],
+         "Select the element from which the value is to be mapped.": [
+            ""
+         ],
+         "MailChimp": [
+            ""
+         ],
+         "On Success": [
+            ""
+         ],
+         "Message and email subject shown when the payment is successful.": [
+            ""
+         ],
+         "Body": [
+            ""
+         ],
+         "Message and email body shown when the payment is successful.": [
+            ""
+         ],
+         "On Error": [
+            ""
+         ],
+         "Message and email subject shown when the payment fails.": [
+            ""
+         ],
+         "Message and email body shown when the payment fails": [
+            ""
+         ],
+         "On Cancel": [
+            ""
+         ],
+         "Message and email subject shown when the payment is cancelled.": [
+            ""
+         ],
+         "Message and email body shown when the payment is cancelled": [
+            ""
+         ],
+         "On Retry": [
+            ""
+         ],
+         "Subject Prefix": [
+            ""
+         ],
+         "A prefix appended before email subjects to indicate this payment process is a retry effort.": [
+            ""
+         ],
+         "Add New Coupon": [
+            ""
+         ],
+         "No coupons, add some to get started.": [
+            ""
+         ],
+         "Coupon": [
+            ""
+         ],
+         "Coupon code": [
+            ""
+         ],
+         "Add the coupon code here.": [
+            ""
+         ],
+         "Discount type": [
+            ""
+         ],
+         "Select type of the coupon.": [
+            ""
+         ],
+         "Percentage": [
+            ""
+         ],
+         "Amount": [
+            ""
+         ],
+         "Percentage amount": [
+            ""
+         ],
+         "Discount amount": [
+            ""
+         ],
+         "Set the value of discount.": [
+            ""
+         ],
+         "If minimum cart amount is": [
+            ""
+         ],
+         "Set the minimum cart amount for which this coupon will be activated.": [
+            ""
+         ],
+         "Enable payment?": [
+            ""
+         ],
+         "If you wish to collect payment along with the form, kindly enable it here first.": [
+            ""
+         ],
+         "Primary settings": [
+            ""
+         ],
+         "Amount formula": [
+            ""
+         ],
+         "Formula to calculate payment amount.": [
+            ""
+         ],
+         "Payment type": [
+            ""
+         ],
+         "Set type of payment, could be One time checkout or subscription.": [
+            ""
+         ],
+         "One time checkout": [
+            ""
+         ],
+         "Subscription": [
+            ""
+         ],
+         "Active Payment gateways": [
+            ""
+         ],
+         "Select all active payment gateways that you would like to show in the form.": [
+            ""
+         ],
+         "Select gateways": [
+            ""
+         ],
+         "Default payment gateway": [
+            ""
+         ],
+         "Set the default gateway to be selected on the form.": [
+            ""
+         ],
+         "Subscription Statement on Order": [
+            ""
+         ],
+         "Set the statement for the subscription. It will appear in the Order details and make sure it has payment frequency and interval marked.": [
+            ""
+         ],
+         "Lock submission": [
+            ""
+         ],
+         "Lock submission access from user, until payment is successful. Useful for paid quiz or survey results etc.": [
+            ""
+         ],
+         "Lock message": [
+            ""
+         ],
+         "Message to show when submission access is locked.": [
+            ""
+         ],
+         "Currency": [
+            ""
+         ],
+         "Currency code": [
+            ""
+         ],
+         "Currency code as accepted by the Payment Gateways.": [
+            ""
+         ],
+         "Zero decimal?": [
+            ""
+         ],
+         "Enable if the lowest unit of the currency is not 10 times the regular unit. For example, in case of USD, the regular unit _dollar_ is 10 times the smallest unit _cent_, hence it is **NOT** a zero decimal currency. For most use cases, you need to keep it disabled.": [
+            ""
+         ],
+         "keep disabled for most currencies, [learn more](https://stripe.com/docs/currencies#presentment-currencies).": [
+            ""
+         ],
+         "Currency prefix": [
+            ""
+         ],
+         "Text to append before the currency.": [
+            ""
+         ],
+         "Currency suffix": [
+            ""
+         ],
+         "Text to append after the currency.": [
+            ""
+         ],
+         "Order Details": [
+            ""
+         ],
+         "Order ID format": [
+            ""
+         ],
+         "Customize Order ID here. `::id::` is replaced by the automated Order Id and `::date::` is replaced by the order date in `YYYY-MM-DD` format.": [
+            ""
+         ],
+         "Item SKU": [
+            ""
+         ],
+         "SKU text that should display in the Order detail.": [
+            ""
+         ],
+         "enter unique sku": [
+            ""
+         ],
+         "Item name": [
+            ""
+         ],
+         "Name of the item to be displayed in the Order detail. You can recall any form element result in here.": [
+            ""
+         ],
+         "Item description": [
+            ""
+         ],
+         "Description of the item to be displayed in the Order detail.": [
+            ""
+         ],
+         "Gateway label": [
+            ""
+         ],
+         "Payment gateway label as shown in the form.": [
+            ""
+         ],
+         "Payment instruction": [
+            ""
+         ],
+         "Payment instruction which shows up in the checkout form. Give users your offline payment collection details (like Bank, Money order etc).": [
+            ""
+         ],
+         "Default order status": [
+            ""
+         ],
+         "Default status shown in the Order details when the payment is not marked as complete. You can mark it complete from the admin area.": [
+            ""
+         ],
+         "General": [
+            ""
+         ],
+         "Notifications": [
+            ""
+         ],
+         "Coupons": [
+            ""
+         ],
+         "Offline": [
+            ""
+         ],
+         "Timer": [
+            ""
+         ],
+         "Submission timer": [
+            ""
+         ],
+         "If you want to restrict the time for users, enable it here. Once the time runs out the form will be submitted automatically.": [
+            ""
+         ],
+         "You can set time limit in individual page configuration.": [
+            ""
+         ],
+         "Overall form timer": [
+            ""
+         ],
+         "Page specific timer": [
+            ""
+         ],
+         "Show timer": [
+            ""
+         ],
+         "If enabled a timer interface with countdown will be shown along the form.": [
+            ""
+         ],
+         "Time limit": [
+            ""
+         ],
+         "Enter the time limit in **seconds** before the form automatically submits.": [
+            ""
+         ],
+         "Timer message": [
+            ""
+         ],
+         "Message shown within the timer UI.": [
+            ""
+         ],
+         "Stopwatch": [
+            ""
+         ],
+         "Record submission time": [
+            ""
+         ],
+         "If enabled, EForm will record the time (in seconds) needed by the user to submit the form. It can work independently with the timer feature above.": [
+            ""
+         ],
+         "Show stopwatch": [
+            ""
+         ],
+         "If enabled will show a stopwatch interface along the form.": [
+            ""
+         ],
+         "Enable URL parameter based tracking": [
+            ""
+         ],
+         "Enable a tracking of submission based on URL parameter. You can specify the URL parameter name (as in a `GET` request) and what ever value is passed when opening the page, will be stored with the submission.": [
+            ""
+         ],
+         "URL parameter": [
+            ""
+         ],
+         "Enter here the parameter name. Form example, in the URL: `https://example.com/path/to/form?tid=emailMarketing`, if you want to store the value of the GET parameter `tid` (which is emailMarketing), enter `tid` here.": [
+            ""
+         ],
+         "In the URL **%1$s**, the value **someTrackingValue** will be stored, where the URL points to the form.": [
+            ""
+         ],
+         "Tracking": [
+            ""
+         ],
+         "WordPress Admin": [
+            ""
+         ],
+         "Standalone Admin": [
+            ""
+         ],
+         "Dashboard": [
+            ""
+         ],
+         "Back to Dashboard": [
+            ""
+         ],
+         "10 items": [
+            ""
+         ],
+         "20 items": [
+            ""
+         ],
+         "30 items": [
+            ""
+         ],
+         "40 items": [
+            ""
+         ],
+         "per page": [
+            ""
+         ],
+         "no results found.": [
+            ""
+         ],
+         "Go previous": [
+            ""
+         ],
+         "Go next": [
+            ""
+         ],
+         "Sort by": [
+            ""
+         ],
+         "to": [
+            ""
+         ],
+         "filter by a form": [
+            ""
+         ],
+         "no forms found.": [
+            ""
+         ],
+         "search forms": [
+            ""
+         ],
+         "filter by a category": [
+            ""
+         ],
+         "no categories found.": [
+            ""
+         ],
+         "search categories": [
+            ""
+         ],
+         "filter by date": [
+            ""
+         ],
+         "start / end date": [
+            ""
+         ],
+         "FILTERS": [
+            ""
+         ],
+         "LOGOUT": [
+            ""
+         ],
+         "Submission created %%CREATEDATE%%.": [
+            ""
+         ],
+         "Last updated %%UPDATEDATE%%.": [
+            ""
+         ],
+         "You have obtained %%SCORE%% / %%TOTALSCORE%%.": [
+            ""
+         ],
+         "ADMIN REMARKS": [
+            ""
+         ],
+         "You do not have any submissions yet.": [
+            ""
+         ],
+         "No submissions found for selected filters. Try clearing them.": [
+            ""
+         ],
+         "CLEAR FILTERS": [
+            ""
+         ],
+         "No submissions founds. Try clearing the search.": [
+            ""
+         ],
+         "CLEAR SEARCH": [
+            ""
+         ],
+         "Could not fetch submissions.": [
+            ""
+         ],
+         "There was some error trying to fetch data. Please refresh the page and see if that resolves the issue.": [
+            ""
+         ],
+         "Please select a submission to preview it here.": [
+            ""
+         ],
+         "Submission": [
+            ""
+         ],
+         "search submissions": [
+            ""
+         ],
+         "Could not load submissions page.": [
+            ""
+         ],
+         "There was an error trying to fetch submissions data from the server. Make sure you are logged in and try refreshing the page to see if that resolves it.": [
+            ""
+         ],
+         "Welcome %%USERNAME%%": [
+            ""
+         ],
+         "You have %%SUBMISSIONS%% submission, with an average score of %%SCOREAVG%%%.": [
+            ""
+         ],
+         "You have %%SUBMISSIONS%% submissions, with an average score of %%SCOREAVG%%%.": [
+            ""
+         ],
+         "WPEForm": [
+            ""
+         ],
+         "No further configuration is necessary. You can change configuration from WPEForm → Settings page.": [
+            ""
+         ],
+         "Make sure to set this page as Summary page under WPEForm → Settings.": [
+            ""
+         ],
+         "Make sure to set this page as User portal page under WPEForm → Settings.": [
+            ""
+         ],
+         "Select a Form": [
+            ""
+         ],
+         "Could not load forms. Please refresh the page.": [
+            ""
+         ],
+         "please select a form": [
+            ""
+         ],
+         "Embed Form": [
+            ""
+         ],
+         "WPEForm - Insert Form": [
+            ""
+         ],
+         "WPEForm - User Portal Page": [
+            ""
+         ],
+         "WPEForm - Summary Page": [
+            ""
+         ],
+         "INSERT SHORTCODE": [
+            ""
+         ],
+         "Insert a form": [
+            ""
+         ],
+         "Embed summary page shortcode": [
+            ""
+         ],
+         "Embed user portal page shortcode": [
+            ""
+         ],
+         "Generate Shortcode": [
+            ""
+         ],
+         "Select a purpose": [
+            ""
+         ],
+         "please select a purpose": [
+            ""
+         ],
+         "format-time-from-seconds\u0004%1$s, %2$s, %3$s": [
+            ""
+         ],
+         "format-time-from-seconds\u0004%1$s, %2$s": [
+            ""
+         ],
+         "timer\u0004%s:%s:%s": [
+            ""
+         ],
+         "hours short form\u0004h": [
+            ""
+         ],
+         "minutes short form\u0004m": [
+            ""
+         ],
+         "seconds short form\u0004s": [
+            ""
+         ],
+         "wpeform-useredit-heading\u0004Editing submission on %%FORM%%": [
+            ""
+         ],
+         "submission-summary-score\u0004%s / %s": [
+            ""
+         ],
+         "forms-list-meta\u0004Created by %%USER%% %%CREATEDATE%%.": [
+            ""
+         ],
+         "forms-list-meta\u0004Last updated %%UPDATEDATE%%.": [
+            ""
+         ],
+         "greetings-text\u0004%1$s, %2$s.": [
+            ""
+         ],
+         "chartjs-format-unit-day\u0004MMM D, YY": [
+            ""
+         ],
+         "chartjs-format-unit-month\u0004MMM, YY": [
+            ""
+         ],
+         "chartjs-format-unit-week\u0004[Week] W, YYYY": [
+            ""
+         ],
+         "submissions-list-meta\u0004Created on form %%FORM%%": [
+            ""
+         ],
+         "submissions-list-meta\u0004 from %%IPADDR%%": [
+            ""
+         ],
+         "submissions-list-meta\u0004 by %%EMAIL%%": [
+            ""
+         ],
+         "submissions-list-meta\u0004 and obtained %%SCORE%%.": [
+            ""
+         ],
+         "submissions-list-meta\u0004.": [
+            ""
+         ],
+         "submissions-list-meta\u0004 Last updated %%LASTUPDATE%%.": [
+            ""
+         ],
+         "submissions-list-meta\u0004%1$f out of %2$f (%3$f%%)": [
+            ""
+         ],
+         "percentage-score\u0004%1$s%%": [
+            ""
+         ],
+         "wp-eform-mask-placeholder\u0004_": [
+            ""
+         ],
+         "rating-separator\u0004 / ": [
+            ""
+         ],
+         "matrixchoice-dislay-heading-separator\u0004: ": [
+            ""
+         ],
+         "matrixchoice-column-separator\u0004, ": [
+            ""
+         ],
+         "matrixchoice-row-separator\u0004 | ": [
+            ""
+         ],
+         "sortable-item-separator\u0004, ": [
+            ""
+         ],
+         "month-select-placeholder\u0004----": [
+            ""
+         ],
+         "matrixinput-dislay-row-col-separator\u0004 / ": [
+            ""
+         ],
+         "matrixinput-dislay-heading-separator\u0004: ": [
+            ""
+         ],
+         "matrixinput-display-empty-value\u0004…": [
+            ""
+         ],
+         "matrixinput-row-col-value-separator\u0004, ": [
+            ""
+         ],
+         "address-item-separator\u0004, ": [
+            ""
+         ],
+         "pagination-separator\u0004/": [
+            ""
+         ],
+         "datatable-items-in-page\u0004Showing %1$d-%2$d / %3$d %4$s": [
+            ""
+         ]
+      }
+   }
+}

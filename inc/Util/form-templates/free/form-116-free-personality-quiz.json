@@ -1,0 +1,1673 @@
+{
+	"name": "FREE - Personality Quiz",
+	"structures": [
+		{
+			"id": "f6ad3226-f6cb-4be6-a2c1-a8432a1dfb93",
+			"config": {
+				"title": "Page 1",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": [
+				"8f834ed4-1606-4403-beb9-bae5cc4d42ef",
+				"25a992f3-9feb-4a97-a01c-425e2afc7761",
+				"65e2db91-541f-499a-a1b7-ebc611874b5c"
+			]
+		},
+		{
+			"id": "e228864f-51b4-410c-9208-feb926d5f595",
+			"config": {
+				"title": "Page 2",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["dd5b95f3-d9dd-47cf-8f29-903e32597c03"]
+		},
+		{
+			"id": "39ec25ed-41c4-42e9-a714-280c812b454a",
+			"config": {
+				"title": "Page 3",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["1cd2e2a6-d0f8-4345-a470-d5cb1df9c6cd"]
+		},
+		{
+			"id": "b14341d3-a777-4991-93de-3d39711a2229",
+			"config": {
+				"title": "Page 4",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["5c66d8a6-11cf-4c39-8a97-82217bd22ea2"]
+		},
+		{
+			"id": "00ee8274-f824-477d-a148-dbfb7a6cc878",
+			"config": {
+				"title": "Page 5",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["a63e7ce9-a50b-4390-8b86-b8dc05d06809"]
+		},
+		{
+			"id": "42c7b02c-7c0f-48cd-8860-769ad718dffb",
+			"config": {
+				"title": "Page 6",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["dbffe765-7719-43a5-a0e7-122c7546c43e"]
+		},
+		{
+			"id": "a0d2ad3d-4b21-4074-baca-76884ea08336",
+			"config": {
+				"title": "Page 7",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["0eac78af-7c0a-4915-84ee-25bc2f39f8c2"]
+		},
+		{
+			"id": "5a51ecee-9314-458b-b43d-37a48d76f975",
+			"config": {
+				"title": "Page 8",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["4e4f781f-8cac-4cd6-8830-4a9915745b8a"]
+		},
+		{
+			"id": "c4e472fe-a0bb-4c92-95db-e1ebc26549eb",
+			"config": {
+				"title": "Page 9",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["29e61b22-a86f-4f71-9e54-86f9b55e35e9"]
+		},
+		{
+			"id": "361bd0f8-5f68-4fab-a96c-ff2bf7460dbf",
+			"config": {
+				"title": "Page 10",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["2a5b16f3-17aa-42fb-85f5-a6bb80531fa0"]
+		},
+		{
+			"id": "9ec6f393-5462-4520-9f7d-827cc51bdee0",
+			"config": {
+				"title": "Page 11",
+				"subtitle": "a subtitle goes here",
+				"icon": "fab fa-font-awesome",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["27ba2f7d-3ee1-43eb-94eb-8053480068e5"]
+		}
+	],
+	"elements": [
+		{
+			"id": "8f834ed4-1606-4403-beb9-bae5cc4d42ef",
+			"type": "heading",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"A personality quiz type form\"}]}]",
+				"description": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"We have a total of 4 personality types, defined in Form Settings > Score. Each question can add to or subtract from any of the personality types.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"In \"},{\"text\":\"STARTER\",\"bold\":true},{\"text\":\" or above plans, a graph is also shown after submission about the performance. \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Credit: \"},{\"type\":\"link\",\"url\":\"https://modalsurvey.pantherius.com/personality-test-with-individual-chart/\",\"children\":[{\"text\":\"ModalSurvey\"}],\"target\":\"_blank\",\"rel\":\"nofollow noopener noreferrer\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Click next to start the survey.\"}]}]",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": {
+					"interface": {
+						"icon": "fas fa-chalkboard-teacher",
+						"size": "size4",
+						"tag": "p",
+						"showTop": false,
+						"divider": true
+					}
+				},
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "dd5b95f3-d9dd-47cf-8f29-903e32597c03",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"What is your favorite indoor activity? [Indoor]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Reading\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Watching Movies\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Playing Chess\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "f081ced4-8487-40f2-9e0e-42b05398310d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Playing with the Computer\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "f0ff3731-d497-4d87-9b91-6b54d7acf8da",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Other\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": true,
+						"othersId": "f0ff3731-d497-4d87-9b91-6b54d7acf8da",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "b8d154dd-efe5-4198-979d-846e97971580",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "bf7be766-e089-49f8-be85-b55e25d98ba7",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 8
+							},
+							{
+								"id": "5161b8d5-201f-4420-afd3-618840ca0757",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							},
+							{
+								"id": "98cfcced-93dc-4d5d-851e-3a4afa201599",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "f081ced4-8487-40f2-9e0e-42b05398310d",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							},
+							{
+								"id": "7115bcb1-049d-4c98-8873-bbf218480dfe",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "f0ff3731-d497-4d87-9b91-6b54d7acf8da",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 2
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "1cd2e2a6-d0f8-4345-a470-d5cb1df9c6cd",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Do you like playing sports? [Outdoor]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yes\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"No\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "60727905-3c10-4fe7-9440-82eb33737a61",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "97fc0d43-9b3f-4b7f-94a7-2af9676f9e97",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "5c66d8a6-11cf-4c39-8a97-82217bd22ea2",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"I hate my job. [Workspace]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yes\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"No\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "26554f23-302c-402f-8912-a962c009783b",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							},
+							{
+								"id": "46e39673-475b-4f38-ab5c-bf1e5e4d2118",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 6
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "a63e7ce9-a50b-4390-8b86-b8dc05d06809",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"What is your favourite outdoor activity? [Outdoor]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Walking\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Playing sports\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Rest on the beach\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "f081ced4-8487-40f2-9e0e-42b05398310d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Other\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": true,
+						"othersId": "f081ced4-8487-40f2-9e0e-42b05398310d",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "f428850f-7bb8-4aaf-b4bd-f71bedd43a32",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+								"scoreOperation": "add",
+								"scoreValue": 9
+							},
+							{
+								"id": "b2156b48-a5f4-4561-ad6c-c2aaeb8fcf6f",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "4efab93a-3563-45bc-bcf3-8ce7fae921c7",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"scoreId": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+								"scoreOperation": "add",
+								"scoreValue": 5
+							},
+							{
+								"id": "ae4f1e9c-0521-403c-ad16-7e913d2dd023",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "f081ced4-8487-40f2-9e0e-42b05398310d",
+								"scoreId": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+								"scoreOperation": "add",
+								"scoreValue": 2
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "dbffe765-7719-43a5-a0e7-122c7546c43e",
+			"type": "dropdown",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"I know... [Sociality]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": {
+					"interface": {
+						"icon": "fas fa-check",
+						"placeholder": "select an option",
+						"showSearch": true,
+						"searchPlaceholder": "search through options",
+						"emptySearchResultNotice": "Could not find what you were looking for. Kindly broaden your search",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"few people\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"several people\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"lot of people\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "106e75e8-5f07-4368-88ab-fa5ac970cf08",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "92da45af-10cd-4e0a-810e-13495d6a1e84",
+								"scoreOperation": "add",
+								"scoreValue": 5
+							},
+							{
+								"id": "28a434e3-bb02-4bd4-bf09-7ddad1e8efcc",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "92da45af-10cd-4e0a-810e-13495d6a1e84",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "0e7a4811-0d9e-48ec-b244-b38ad614033b",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"scoreId": "92da45af-10cd-4e0a-810e-13495d6a1e84",
+								"scoreOperation": "add",
+								"scoreValue": 9
+							}
+						]
+					},
+					"validation": {
+						"required": true,
+						"selectType": "single",
+						"filters": {
+							"type": "all",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						}
+					}
+				},
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "0eac78af-7c0a-4915-84ee-25bc2f39f8c2",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"When I going to work I feel myself... [Workspace]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"always happy\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"sometimes happy\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"sometimes sad\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "f081ced4-8487-40f2-9e0e-42b05398310d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"always sad\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "ffbf2eea-7c35-4495-88c0-ba7bb0b07469",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 9
+							},
+							{
+								"id": "8c941282-b5ce-43f5-94b1-570dc9192f0b",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "806c5aa7-da29-4f6d-b2fd-c9dd244e3721",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							},
+							{
+								"id": "f06ab3e7-5770-4fa5-bd8b-dd675b63888c",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "f081ced4-8487-40f2-9e0e-42b05398310d",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 2
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "4e4f781f-8cac-4cd6-8830-4a9915745b8a",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"I always know how to talk with different people. [Sociality]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yes\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"No\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "e7b5ba7f-143d-4dfe-a5b0-084fa93ea60c",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "92da45af-10cd-4e0a-810e-13495d6a1e84",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "c0f93e51-630f-4ca3-8bfd-fad15cf49bc4",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "92da45af-10cd-4e0a-810e-13495d6a1e84",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "29e61b22-a86f-4f71-9e54-86f9b55e35e9",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"I love my job [Workspace]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yes\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"No\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "be40d964-9a32-4d2e-a44f-00a335e669f6",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "9138da7d-818a-433f-bbb5-5bef7d10fa85",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "7503bf7b-5691-4206-a025-c5dadc418c26",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "2a5b16f3-17aa-42fb-85f5-a6bb80531fa0",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Never boring when I'm at home. [Indoor]\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "one",
+						"options": [
+							{
+								"id": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yes\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sometimes\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"No\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "4140b5e1-f485-4470-bf5d-cf84fa63b11c",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "cb02413b-6561-4b4f-9b6a-f75364f8a73f",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 9
+							},
+							{
+								"id": "b4681b3f-20bc-409c-ab5b-477e1ed041f9",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "a3d5d831-7c79-4f60-a01d-c7b641ab355d",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							},
+							{
+								"id": "05f884bc-e68a-45f2-85c9-b46d809cfd6e",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "c490fa50-c956-4f6b-a6e2-9250a7dee1a1",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 4
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "27ba2f7d-3ee1-43eb-94eb-8053480068e5",
+			"type": "heading",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Well Done!\"}]}]",
+				"description": "",
+				"subtitle": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"now submit the form to see your results\"}]}]",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": {
+					"interface": {
+						"icon": "fas fa-thumbs-up",
+						"size": "size4",
+						"tag": "p",
+						"showTop": false,
+						"divider": true
+					}
+				},
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "65e2db91-541f-499a-a1b7-ebc611874b5c",
+			"type": "text",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Email address\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "half",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": {
+					"interface": {
+						"icon": "fas fa-pen-nib",
+						"placeholder": "john.doe@example.com"
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": { "scoreConditions": [] },
+					"validation": {
+						"required": true,
+						"filters": {
+							"type": "email",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						},
+						"masks": {
+							"maskType": "none",
+							"maskPreset": null,
+							"maskString": null,
+							"maskRegExps": [],
+							"placeholder": "_",
+							"alwaysShowMask": false
+						}
+					}
+				},
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "25a992f3-9feb-4a97-a01c-425e2afc7761",
+			"type": "text",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Name\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "half",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": {
+					"interface": { "icon": "fas fa-pen-nib", "placeholder": "John" },
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": { "scoreConditions": [] },
+					"validation": {
+						"required": true,
+						"filters": {
+							"type": "all",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						},
+						"masks": {
+							"maskType": "none",
+							"maskPreset": null,
+							"maskString": null,
+							"maskRegExps": [],
+							"placeholder": "_",
+							"alwaysShowMask": false
+						}
+					}
+				},
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		}
+	],
+	"pools": [
+		{ "id": "built-in-uncategorized", "name": "Uncategorized", "children": [] }
+	],
+	"conditionals": [],
+	"skeleton": {
+		"formPreviewSkeleton": "",
+		"formEditSkeleton": "",
+		"formSummarySkeleton": ""
+	},
+	"integrations": {
+		"mailchimp": {
+			"enabled": false,
+			"apiKey": "",
+			"listIds": [],
+			"tags": "",
+			"doubleOptIn": true,
+			"customData": []
+		}
+	},
+	"payments": {
+		"general": {
+			"enabled": false,
+			"type": "onetime",
+			"subscriptionStatement": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Every \"},{\"character\":\"::paymentFrequency::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"},{\"character\":\"::paymentInterval::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"selectedGateways": [],
+			"defaultGateway": "offline",
+			"lockSubmissionOnPendingPayment": false,
+			"lockMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry but your submission would be visible only after completing the payment.\"}]}]",
+			"formula": "",
+			"currency": "USD",
+			"zeroDecimal": false,
+			"currencyPrefix": "$",
+			"currencySuffix": "",
+			"coupons": [],
+			"itemName": "Custom item",
+			"itemDescription": "Description of the custom item.",
+			"itemSku": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"wpeform-product-\"},{\"character\":\"::formId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"invoiceNumber": "INV-::id::",
+			"successSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Successfully paid for Order \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" via \"},{\"character\":\"::paymentGatewayName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"successMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your payment was successful. Your Order ID is \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\". Kindly take a note of it for future references.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"You can find the full order details below.\"}]}]",
+			"errorSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Payment Error for Order ID \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" with \"},{\"character\":\"::paymentGatewayName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"errorMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your payment could not be processed at this moment. Please try again. If any amount was deducted, it will be refunded automatically.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"For future communications, kindly note the Invoice Id \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\". You can also retry the payment using the form below.\"}]}]",
+			"cancelSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Payment Cancelled for Order ID \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"cancelMessage": "Your payment was cancelled before it could be completed. You can retry the payment using the form below.",
+			"retrySubjectPrefix": "[RETRY] "
+		},
+		"offline": {
+			"label": "Bank Transfer",
+			"instruction": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Please note down our bank details and submit the form. Once transferred, contact us back with the transaction ID and submission ID which you will find after the order.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Enter the bank details here.\"}]}]",
+			"status": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Awaiting confirmation of your payment. If you have completed the payment, please get in touch with us with Order Id \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]"
+		}
+	},
+	"permissions": {
+		"accessPermission": {
+			"canEdit": false,
+			"editTime": 0,
+			"restrictEditOnExpiration": true
+		},
+		"submissionPermission": {
+			"limitTotal": 0,
+			"totalLimitMsg": "Sorry the form can not be submitted any more.",
+			"totalLimitNotice": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Only \"},{\"character\":\"::totalRemainingSubmissions::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" submissions left. \"},{\"character\":\"::totalSubmissions::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" already filled in.\"}]}]",
+			"limitPerEmail": 0,
+			"emailLimitMsg": "Submission limit from your email has been exceeded.",
+			"limitPerIp": 0,
+			"ipLimitMsg": "Submission limit from this IP address has been exceeded.",
+			"limitPerUser": 0,
+			"userLimitMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your submission limit has been exceeded. You can check \"},{\"url\":\"%PORTAL_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"your portal page\"}]},{\"text\":\" to access previous submissions.\"}]}]",
+			"limitPerCookie": 0,
+			"cookieLimitMsg": "You have exceeded your limit to submit this form.",
+			"limitOnLogin": "none",
+			"loginLimitLoggedInMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry you can not submit this form. You need to be \"},{\"url\":\"%LOGIN_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"logged in\"}]},{\"text\":\" to be able to submit this form.\"}]}]",
+			"loginLimitLoggedOutMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry you can not submit this form. You need to be \"},{\"url\":\"%LOGOUT_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"logged out\"}]},{\"text\":\" to be able to submit this form.\"}]}]",
+			"limitOnInterval": 0,
+			"intervalLimitMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Slow down there. You need to wait for atleast \"},{\"character\":\"::submissionWaitTime::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" before submitting again.\"}]}]",
+			"startsOn": null,
+			"startsOnMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry we are not accepting submissions till \"},{\"character\":\"::submissionStartDate::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]",
+			"expiresOn": null,
+			"expiresOnMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry the form has expired on \"},{\"character\":\"::submissionEndDate::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]",
+			"noticeIfSubmitted": false,
+			"submittedNotice": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"It looks like you have already submitted this form. You can browse it \"},{\"url\":\"%LAST_SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"here\"}]},{\"text\":\". You can also continue to submit the form again.\"}]}]"
+		}
+	},
+	"settings": {
+		"userNotification": {
+			"subject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" we have got your answers\"}]}]",
+			"message": "[{\"type\":\"heading-two\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\",\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you \"},{\"character\":\"::name::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" for the submission.  We have received your answers, which you can see online by clicking the link below. For your convenience we have also included the submission data we have recorded in this email.\"}]}]",
+			"updateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" your submission has been updated\"}]}]",
+			"updateMessage": "[{\"type\":\"heading-two\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\",\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you \"},{\"character\":\"::name::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" for the submission.  We have updated the record according to your changes. You can view it online following the link below. For your convenience we have also included the submission data we have updated in this email.\"}]}]",
+			"adminUpdateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" an admin has updated your submission\"}]}]",
+			"adminUpdateMessage": "[{\"type\":\"heading-two\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\",\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Our staff has updated your submission. The following remarks were added.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"character\":\"::adminRemarks::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"You can view it online following the link below. For your convenience we have also included the submission data we have updated in this email.\"}]}]",
+			"fromName": "",
+			"fromEmail": "",
+			"header": "",
+			"showSubmission": true,
+			"viewOnline": true,
+			"viewOnlineText": "View Online",
+			"footer": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You are receiving this email because you have submitted a form.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\\u00a9 WP EForm Staging. This is not a marketing email.\"}]}]"
+		},
+		"adminNotification": {
+			"toEmail": "",
+			"subject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"[\"},{\"character\":\"::formName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"] New Form Submission Notification\"}]}]",
+			"message": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"A new submission has been made. You can visit it at \"},{\"url\":\"%ADMIN_SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yours truly, WP EForm Plugin.\"}]}]",
+			"updateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"[\"},{\"character\":\"::formName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"] Form Update Notification\"}]}]",
+			"updateMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"An existing submission has been updated. You can visit it at \"},{\"url\":\"%ADMIN_SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yours truly, WP EForm Plugin.\"}]}]",
+			"fromName": "WP EForm",
+			"fromEmail": "",
+			"header": "",
+			"replyToUser": false,
+			"showSubmission": true,
+			"footer": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"This is an autogenerated email. You are receiving this email because you are a manager of a form.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"If you do not wish to receive emails, kindly visit the \"},{\"url\":\"%FORM_ADMIN_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"administrator page\"}]},{\"text\":\" and modify your notification preferences.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\\u00a9 WP EForm Staging. This is not a marketing email.\"}]}]"
+		},
+		"userData": {
+			"fName": "25a992f3-9feb-4a97-a01c-425e2afc7761",
+			"lName": "25a992f3-9feb-4a97-a01c-425e2afc7761",
+			"email": "65e2db91-541f-499a-a1b7-ebc611874b5c",
+			"phone": null,
+			"storeIp": true,
+			"anonymizeIp": false,
+			"storeUserId": true
+		},
+		"score": {
+			"precision": 2,
+			"scoreLists": [
+				{
+					"id": "default-score",
+					"name": "Indoor",
+					"color": "#6002ee",
+					"outcomeName": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Indoor\"}]}]",
+					"outcomeDescription": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"The higher the score more of an indoor person you are.\"}]}]"
+				},
+				{
+					"id": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+					"name": "Outdoor",
+					"color": "#CF1124",
+					"outcomeName": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Outdoor\"}]}]",
+					"outcomeDescription": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"The higher the score, more of an outdoor person you are.\"}]}]"
+				},
+				{
+					"id": "7503bf7b-5691-4206-a025-c5dadc418c26",
+					"name": "Workspace",
+					"color": "rgba(144, 19, 254, 1)",
+					"outcomeName": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Workspace\"}]}]",
+					"outcomeDescription": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Higher the score, more of a workspace loving person you are.\"}]}]"
+				},
+				{
+					"id": "92da45af-10cd-4e0a-810e-13495d6a1e84",
+					"name": "Sociality",
+					"color": "rgba(65, 117, 5, 1)",
+					"outcomeName": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sociality\"}]}]",
+					"outcomeDescription": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Higher score means a more sociable personality.\"}]}]"
+				}
+			],
+			"designations": [
+				{
+					"id": "24384cc2-9a13-4d47-a0e7-24a705c868a4",
+					"scoreCategory": "default-score",
+					"fromToType": "percentage",
+					"from": 90,
+					"to": 100,
+					"name": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You are very indoorsy person\"}]}]",
+					"description": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You like to stay at home a lot.\"}]}]"
+				},
+				{
+					"id": "dc9becfd-7cb4-42e4-a914-02e3edc665d7",
+					"scoreCategory": "e9f0bfad-4867-44d4-bf70-5adfa8c04f53",
+					"fromToType": "percentage",
+					"from": 90,
+					"to": 100,
+					"name": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You are a very outdoorsy person\"}]}]",
+					"description": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You like to go out a lot.\"}]}]"
+				}
+			]
+		},
+		"timer": {
+			"submitTimer": "none",
+			"showTimer": true,
+			"timeLimit": 120,
+			"timerMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"left before you run out of time.\"}]}]",
+			"recordSubmissionTime": true,
+			"showStopwatch": false
+		}
+	},
+	"styles": {
+		"appearance": {
+			"containerLayout": "fluid",
+			"maxWidth": "600px",
+			"controlType": "boxy",
+			"controlAlignment": "left",
+			"controlLayout": "vertical"
+		},
+		"pagination": {
+			"showTabs": false,
+			"showProgressBar": true,
+			"progressDecimalPoint": 2,
+			"progressBarPosition": "bottom",
+			"showProgressLabel": true,
+			"autoProgress": true,
+			"autoProgressDelay": 800,
+			"autoSubmit": false,
+			"autoScroll": true,
+			"scrollOffset": 100,
+			"blockPreviousNavigation": false,
+			"paginationRestriction": "onlyWhenAllValid",
+			"panelEnabled": true,
+			"alignment": "right",
+			"size": "default",
+			"style": "3d",
+			"rounded": false,
+			"colored": false,
+			"barlike": true,
+			"nextLabel": "Next",
+			"nextIcon": "fas fa-angle-right",
+			"nextIconPosition": "after",
+			"prevLabel": "Previous",
+			"prevIcon": "fas fa-angle-left",
+			"prevIconPosition": "before",
+			"submitLabel": "Submit",
+			"submitIcon": "fas fa-save",
+			"submitIconPosition": "before",
+			"updateLabel": "Update",
+			"updateIcon": "fas fa-save",
+			"updateIconPosition": "before",
+			"showResetButton": false,
+			"resetLabel": "Reset",
+			"resetMessage": "This will reset your form and the action can not be undone. Are you sure?",
+			"resetIcon": "fas fa-undo",
+			"resetIconPosition": "before",
+			"hideWhenNotRelevant": true
+		},
+		"customBackground": {
+			"enabled": false,
+			"backgroundImage": "",
+			"backgroundPosition": "0% 0%",
+			"backgroundSize": "auto",
+			"backgroundRepeat": "repeat",
+			"backgroundOrigin": "padding-box",
+			"backgroundClip": "border-box",
+			"backgroundAttachment": "scroll"
+		},
+		"theme": {
+			"scheme": "vividblue",
+			"darkMode": "off",
+			"customColorPrimary": null,
+			"customColorSecondary": null,
+			"customColorBg": null,
+			"customColorText": null,
+			"css": ""
+		},
+		"typography": {
+			"baseFont": 16,
+			"bodyFamily": "inherit",
+			"bodyFamilyCustom": "",
+			"headFamily": "inherit",
+			"headFamilyCustom": "",
+			"headFontBold": true,
+			"headFontItalic": false
+		},
+		"formBehavior": {
+			"disabledAutoComplete": false,
+			"subject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you for submitting the form.\"}]}]",
+			"message": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\", your submission has been recorded. You can visit it at \"},{\"url\":\"%SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Here's a summary of the highest trait.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"mentions\",\"character\":\"::score-name-high::\",\"children\":[{\"text\":\"\"}]},{\"text\":\": \"},{\"type\":\"mentions\",\"character\":\"::score-obtained-high::\",\"children\":[{\"text\":\"\"}]},{\"text\":\" / \"},{\"type\":\"mentions\",\"character\":\"::score-outof-high::\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Remember you can visit the link above for detailed comparison.\"}]}]",
+			"updateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you for updating the submission.\"}]}]",
+			"updateMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your submission has been updated. You can visit it at \"},{\"url\":\"%SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"We will get back to you as soon as possible. For confirmation we have also sent you an email.\"}]}]",
+			"errorSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Oops, we have encountered an error.\"}]}]",
+			"errorRetryButtonLabel": "RETRY",
+			"errorRetryButtonIcon": "fas fa-sync",
+			"errorRetryButtonIconPosition": "before",
+			"kioskMode": false,
+			"kioskMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Resetting the kiosk in \"},{\"character\":\"::kioskResetTime::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]",
+			"kioskTime": 10
+		},
+		"redirection": {
+			"type": "none",
+			"url": "",
+			"delay": 10,
+			"message": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You will be redirected in \"},{\"character\":\"::redirectDelay::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\". If your browser fails to redirect, then please \"},{\"url\":\"%REDIRECT_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"Click Here\"}]},{\"text\":\".\"}]}]",
+			"iframeRedirect": false,
+			"scoreTotalLogic": [
+				{
+					"id": "default-sct-id",
+					"scoreId": "default-score",
+					"url": "",
+					"from": 0,
+					"to": 10
+				}
+			],
+			"scorePercentageLogic": [
+				{
+					"id": "default-sct-id",
+					"scoreId": "default-score",
+					"url": "",
+					"from": 0,
+					"to": 10
+				}
+			],
+			"conditionalLogic": []
+		},
+		"tracking": { "urlTracking": false, "urlTrackId": "tid" }
+	}
+}

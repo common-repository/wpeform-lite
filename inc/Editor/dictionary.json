@@ -1,0 +1,19 @@
+{
+	"form": {
+		"name": "wp-eform/form",
+		"attributes": {
+			"formId": {
+				"type": "string",
+				"default": ""
+			}
+		}
+	},
+	"userPortal": {
+		"name": "wp-eform/user-portal",
+		"attributes": {}
+	},
+	"summary": {
+		"name": "wp-eform/summary",
+		"attributes": {}
+	}
+}

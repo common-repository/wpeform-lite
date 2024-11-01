@@ -1,0 +1,962 @@
+{
+	"name": "FREE - Basic Quiz Form",
+	"structures": [
+		{
+			"id": "76c3e142-f259-4604-9b95-fc21918c555a",
+			"config": {
+				"title": "About you",
+				"subtitle": "",
+				"icon": "fas fa-user",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": [
+				"3aaa1398-e0f5-4848-9274-15746d2fd5b8",
+				"d193eded-8da3-4f23-a17c-f6038e5866bb",
+				"a36cf7ad-38d6-40c1-adaf-ee1f9f5d8d0b",
+				"f61dc4d9-f4b8-426b-9f31-d5e96cc7154e"
+			]
+		},
+		{
+			"id": "424f0978-9a08-4225-ac18-30f9889dd025",
+			"config": {
+				"title": "Paper 1",
+				"subtitle": "a subtitle goes here",
+				"icon": "fas fa-clock",
+				"timer": 100,
+				"initiallyHidden": false
+			},
+			"children": [
+				"9d0176e9-02ae-425d-a9ec-b195a91ebd89",
+				"9e2f2803-6d8c-4e37-af4b-c64766461b14"
+			]
+		},
+		{
+			"id": "9db37e88-b08c-4eb7-96eb-7170104afd10",
+			"config": {
+				"title": "Paper 2",
+				"subtitle": "",
+				"icon": "fas fa-tachometer-alt",
+				"timer": 100,
+				"initiallyHidden": false
+			},
+			"children": ["81afecb9-1b6b-48d0-b57b-50df8a4e20fb"]
+		},
+		{
+			"id": "f9abbc9b-9d78-442b-bb70-fc33ac5bcb6f",
+			"config": {
+				"title": "The End",
+				"subtitle": "",
+				"icon": "fas fa-scroll",
+				"timer": null,
+				"initiallyHidden": false
+			},
+			"children": ["fbe0d829-bf64-47a3-b77a-766b309f93cb"]
+		}
+	],
+	"elements": [
+		{
+			"id": "3aaa1398-e0f5-4848-9274-15746d2fd5b8",
+			"type": "text",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"First Name\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "half",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": {
+					"interface": {
+						"icon": "fas fa-pen-nib",
+						"placeholder": "write your answer here"
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": { "scoreConditions": [] },
+					"validation": {
+						"required": true,
+						"filters": {
+							"type": "all",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						},
+						"masks": {
+							"maskType": "none",
+							"maskPreset": null,
+							"maskString": null,
+							"maskRegExps": [],
+							"placeholder": "_",
+							"alwaysShowMask": false
+						}
+					}
+				},
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "d193eded-8da3-4f23-a17c-f6038e5866bb",
+			"type": "text",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Last Name\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "half",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": {
+					"interface": {
+						"icon": "fas fa-pen-nib",
+						"placeholder": "write your answer here"
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": { "scoreConditions": [] },
+					"validation": {
+						"required": false,
+						"filters": {
+							"type": "all",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						},
+						"masks": {
+							"maskType": "none",
+							"maskPreset": null,
+							"maskString": null,
+							"maskRegExps": [],
+							"placeholder": "_",
+							"alwaysShowMask": false
+						}
+					}
+				},
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "a36cf7ad-38d6-40c1-adaf-ee1f9f5d8d0b",
+			"type": "text",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Email address\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": {
+					"interface": {
+						"icon": "fas fa-pen-nib",
+						"placeholder": "write your answer here"
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": { "scoreConditions": [] },
+					"validation": {
+						"required": true,
+						"filters": {
+							"type": "email",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						},
+						"masks": {
+							"maskType": "none",
+							"maskPreset": null,
+							"maskString": null,
+							"maskRegExps": [],
+							"placeholder": "_",
+							"alwaysShowMask": false
+						}
+					}
+				},
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "f61dc4d9-f4b8-426b-9f31-d5e96cc7154e",
+			"type": "heading",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Good Luck\"}]}]",
+				"description": "",
+				"subtitle": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"wish you all the best \"},{\"type\":\"mentions\",\"character\":\"3aaa1398-e0f5-4848-9274-15746d2fd5b8\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": {
+					"interface": {
+						"icon": "fas fa-thumbs-up",
+						"size": "size4",
+						"tag": "p",
+						"showTop": false,
+						"divider": true
+					}
+				},
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "9d0176e9-02ae-425d-a9ec-b195a91ebd89",
+			"type": "radio",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Who plays Loki in MCU?\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": {
+					"interface": {
+						"icon": "fas fa-circle",
+						"columns": "auto",
+						"options": [
+							{
+								"id": "debae145-aead-42b8-91d3-ca7afebf7a00",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Anthony Mackie\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "78b5bfaf-ebb9-4b1a-a36a-18cdaa3d3005",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Samuel L. Jackson\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "52de7363-eee1-42c8-942a-a1608847fcd8",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Robert Downey Jr.\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "be296168-27e3-4835-8332-2a7bcc369b56",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Tom Hiddleston\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "61dcef0c-9d5e-421c-86aa-22e8a70c389f",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "be296168-27e3-4835-8332-2a7bcc369b56",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							}
+						]
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"validation": { "required": true }
+				},
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "9e2f2803-6d8c-4e37-af4b-c64766461b14",
+			"type": "dropdown",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"What is the first movie released by MCU?\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": {
+					"interface": {
+						"icon": "fas fa-check",
+						"placeholder": "select an option",
+						"showSearch": true,
+						"searchPlaceholder": "search through options",
+						"emptySearchResultNotice": "Could not find what you were looking for. Kindly broaden your search",
+						"options": [
+							{
+								"id": "debae145-aead-42b8-91d3-ca7afebf7a00",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Iron Man\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "78b5bfaf-ebb9-4b1a-a36a-18cdaa3d3005",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Hulk\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "52de7363-eee1-42c8-942a-a1608847fcd8",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thor\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "be296168-27e3-4835-8332-2a7bcc369b56",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Avengers\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "7ddc89ee-5d7f-4d58-8d1e-e0a3205ef000",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "debae145-aead-42b8-91d3-ca7afebf7a00",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							}
+						]
+					},
+					"validation": {
+						"required": true,
+						"selectType": "single",
+						"filters": {
+							"type": "all",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						}
+					}
+				},
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "81afecb9-1b6b-48d0-b57b-50df8a4e20fb",
+			"type": "dropdown",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Select all the MCU movies with the appearance of Director Fury\"}]}]",
+				"description": "",
+				"subtitle": "",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": null,
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": {
+					"interface": {
+						"icon": "fas fa-check",
+						"placeholder": "select an option",
+						"showSearch": true,
+						"searchPlaceholder": "search through options",
+						"emptySearchResultNotice": "Could not find what you were looking for. Kindly broaden your search",
+						"options": [
+							{
+								"id": "debae145-aead-42b8-91d3-ca7afebf7a00",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Iron Man\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "78b5bfaf-ebb9-4b1a-a36a-18cdaa3d3005",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Iron Man 2\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "52de7363-eee1-42c8-942a-a1608847fcd8",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thor The Dark World\"}]}]",
+								"answerDescription": null,
+								"num": null
+							},
+							{
+								"id": "be296168-27e3-4835-8332-2a7bcc369b56",
+								"label": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Avengers\"}]}]",
+								"answerDescription": null,
+								"num": null
+							}
+						],
+						"others": false,
+						"othersId": "",
+						"othersPlaceholder": "enter your choice here",
+						"shuffle": false
+					},
+					"attributes": {
+						"prefilType": "none",
+						"prefilParameter": "",
+						"readonly": false,
+						"defaultValue": ""
+					},
+					"score": {
+						"scoreConditions": [
+							{
+								"id": "feaa8982-e911-4a91-9047-9d4f6ca4f9ff",
+								"condition": "et",
+								"operation": "is",
+								"compareWith": "debae145-aead-42b8-91d3-ca7afebf7a00,78b5bfaf-ebb9-4b1a-a36a-18cdaa3d3005,be296168-27e3-4835-8332-2a7bcc369b56",
+								"scoreId": "default-score",
+								"scoreOperation": "add",
+								"scoreValue": 10
+							}
+						]
+					},
+					"validation": {
+						"required": true,
+						"selectType": "multiple",
+						"filters": {
+							"type": "all",
+							"minNum": null,
+							"maxNum": null,
+							"minString": null,
+							"maxString": null,
+							"minItems": null,
+							"maxItems": null
+						}
+					}
+				},
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		},
+		{
+			"id": "fbe0d829-bf64-47a3-b77a-766b309f93cb",
+			"type": "heading",
+			"appearance": {
+				"title": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Well done!\"}]}]",
+				"description": "",
+				"subtitle": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"now submit and find out how much you've scored.\"}]}]",
+				"overrideControlAppearance": false,
+				"controlType": "boxy",
+				"controlAlignment": "left",
+				"controlLayout": "vertical",
+				"hint": "",
+				"hintIcon": "fas fa-question",
+				"hintLabel": "Show help",
+				"answerDescription": "",
+				"columnSize": "full",
+				"basicWidth": "100%",
+				"widths": [],
+				"initiallyHidden": false,
+				"className": ""
+			},
+			"config": {
+				"heading": {
+					"interface": {
+						"icon": "fas fa-comment-alt",
+						"size": "size4",
+						"tag": "p",
+						"showTop": false,
+						"divider": true
+					}
+				},
+				"buttons": null,
+				"radio": null,
+				"checkbox": null,
+				"dropdown": null,
+				"singlecheckbox": null,
+				"toggle": null,
+				"slider": null,
+				"range": null,
+				"rating": null,
+				"matrixchoice": null,
+				"sortable": null,
+				"text": null,
+				"textarea": null,
+				"mathcalc": null,
+				"datetimeinput": null,
+				"matrixinput": null
+			},
+			"children": []
+		}
+	],
+	"pools": [
+		{ "id": "built-in-uncategorized", "name": "Uncategorized", "children": [] }
+	],
+	"conditionals": [],
+	"skeleton": {
+		"formPreviewSkeleton": "",
+		"formEditSkeleton": "",
+		"formSummarySkeleton": ""
+	},
+	"integrations": {
+		"mailchimp": {
+			"enabled": false,
+			"apiKey": "",
+			"listIds": [],
+			"tags": "",
+			"doubleOptIn": true,
+			"customData": []
+		}
+	},
+	"payments": {
+		"general": {
+			"enabled": false,
+			"type": "onetime",
+			"subscriptionStatement": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Every \"},{\"character\":\"::paymentFrequency::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"},{\"character\":\"::paymentInterval::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"selectedGateways": [],
+			"defaultGateway": "offline",
+			"lockSubmissionOnPendingPayment": false,
+			"lockMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry but your submission would be visible only after completing the payment.\"}]}]",
+			"formula": "",
+			"currency": "USD",
+			"zeroDecimal": false,
+			"currencyPrefix": "$",
+			"currencySuffix": "",
+			"coupons": [],
+			"itemName": "Custom item",
+			"itemDescription": "Description of the custom item.",
+			"itemSku": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"wpeform-product-\"},{\"character\":\"::formId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"invoiceNumber": "INV-::id::",
+			"successSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Successfully paid for Order \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" via \"},{\"character\":\"::paymentGatewayName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"successMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your payment was successful. Your Order ID is \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\". Kindly take a note of it for future references.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"You can find the full order details below.\"}]}]",
+			"errorSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Payment Error for Order ID \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" with \"},{\"character\":\"::paymentGatewayName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"errorMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your payment could not be processed at this moment. Please try again. If any amount was deducted, it will be refunded automatically.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"For future communications, kindly note the Invoice Id \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\". You can also retry the payment using the form below.\"}]}]",
+			"cancelSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Payment Cancelled for Order ID \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+			"cancelMessage": "Your payment was cancelled before it could be completed. You can retry the payment using the form below.",
+			"retrySubjectPrefix": "[RETRY] "
+		},
+		"offline": {
+			"label": "Bank Transfer",
+			"instruction": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Please note down our bank details and submit the form. Once transferred, contact us back with the transaction ID and submission ID which you will find after the order.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Enter the bank details here.\"}]}]",
+			"status": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Awaiting confirmation of your payment. If you have completed the payment, please get in touch with us with Order Id \"},{\"character\":\"::invoiceId::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]"
+		}
+	},
+	"permissions": {
+		"accessPermission": {
+			"canEdit": false,
+			"editTime": 0,
+			"restrictEditOnExpiration": true
+		},
+		"submissionPermission": {
+			"limitTotal": 0,
+			"totalLimitMsg": "Sorry the form can not be submitted any more.",
+			"totalLimitNotice": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Only \"},{\"character\":\"::totalRemainingSubmissions::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" submissions left. \"},{\"character\":\"::totalSubmissions::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" already filled in.\"}]}]",
+			"limitPerEmail": 0,
+			"emailLimitMsg": "Submission limit from your email has been exceeded.",
+			"limitPerIp": 0,
+			"ipLimitMsg": "Submission limit from this IP address has been exceeded.",
+			"limitPerUser": 0,
+			"userLimitMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your submission limit has been exceeded. You can check \"},{\"url\":\"%PORTAL_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"your portal page\"}]},{\"text\":\" to access previous submissions.\"}]}]",
+			"limitPerCookie": 0,
+			"cookieLimitMsg": "You have exceeded your limit to submit this form.",
+			"limitOnLogin": "none",
+			"loginLimitLoggedInMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry you can not submit this form. You need to be \"},{\"url\":\"%LOGIN_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"logged in\"}]},{\"text\":\" to be able to submit this form.\"}]}]",
+			"loginLimitLoggedOutMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry you can not submit this form. You need to be \"},{\"url\":\"%LOGOUT_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"logged out\"}]},{\"text\":\" to be able to submit this form.\"}]}]",
+			"limitOnInterval": 0,
+			"intervalLimitMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Slow down there. You need to wait for atleast \"},{\"character\":\"::submissionWaitTime::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" before submitting again.\"}]}]",
+			"startsOn": null,
+			"startsOnMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry we are not accepting submissions till \"},{\"character\":\"::submissionStartDate::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]",
+			"expiresOn": null,
+			"expiresOnMsg": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sorry the form has expired on \"},{\"character\":\"::submissionEndDate::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]",
+			"noticeIfSubmitted": false,
+			"submittedNotice": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"It looks like you have already submitted this form. You can browse it \"},{\"url\":\"%LAST_SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"here\"}]},{\"text\":\". You can also continue to submit the form again.\"}]}]"
+		}
+	},
+	"settings": {
+		"userNotification": {
+			"subject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" we have got your answers\"}]}]",
+			"message": "[{\"type\":\"heading-two\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\",\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you \"},{\"character\":\"::name::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" for the submission.  We have received your answers, which you can see online by clicking the link below. For your convenience we have also included the submission data we have recorded in this email.\"}]}]",
+			"updateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" your submission has been updated\"}]}]",
+			"updateMessage": "[{\"type\":\"heading-two\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\",\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you \"},{\"character\":\"::name::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" for the submission.  We have updated the record according to your changes. You can view it online following the link below. For your convenience we have also included the submission data we have updated in this email.\"}]}]",
+			"adminUpdateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\" an admin has updated your submission\"}]}]",
+			"adminUpdateMessage": "[{\"type\":\"heading-two\",\"children\":[{\"text\":\"Hey \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\",\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Our staff has updated your submission. The following remarks were added.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"character\":\"::adminRemarks::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"You can view it online following the link below. For your convenience we have also included the submission data we have updated in this email.\"}]}]",
+			"fromName": "",
+			"fromEmail": "",
+			"header": "",
+			"showSubmission": true,
+			"viewOnline": true,
+			"viewOnlineText": "View Online",
+			"footer": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You are receiving this email because you have submitted a form.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\\u00a9 WP EForm Staging. This is not a marketing email.\"}]}]"
+		},
+		"adminNotification": {
+			"toEmail": "",
+			"subject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"[\"},{\"character\":\"::formName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"] New Form Submission Notification\"}]}]",
+			"message": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"A new submission has been made. You can visit it at \"},{\"url\":\"%ADMIN_SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yours truly, WP EForm Plugin.\"}]}]",
+			"updateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"[\"},{\"character\":\"::formName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\"] Form Update Notification\"}]}]",
+			"updateMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"An existing submission has been updated. You can visit it at \"},{\"url\":\"%ADMIN_SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Yours truly, WP EForm Plugin.\"}]}]",
+			"fromName": "WP EForm",
+			"fromEmail": "",
+			"header": "",
+			"replyToUser": false,
+			"showSubmission": true,
+			"footer": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"This is an autogenerated email. You are receiving this email because you are a manager of a form.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"If you do not wish to receive emails, kindly visit the \"},{\"url\":\"%FORM_ADMIN_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"administrator page\"}]},{\"text\":\" and modify your notification preferences.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\\u00a9 WP EForm Staging. This is not a marketing email.\"}]}]"
+		},
+		"userData": {
+			"fName": "3aaa1398-e0f5-4848-9274-15746d2fd5b8",
+			"lName": "d193eded-8da3-4f23-a17c-f6038e5866bb",
+			"email": "a36cf7ad-38d6-40c1-adaf-ee1f9f5d8d0b",
+			"phone": null,
+			"storeIp": true,
+			"anonymizeIp": false,
+			"storeUserId": true
+		},
+		"score": {
+			"precision": 2,
+			"scoreLists": [
+				{
+					"id": "default-score",
+					"name": "Primary Score",
+					"color": "#6002ee",
+					"outcomeName": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"MCU Knowledge\"}]}]",
+					"outcomeDescription": "The higher the score the better the result."
+				}
+			],
+			"designations": []
+		},
+		"timer": {
+			"submitTimer": "none",
+			"showTimer": true,
+			"timeLimit": 120,
+			"timerMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"left before you run out of time.\"}]}]",
+			"recordSubmissionTime": false,
+			"showStopwatch": false
+		}
+	},
+	"styles": {
+		"appearance": {
+			"containerLayout": "fluid",
+			"maxWidth": "600px",
+			"controlType": "boxy",
+			"controlAlignment": "left",
+			"controlLayout": "vertical"
+		},
+		"pagination": {
+			"showTabs": true,
+			"showProgressBar": false,
+			"progressDecimalPoint": 2,
+			"progressBarPosition": "top",
+			"showProgressLabel": true,
+			"autoProgress": false,
+			"autoProgressDelay": 1500,
+			"autoSubmit": false,
+			"autoScroll": true,
+			"scrollOffset": 100,
+			"blockPreviousNavigation": false,
+			"paginationRestriction": "onlyWhenAllValid",
+			"panelEnabled": true,
+			"alignment": "right",
+			"size": "default",
+			"style": "3d",
+			"rounded": false,
+			"colored": false,
+			"barlike": true,
+			"nextLabel": "Next",
+			"nextIcon": "fas fa-angle-right",
+			"nextIconPosition": "after",
+			"prevLabel": "Previous",
+			"prevIcon": "fas fa-angle-left",
+			"prevIconPosition": "before",
+			"submitLabel": "Submit",
+			"submitIcon": "fas fa-save",
+			"submitIconPosition": "before",
+			"updateLabel": "Update",
+			"updateIcon": "fas fa-save",
+			"updateIconPosition": "before",
+			"showResetButton": false,
+			"resetLabel": "Reset",
+			"resetMessage": "This will reset your form and the action can not be undone. Are you sure?",
+			"resetIcon": "fas fa-undo",
+			"resetIconPosition": "before",
+			"hideWhenNotRelevant": true
+		},
+		"customBackground": {
+			"enabled": false,
+			"backgroundImage": "",
+			"backgroundPosition": "0% 0%",
+			"backgroundSize": "auto",
+			"backgroundRepeat": "repeat",
+			"backgroundOrigin": "padding-box",
+			"backgroundClip": "border-box",
+			"backgroundAttachment": "scroll"
+		},
+		"theme": {
+			"scheme": "vividblue",
+			"darkMode": "off",
+			"customColorPrimary": null,
+			"customColorSecondary": null,
+			"customColorBg": null,
+			"customColorText": null,
+			"css": ""
+		},
+		"typography": {
+			"baseFont": 16,
+			"bodyFamily": "inherit",
+			"bodyFamilyCustom": "",
+			"headFamily": "inherit",
+			"headFamilyCustom": "",
+			"headFontBold": true,
+			"headFontItalic": false
+		},
+		"formBehavior": {
+			"disabledAutoComplete": false,
+			"subject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you for submitting the form.\"}]}]",
+			"message": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you \"},{\"character\":\"::fName::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\", your submission has been recorded. You can visit it at \"},{\"url\":\"%SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"You have score \"},{\"type\":\"mentions\",\"character\":\"::score-obtained-high::\",\"children\":[{\"text\":\"\"}]},{\"text\":\" out of \"},{\"type\":\"mentions\",\"character\":\"::score-outof-high::\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"We will get back to you as soon as possible. For confirmation we have also sent you an email.\"}]}]",
+			"updateSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Thank you for updating the submission.\"}]}]",
+			"updateMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Your submission has been updated. You can visit it at \"},{\"url\":\"%SUBMISSION_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"this link\"}]},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"We will get back to you as soon as possible. For confirmation we have also sent you an email.\"}]}]",
+			"errorSubject": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Oops, we have encountered an error.\"}]}]",
+			"errorRetryButtonLabel": "RETRY",
+			"errorRetryButtonIcon": "fas fa-sync",
+			"errorRetryButtonIconPosition": "before",
+			"kioskMode": false,
+			"kioskMessage": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Resetting the kiosk in \"},{\"character\":\"::kioskResetTime::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]",
+			"kioskTime": 10
+		},
+		"redirection": {
+			"type": "none",
+			"url": "",
+			"delay": 10,
+			"message": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"You will be redirected in \"},{\"character\":\"::redirectDelay::\",\"type\":\"mentions\",\"children\":[{\"text\":\"\"}]},{\"text\":\". If your browser fails to redirect, then please \"},{\"url\":\"%REDIRECT_LINK%\",\"title\":\"\",\"target\":\"\",\"rel\":\"\",\"type\":\"link\",\"children\":[{\"text\":\"Click Here\"}]},{\"text\":\".\"}]}]",
+			"iframeRedirect": false,
+			"scoreTotalLogic": [
+				{
+					"id": "default-sct-id",
+					"scoreId": "default-score",
+					"url": "",
+					"from": 0,
+					"to": 10
+				}
+			],
+			"scorePercentageLogic": [
+				{
+					"id": "default-sct-id",
+					"scoreId": "default-score",
+					"url": "",
+					"from": 0,
+					"to": 10
+				}
+			],
+			"conditionalLogic": []
+		},
+		"tracking": { "urlTracking": false, "urlTrackId": "tid" }
+	}
+}

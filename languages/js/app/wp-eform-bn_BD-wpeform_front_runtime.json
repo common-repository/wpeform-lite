@@ -1,0 +1,737 @@
+{
+   "domain": "wp-eform",
+   "locale_data": {
+      "wp-eform": {
+         "": {
+            "domain": "wp-eform"
+         },
+         "caption…": [
+            ""
+         ],
+         "ERROR: cannot render an element inside the same element.": [
+            ""
+         ],
+         "The element is required, kindly enter a value.": [
+            "এটি প্রয়োজন, দয়া করে একটি মান লিখুন।"
+         ],
+         "Length of input must be %1$d, currently it is %2$d.": [
+            ""
+         ],
+         "Length of input can not be greater than %1$d, currently it is %2$d.": [
+            ""
+         ],
+         "No letters are allowed.": [
+            ""
+         ],
+         "No numbers are allowed.": [
+            ""
+         ],
+         "The email address is incorrect.": [
+            ""
+         ],
+         "Only integers are allowed.": [
+            ""
+         ],
+         "Only numbers are allowed.": [
+            ""
+         ],
+         "Minimum required value is %1$s, currently it is %2$s.": [
+            ""
+         ],
+         "Maximum allowed value is %1$s, currently it is %2$s.": [
+            ""
+         ],
+         "Please enter a valid phone number.": [
+            ""
+         ],
+         "Please enter a valid phone URL.": [
+            ""
+         ],
+         "Required, please select an option.": [
+            ""
+         ],
+         "A maximum of %1$d option(s) allowed, you have selected %2$d.": [
+            ""
+         ],
+         "A minimum of %1$d option(s) required, you have selected %2$d.": [
+            ""
+         ],
+         "Please fill in your custom choice.": [
+            ""
+         ],
+         "The captcha is required.": [
+            ""
+         ],
+         "The answer is incorrect. Correct answer would be %1$s.": [
+            ""
+         ],
+         "This checkbox is required.": [
+            ""
+         ],
+         "Please check this toggle element.": [
+            ""
+         ],
+         "Value cannot be less than {min}.": [
+            ""
+         ],
+         "Value cannot be greater than {max}.": [
+            ""
+         ],
+         "Value must be in the steps of {step}.": [
+            ""
+         ],
+         "Minimum value {min} must be less than or equal to maximum value {max}.": [
+            ""
+         ],
+         "The rating is required.": [
+            ""
+         ],
+         "Please fill in the feedback.": [
+            ""
+         ],
+         "Rating value is greater than maximum.": [
+            ""
+         ],
+         "Required, please select at-least one option every row.": [
+            ""
+         ],
+         "Please enter a value.": [
+            ""
+         ],
+         "Value must not be less than %1$s.": [
+            ""
+         ],
+         "Value must not be greater than %1$s.": [
+            ""
+         ],
+         "Invalid value used in date time input.": [
+            ""
+         ],
+         "Please fill all the items in the table.": [
+            ""
+         ],
+         "Please fill in the address.": [
+            ""
+         ],
+         "enter your choice here": [
+            ""
+         ],
+         "No options selected.": [
+            ""
+         ],
+         "This group element is empty": [
+            ""
+         ],
+         "This row element is empty": [
+            ""
+         ],
+         "This column element is empty": [
+            ""
+         ],
+         "Scroll to top": [
+            ""
+         ],
+         "Unknown": [
+            ""
+         ],
+         "%d %s %d = ?": [
+            ""
+         ],
+         "Yes": [
+            ""
+         ],
+         "No": [
+            ""
+         ],
+         "Yes.": [
+            ""
+         ],
+         "No.": [
+            ""
+         ],
+         "Outcome": [
+            ""
+         ],
+         "Obtained": [
+            ""
+         ],
+         "Out of": [
+            ""
+         ],
+         "%-age": [
+            ""
+         ],
+         "Cannot submit a form in preview mode.": [
+            ""
+         ],
+         "US phone number": [
+            ""
+         ],
+         "US Social Security Number (SSN)": [
+            ""
+         ],
+         "US Zip code": [
+            ""
+         ],
+         "Date MM-DD-YY": [
+            ""
+         ],
+         "Date YYYY-MM-DD": [
+            ""
+         ],
+         "Date DD/MM/YY": [
+            ""
+         ],
+         "Twitter URL": [
+            ""
+         ],
+         "Facebook URL": [
+            ""
+         ],
+         "Instagram URL": [
+            ""
+         ],
+         "General URL": [
+            ""
+         ],
+         "RGB or HEX color code": [
+            ""
+         ],
+         "RGB color code": [
+            ""
+         ],
+         "ERROR: The element with id %s does not exist": [
+            ""
+         ],
+         "This element is no longer accessible.": [
+            ""
+         ],
+         "You do not have an active license for the %1$s plan. Once the license is active, this element will show up again.": [
+            ""
+         ],
+         "ERROR: ": [
+            ""
+         ],
+         "You can try and dismiss this to see if it works.": [
+            ""
+         ],
+         "Inherit from theme": [
+            ""
+         ],
+         "System UI": [
+            ""
+         ],
+         "System UI Mono": [
+            ""
+         ],
+         "Custom Font": [
+            ""
+         ],
+         "More information on the error can be found below.": [
+            ""
+         ],
+         "RELOAD PAGE": [
+            ""
+         ],
+         "RETRY WITHOUT RELOAD": [
+            ""
+         ],
+         "Search items": [
+            ""
+         ],
+         "No items found": [
+            ""
+         ],
+         "Dismiss": [
+            ""
+         ],
+         "Anonymous": [
+            ""
+         ],
+         "%d hour": [
+            "",
+            "%d hours"
+         ],
+         "%d minute": [
+            "",
+            "%d minutes"
+         ],
+         "%d second": [
+            "",
+            "%d seconds"
+         ],
+         "YEAR": [
+            ""
+         ],
+         "YYYY": [
+            ""
+         ],
+         "MONTH": [
+            ""
+         ],
+         "MM": [
+            ""
+         ],
+         "DAY": [
+            ""
+         ],
+         "DD": [
+            ""
+         ],
+         "HR": [
+            ""
+         ],
+         "HOUR": [
+            ""
+         ],
+         "MIN": [
+            ""
+         ],
+         "MINUTE": [
+            ""
+         ],
+         "SEC": [
+            ""
+         ],
+         "SECOND": [
+            ""
+         ],
+         "AM": [
+            ""
+         ],
+         "PM": [
+            ""
+         ],
+         "AUTH ERROR": [
+            ""
+         ],
+         "ERROR 404": [
+            ""
+         ],
+         "SERVER ERROR": [
+            ""
+         ],
+         "APP ERROR": [
+            ""
+         ],
+         "Something went wrong": [
+            ""
+         ],
+         "There was an error in the application. Reloading the page might fix it.": [
+            ""
+         ],
+         "Uncategorized": [
+            ""
+         ],
+         "time elapsed since %s": [
+            ""
+         ],
+         "This page does not exist. Kindly navigate away from it.": [
+            ""
+         ],
+         "This page is empty.": [
+            ""
+         ],
+         "Some error has occured.": [
+            ""
+         ],
+         "There has been some error related to %s.": [
+            ""
+         ],
+         "%d hour, ": [
+            "",
+            "%d hours, "
+         ],
+         "%d minute, ": [
+            "",
+            "%d minutes, "
+         ],
+         "ERROR: The URL %s is invalid and cannot redirect. Please contact the site administrator for help.": [
+            ""
+         ],
+         "Administrator Remarks": [
+            ""
+         ],
+         "this will show up in submission summary.": [
+            ""
+         ],
+         "This will reset the form. Action cannot be undone, are you sure?": [
+            ""
+         ],
+         "The submission has been updated.": [
+            ""
+         ],
+         "Oops, we have encountered an error!": [
+            ""
+         ],
+         "We have also sent an email to the user about this update.": [
+            ""
+         ],
+         "RETRY": [
+            ""
+         ],
+         "This math group is empty.": [
+            ""
+         ],
+         "enter your feedback here": [
+            ""
+         ],
+         "This group is empty.": [
+            ""
+         ],
+         "This slider group is empty.": [
+            ""
+         ],
+         "Unknown Row": [
+            ""
+         ],
+         "Unknown column": [
+            ""
+         ],
+         "UNKNOWN ITEM": [
+            ""
+         ],
+         "No user input.": [
+            ""
+         ],
+         "…": [
+            ""
+         ],
+         "Unknown row": [
+            ""
+         ],
+         "Count not load countries, please enter manually": [
+            ""
+         ],
+         "Country": [
+            ""
+         ],
+         "could not load states, please enter manually": [
+            ""
+         ],
+         "State": [
+            ""
+         ],
+         "A server side error has occured": [
+            ""
+         ],
+         "There was an error trying to fetch form data from the server. Try refreshing the page to see if that resolves it.": [
+            ""
+         ],
+         "Cancel edit": [
+            ""
+         ],
+         "Could not get submission data": [
+            ""
+         ],
+         "There was some problem retrieving submission. Please reload the page and try again.": [
+            ""
+         ],
+         "You cannot edit the submission": [
+            ""
+         ],
+         "GO BACK TO PREVIEW": [
+            ""
+         ],
+         "It is not possible to edit this submission. Only managers can make changes to the data. If you think this is a mistake, kindly contact the site administrator.": [
+            ""
+         ],
+         "at": [
+            ""
+         ],
+         "Print submission": [
+            ""
+         ],
+         "Print Submission": [
+            ""
+         ],
+         "Download submission as PDF": [
+            ""
+         ],
+         "Edit Submission": [
+            ""
+         ],
+         "Form": [
+            "ফর্ম"
+         ],
+         "Submission Id": [
+            "জমা আইডি"
+         ],
+         "Created On": [
+            "তৈরি তারিখ"
+         ],
+         "Updated On": [
+            "আপডেট তারিখ"
+         ],
+         "Record": [
+            "রেকর্ড"
+         ],
+         "Remarks": [
+            "মন্তব্য"
+         ],
+         "Duration": [
+            "সময়"
+         ],
+         "Score Outcome": [
+            ""
+         ],
+         "Score": [
+            "",
+            "Scores"
+         ],
+         "Designation": [
+            "",
+            "Designations"
+         ],
+         "The submission could not be found": [
+            ""
+         ],
+         "RE ENTER SUBMISSION ID": [
+            ""
+         ],
+         "There was an error trying to fetch submission data from the server. Try refreshing the page to see if that resolves it.": [
+            ""
+         ],
+         "please enter the submission id here": [
+            ""
+         ],
+         "Please enter a submission id.": [
+            ""
+         ],
+         "PREVIEW": [
+            ""
+         ],
+         "Enter submission id": [
+            ""
+         ],
+         "10 items": [
+            ""
+         ],
+         "20 items": [
+            ""
+         ],
+         "30 items": [
+            ""
+         ],
+         "40 items": [
+            ""
+         ],
+         "per page": [
+            ""
+         ],
+         "no results found.": [
+            ""
+         ],
+         "Go previous": [
+            ""
+         ],
+         "Go next": [
+            ""
+         ],
+         "Ascending": [
+            ""
+         ],
+         "Descending": [
+            ""
+         ],
+         "search items": [
+            ""
+         ],
+         "Sort by": [
+            ""
+         ],
+         "to": [
+            ""
+         ],
+         "filter by a form": [
+            "একটি ফর্ম দ্বারা ফিল্টার"
+         ],
+         "no forms found.": [
+            ""
+         ],
+         "search forms": [
+            ""
+         ],
+         "filter by a category": [
+            ""
+         ],
+         "no categories found.": [
+            ""
+         ],
+         "search categories": [
+            ""
+         ],
+         "filter by date": [
+            ""
+         ],
+         "start / end date": [
+            ""
+         ],
+         "FILTERS": [
+            ""
+         ],
+         "LOGOUT": [
+            ""
+         ],
+         "Submission created %%CREATEDATE%%.": [
+            ""
+         ],
+         "Last updated %%UPDATEDATE%%.": [
+            ""
+         ],
+         "You have obtained %%SCORE%% / %%TOTALSCORE%%.": [
+            ""
+         ],
+         "ADMIN REMARKS": [
+            ""
+         ],
+         "DOWNLOAD": [
+            ""
+         ],
+         "VIEW": [
+            ""
+         ],
+         "Form Id": [
+            ""
+         ],
+         "First Name": [
+            ""
+         ],
+         "Last Name": [
+            ""
+         ],
+         "Email": [
+            ""
+         ],
+         "Phone": [
+            ""
+         ],
+         "% Score": [
+            ""
+         ],
+         "Created": [
+            ""
+         ],
+         "Updated": [
+            ""
+         ],
+         "Paid": [
+            ""
+         ],
+         "Time": [
+            ""
+         ],
+         "You do not have any submissions yet.": [
+            ""
+         ],
+         "No submissions found for selected filters. Try clearing them.": [
+            ""
+         ],
+         "CLEAR FILTERS": [
+            ""
+         ],
+         "No submissions founds. Try clearing the search.": [
+            ""
+         ],
+         "CLEAR SEARCH": [
+            ""
+         ],
+         "Could not fetch submissions.": [
+            ""
+         ],
+         "There was some error trying to fetch data. Please refresh the page and see if that resolves the issue.": [
+            ""
+         ],
+         "Please select a submission to preview it here.": [
+            ""
+         ],
+         "Submissions": [
+            ""
+         ],
+         "Submission": [
+            ""
+         ],
+         "search submissions": [
+            "সাবমিশন খুজুন"
+         ],
+         "Could not load submissions page.": [
+            ""
+         ],
+         "There was an error trying to fetch submissions data from the server. Make sure you are logged in and try refreshing the page to see if that resolves it.": [
+            ""
+         ],
+         "Welcome %%USERNAME%%": [
+            "স্বাগত %%USERNAME%%"
+         ],
+         "You have %%SUBMISSIONS%% submission, with an average score of %%SCOREAVG%%%.": [
+            "আপনার %%SUBMISSIONS%% টি সাবমিশন জমা আছে, যার গড় স্কোর %%SCOREAVG%%%।"
+         ],
+         "You have %%SUBMISSIONS%% submissions, with an average score of %%SCOREAVG%%%.": [
+            "আপনার %%SUBMISSIONS%% টি সাবমিশন জমা আছে, যার গড় স্কোর %%SCOREAVG%%%।"
+         ],
+         "wp-eform-mask-placeholder\u0004_": [
+            ""
+         ],
+         "format-time-from-seconds\u0004%1$s, %2$s, %3$s": [
+            ""
+         ],
+         "format-time-from-seconds\u0004%1$s, %2$s": [
+            ""
+         ],
+         "timer\u0004%s:%s:%s": [
+            ""
+         ],
+         "hours short form\u0004h": [
+            ""
+         ],
+         "minutes short form\u0004m": [
+            ""
+         ],
+         "seconds short form\u0004s": [
+            ""
+         ],
+         "rating-separator\u0004 / ": [
+            ""
+         ],
+         "matrixchoice-dislay-heading-separator\u0004: ": [
+            ""
+         ],
+         "matrixchoice-column-separator\u0004, ": [
+            ""
+         ],
+         "matrixchoice-row-separator\u0004 | ": [
+            ""
+         ],
+         "sortable-item-separator\u0004, ": [
+            ""
+         ],
+         "matrixinput-dislay-row-col-separator\u0004 / ": [
+            ""
+         ],
+         "matrixinput-dislay-heading-separator\u0004: ": [
+            ""
+         ],
+         "matrixinput-display-empty-value\u0004…": [
+            ""
+         ],
+         "matrixinput-row-col-value-separator\u0004, ": [
+            ""
+         ],
+         "address-item-separator\u0004, ": [
+            ""
+         ],
+         "wpeform-useredit-heading\u0004Editing submission on %%FORM%%": [
+            ""
+         ],
+         "submission-summary-score\u0004%s / %s": [
+            ""
+         ],
+         "pagination-separator\u0004/": [
+            ""
+         ],
+         "datatable-items-in-page\u0004Showing %1$d-%2$d / %3$d %4$s": [
+            ""
+         ]
+      }
+   }
+}

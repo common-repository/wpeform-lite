@@ -1,0 +1,47 @@
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*!
+ * 
+ * WPEForm - WordPress Form Solution
+ * 
+ * @author Swashata Ghosh (WPEForm)
+ * @version 1.6.5
+ * @link GPL-3.0
+ * @license GPL-3.0
+ * 
+ * Copyright (c) 2023 Swashata Ghosh (WPEForm)
+ * 
+ * This software is released under the GPL-3.0 License
+ * https://opensource.org/licenses/GPL-3.0
+ * 
+ * Compiled with the help of https://wpack.io
+ * A zero setup Webpack Bundler Script for WordPress
+ */
+
+/*!
+ * Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2022 Fonticons, Inc.
+ */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */

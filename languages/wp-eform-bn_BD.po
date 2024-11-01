@@ -1,0 +1,2593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPEForm - Drag and Drop Live Form Builder 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpeform-lite\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-30T11:12:21+05:30\n"
+"PO-Revision-Date: 2021-07-30 15:41+0530\n"
+"Language: bn_IN\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Domain: wp-eform\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+
+#. Plugin Name of the plugin
+msgid "WPEForm - Drag and Drop Live Form Builder"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wpeform.io"
+msgstr ""
+
+#. Description of the plugin
+msgid "For complete form management solution with cost estimation, quizzes, surveys, data collection and user feedback of all kinds."
+msgstr ""
+
+#. Author of the plugin
+#: inc/View/Admin/App.php:57 inc/View/Admin/Base.php:179
+#: package/wp-eform/inc/View/Admin/App.php:57
+#: package/wp-eform/inc/View/Admin/Base.php:179
+msgid "WPEForm"
+msgstr ""
+
+#: inc/Controller/Submission.php:637
+#: package/wp-eform/inc/Controller/Submission.php:637
+msgid "Deleted"
+msgstr "বিলোপ"
+
+#: inc/Editor/Block.php:54 package/wp-eform/inc/Editor/Block.php:54
+msgid "ERROR: No form id provided."
+msgstr "ত্রুটি: কোনও ফর্ম আইডি সরবরাহ করা হয়নি।"
+
+#: inc/Editor/Block.php:59 package/wp-eform/inc/Editor/Block.php:59
+msgid "ERROR: The form no longer exists."
+msgstr ""
+
+#: inc/Factory/Form/Elements.php:77
+#: package/wp-eform/inc/Factory/Form/Elements.php:77
+msgid "New Element"
+msgstr ""
+
+#: inc/Factory/Form/Elements.php:103
+#: package/wp-eform/inc/Factory/Form/Elements.php:103
+msgid "Show help"
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:67
+#: package/wp-eform/inc/Form/Config/Payments/General.php:67
+msgid "Every <mentions character=\"::paymentFrequency::\"></mentions> <mentions character=\"::paymentInterval::\"></mentions>"
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:87
+#: package/wp-eform/inc/Form/Config/Payments/General.php:87
+msgid "Sorry but your submission would be visible only after completing the payment."
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:145
+#: package/wp-eform/inc/Form/Config/Payments/General.php:145
+msgid "Successfully paid for Order <mentions character=\"::invoiceId::\" /> via <mentions character=\"::paymentGatewayName::\"></mentions>"
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:157
+#: package/wp-eform/inc/Form/Config/Payments/General.php:157
+msgid "Your payment was successful. Your Order ID is <mentions character=\"::invoiceId::\"></mentions>. Kindly take a note of it for future references."
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:172
+#: package/wp-eform/inc/Form/Config/Payments/General.php:172
+msgid "Payment Error for Order ID <mentions character=\"::invoiceId::\" /> with <mentions character=\"::paymentGatewayName::\" />"
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:180
+#: package/wp-eform/inc/Form/Config/Payments/General.php:180
+msgid "Your payment could not be processed at this moment. Please try again. If any amount was deducted, it will be refunded automatically."
+msgstr "এই মুহুর্তে আপনার প্রদান প্রক্রিয়া করা যায়নি। দয়া করে আবার চেষ্টা করুন। যদি কোনও পরিমাণ কেটে নেওয়া হয় তবে এটি স্বয়ংক্রিয়ভাবে ফেরত দেওয়া হবে।"
+
+#: inc/Form/Config/Payments/General.php:183
+#: package/wp-eform/inc/Form/Config/Payments/General.php:183
+msgid "For future communications, kindly note the Invoice Id <mentions character=\"::invoiceId::\" />. You can also retry the payment using the form below."
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:191
+#: package/wp-eform/inc/Form/Config/Payments/General.php:191
+msgid "Payment Cancelled for Order ID <mentions character=\"::invoiceId::\" />"
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:197
+#: package/wp-eform/inc/Form/Config/Payments/General.php:197
+msgid "Your payment was cancelled before it could be completed. You can retry the payment using the form below."
+msgstr ""
+
+#: inc/Form/Config/Payments/General.php:201
+#: package/wp-eform/inc/Form/Config/Payments/General.php:201
+msgid "[RETRY] "
+msgstr ""
+
+#: inc/Form/Config/Payments/Offline.php:50
+#: package/wp-eform/inc/Form/Config/Payments/Offline.php:50
+msgid "Bank Transfer"
+msgstr ""
+
+#: inc/Form/Config/Payments/Offline.php:56
+#: package/wp-eform/inc/Form/Config/Payments/Offline.php:56
+msgid "Please note down our bank details and submit the form. Once transferred, contact us back with the transaction ID and submission ID which you will find after the order."
+msgstr ""
+
+#: inc/Form/Config/Payments/Offline.php:59
+#: package/wp-eform/inc/Form/Config/Payments/Offline.php:59
+msgid "Enter the bank details here."
+msgstr ""
+
+#: inc/Form/Config/Payments/Offline.php:68
+#: package/wp-eform/inc/Form/Config/Payments/Offline.php:68
+msgid "Awaiting confirmation of your payment. If you have completed the payment, please get in touch with us with Order Id <mentions character=\"::invoiceId::\" />."
+msgstr ""
+
+#: inc/Form/Config/Payments/Offline.php:141
+#: package/wp-eform/inc/Form/Config/Payments/Offline.php:141
+msgid "Offline Payment"
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:58
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:58
+msgid "Sorry the form can not be submitted any more."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:64
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:64
+msgid "Only <mentions character=\"::totalRemainingSubmissions::\" /> submissions left. "
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:65
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:65
+msgid "<mentions character=\"::totalSubmissions::\" /> already filled in."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:73
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:73
+msgid "Submission limit from your email has been exceeded."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:79
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:79
+msgid "Submission limit from this IP address has been exceeded."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:87
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:87
+msgid "Your submission limit has been exceeded. You can check <a href=\"%PORTAL_LINK%\">your portal page</a> to access previous submissions."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:95
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:95
+msgid "You have exceeded your limit to submit this form."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:106
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:106
+msgid "Sorry you can not submit this form. You need to be <a href=\"%LOGIN_LINK%\">logged in</a> to be able to submit this form."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:114
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:114
+msgid "Sorry you can not submit this form. You need to be <a href=\"%LOGOUT_LINK%\">logged out</a> to be able to submit this form."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:124
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:124
+msgid "Slow down there. You need to wait for atleast <mentions character=\"::submissionWaitTime::\" /> before submitting again."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:134
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:134
+msgid "Sorry we are not accepting submissions till <mentions character=\"::submissionStartDate::\" />."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:143
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:143
+msgid "Sorry the form has expired on <mentions character=\"::submissionEndDate::\" />."
+msgstr ""
+
+#: inc/Form/Config/Permissions/SubmissionPermission.php:153
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:153
+msgid "It looks like you have already submitted this form. You can browse it <a href=\"%LAST_SUBMISSION_LINK%\">here</a>. You can also continue to submit the form again."
+msgstr ""
+
+#. translators: %s is replaed by the number of minutes to wait for
+#: inc/Form/Config/Permissions/SubmissionPermission.php:375
+#: package/wp-eform/inc/Form/Config/Permissions/SubmissionPermission.php:375
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/Form/Config/Settings/AdminNotification.php:124
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:124
+msgid "Administrate Submission"
+msgstr ""
+
+#: inc/Form/Config/Settings/AdminNotification.php:140
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:140
+msgid "New Form Submission Notification"
+msgstr ""
+
+#: inc/Form/Config/Settings/AdminNotification.php:145
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:145
+msgid "A new submission has been made. You can visit it at <a href=\"%ADMIN_SUBMISSION_LINK%\">this link</a>."
+msgstr ""
+
+#: inc/Form/Config/Settings/AdminNotification.php:148
+#: inc/Form/Config/Settings/AdminNotification.php:162
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:148
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:162
+msgid "Yours truly, WP EForm Plugin."
+msgstr ""
+
+#: inc/Form/Config/Settings/AdminNotification.php:154
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:154
+msgid "Form Update Notification"
+msgstr ""
+
+#: inc/Form/Config/Settings/AdminNotification.php:159
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:159
+msgid "An existing submission has been updated. You can visit it at <a href=\"%ADMIN_SUBMISSION_LINK%\">this link</a>."
+msgstr ""
+
+#: inc/Form/Config/Settings/AdminNotification.php:167
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:167
+msgid "This is an autogenerated email. You are receiving this email because you are a manager of a form."
+msgstr ""
+
+#. translators: Dont replace %FORM_ADMIN_LINK% it is handled by the system
+#: inc/Form/Config/Settings/AdminNotification.php:171
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:171
+msgid "If you do not wish to receive emails, kindly visit the <a href=\"%FORM_ADMIN_LINK%\">administrator page</a> and modify your notification preferences."
+msgstr ""
+
+#. translators: %1$s is the site name
+#: inc/Form/Config/Settings/AdminNotification.php:175
+#: inc/Form/Config/Settings/UserNotification.php:235
+#: package/wp-eform/inc/Form/Config/Settings/AdminNotification.php:175
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:235
+msgid "&copy; %1$s. This is not a marketing email."
+msgstr ""
+
+#: inc/Form/Config/Settings/Timer.php:99
+#: package/wp-eform/inc/Form/Config/Settings/Timer.php:99
+msgid "left before you run out of time."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:145
+#: inc/Form/Config/Settings/UserNotification.php:167
+#: inc/Form/Config/Settings/UserNotification.php:189
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:145
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:167
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:189
+msgid "Hey <mentions character=\"::fName::\"></mentions> "
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:146
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:146
+msgid "we have got your answers"
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:154
+#: inc/Form/Config/Settings/UserNotification.php:176
+#: inc/Form/Config/Settings/UserNotification.php:198
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:154
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:176
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:198
+msgid "Hey <mentions character=\"::fName::\"></mentions>,"
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:157
+#: inc/Form/Config/Settings/UserNotification.php:179
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:157
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:179
+msgid "Thank you <mentions character=\"::name::\"></mentions> for the submission."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:158
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:158
+msgid "  We have received your answers, which you can see online by clicking the link below."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:159
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:159
+msgid " For your convenience we have also included the submission data we have recorded in this email."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:168
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:168
+msgid "your submission has been updated"
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:180
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:180
+msgid "  We have updated the record according to your changes. You can view it online following the link below."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:181
+#: inc/Form/Config/Settings/UserNotification.php:208
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:181
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:208
+msgid " For your convenience we have also included the submission data we have updated in this email."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:190
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:190
+msgid "an admin has updated your submission"
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:201
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:201
+msgid "Our staff has updated your submission. The following remarks were added."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:204
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:204
+msgid "<mentions character=\"::adminRemarks::\"></mentions>"
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:207
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:207
+msgid "You can view it online following the link below."
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:224
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:224
+msgid "View Online"
+msgstr ""
+
+#: inc/Form/Config/Settings/UserNotification.php:230
+#: package/wp-eform/inc/Form/Config/Settings/UserNotification.php:230
+msgid "You are receiving this email because you have submitted a form."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:50
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:50
+msgid "Thank you for submitting the form."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:55
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:55
+msgid "Thank you <mentions character=\"::fName::\"></mentions>, your submission has been recorded. You can visit it at <a href=\"%SUBMISSION_LINK%\">this link</a>."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:58
+#: inc/Form/Config/Styles/FormBehavior.php:71
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:58
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:71
+msgid "We will get back to you as soon as possible. For confirmation we have also sent you an email."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:63
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:63
+msgid "Thank you for updating the submission."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:68
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:68
+msgid "Your submission has been updated. You can visit it at <a href=\"%SUBMISSION_LINK%\">this link</a>."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:76
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:76
+msgid "Resetting the kiosk in <mentions character=\"::kioskResetTime::\"></mentions>."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:81
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:81
+msgid "Oops, we have encountered an error."
+msgstr ""
+
+#: inc/Form/Config/Styles/FormBehavior.php:108
+#: package/wp-eform/inc/Form/Config/Styles/FormBehavior.php:108
+msgid "RETRY"
+msgstr ""
+
+#: inc/Form/Config/Styles/Pagination.php:100 inc/Helpers/element.php:230
+#: package/wp-eform/inc/Form/Config/Styles/Pagination.php:100
+#: package/wp-eform/inc/Helpers/element.php:230
+msgid "Next"
+msgstr ""
+
+#: inc/Form/Config/Styles/Pagination.php:107 inc/Helpers/element.php:216
+#: package/wp-eform/inc/Form/Config/Styles/Pagination.php:107
+#: package/wp-eform/inc/Helpers/element.php:216
+msgid "Previous"
+msgstr ""
+
+#: inc/Form/Config/Styles/Pagination.php:114 inc/Helpers/element.php:223
+#: package/wp-eform/inc/Form/Config/Styles/Pagination.php:114
+#: package/wp-eform/inc/Helpers/element.php:223
+msgid "Submit"
+msgstr ""
+
+#: inc/Form/Config/Styles/Pagination.php:121
+#: package/wp-eform/inc/Form/Config/Styles/Pagination.php:121
+msgid "Update"
+msgstr ""
+
+#: inc/Form/Config/Styles/Pagination.php:129
+#: package/wp-eform/inc/Form/Config/Styles/Pagination.php:129
+msgid "Reset"
+msgstr ""
+
+#: inc/Form/Config/Styles/Pagination.php:131
+#: package/wp-eform/inc/Form/Config/Styles/Pagination.php:131
+msgid "This will reset your form and the action can not be undone. Are you sure?"
+msgstr ""
+
+#: inc/Form/Config/Styles/Redirection.php:50
+#: package/wp-eform/inc/Form/Config/Styles/Redirection.php:50
+msgid "You will be redirected in <mentions character=\"::redirectDelay::\"></mentions>. If your browser fails to redirect, then please <a href=\"%REDIRECT_LINK%\">Click Here</a>."
+msgstr ""
+
+#: inc/Form/Element/Address.php:53 inc/Form/Element/Address.php:69
+#: package/wp-eform/inc/Form/Element/Address.php:53
+#: package/wp-eform/inc/Form/Element/Address.php:69
+msgid "Address"
+msgstr ""
+
+#: inc/Form/Element/Address.php:54
+#: package/wp-eform/inc/Form/Element/Address.php:54
+msgid "Take address from users, with customizable fields."
+msgstr ""
+
+#: inc/Form/Element/Address.php:85
+#: package/wp-eform/inc/Form/Element/Address.php:85
+msgid "House no. and street"
+msgstr ""
+
+#: inc/Form/Element/Address.php:90
+#: package/wp-eform/inc/Form/Element/Address.php:90
+msgid "Locality / sector"
+msgstr ""
+
+#: inc/Form/Element/Address.php:95
+#: package/wp-eform/inc/Form/Element/Address.php:95
+msgid "Country"
+msgstr ""
+
+#: inc/Form/Element/Address.php:106
+#: package/wp-eform/inc/Form/Element/Address.php:106
+msgid "State"
+msgstr ""
+
+#: inc/Form/Element/Address.php:111
+#: package/wp-eform/inc/Form/Element/Address.php:111
+msgid "City / Town / Village"
+msgstr ""
+
+#: inc/Form/Element/Address.php:116
+#: package/wp-eform/inc/Form/Element/Address.php:116
+msgid "Zip code"
+msgstr ""
+
+#: inc/Form/Element/Address.php:178
+#: package/wp-eform/inc/Form/Element/Address.php:178
+msgid "All of line one, city, country, state and zip must be filled."
+msgstr ""
+
+#: inc/Form/Element/Base.php:526 package/wp-eform/inc/Form/Element/Base.php:526
+msgid "Anonymous Question"
+msgstr ""
+
+#: inc/Form/Element/Buttons.php:51
+#: package/wp-eform/inc/Form/Element/Buttons.php:51
+msgid "Button Elements"
+msgstr ""
+
+#: inc/Form/Element/Buttons.php:52
+#: package/wp-eform/inc/Form/Element/Buttons.php:52
+msgid "Button elements to navigate, open a new link etc."
+msgstr ""
+
+#: inc/Form/Element/Buttons.php:67
+#: package/wp-eform/inc/Form/Element/Buttons.php:67
+msgid "Buttons element"
+msgstr ""
+
+#: inc/Form/Element/Captcha.php:50
+#: package/wp-eform/inc/Form/Element/Captcha.php:50
+msgid "Captcha"
+msgstr ""
+
+#: inc/Form/Element/Captcha.php:51
+#: package/wp-eform/inc/Form/Element/Captcha.php:51
+msgid "Anti bot measures. It will show a simple math challenge."
+msgstr ""
+
+#: inc/Form/Element/Captcha.php:66
+#: package/wp-eform/inc/Form/Element/Captcha.php:66
+msgid "Solve the challange"
+msgstr ""
+
+#: inc/Form/Element/Captcha.php:104 inc/Form/Element/Captcha.php:112
+#: package/wp-eform/inc/Form/Element/Captcha.php:104
+#: package/wp-eform/inc/Form/Element/Captcha.php:112
+msgid "Invalid captcha solution."
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:60
+#: package/wp-eform/inc/Form/Element/Checkbox.php:60
+msgid "Multiple Options"
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:61
+#: package/wp-eform/inc/Form/Element/Checkbox.php:61
+msgid "Select multiple options from a list of options. Input checkbox control."
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:76
+#: package/wp-eform/inc/Form/Element/Checkbox.php:76
+msgid "Multiple Options element"
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:107 inc/Form/Element/Dropdown.php:123
+#: inc/Form/Element/Radio.php:104
+#: package/wp-eform/inc/Form/Element/Checkbox.php:107
+#: package/wp-eform/inc/Form/Element/Dropdown.php:123
+#: package/wp-eform/inc/Form/Element/Radio.php:104
+msgid "enter your choice here"
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:166 inc/Form/Element/DateTimeInput.php:143
+#: inc/Form/Element/Dropdown.php:186 inc/Form/Element/MatrixChoice.php:242
+#: inc/Form/Element/MatrixInput.php:235 inc/Form/Element/Radio.php:162
+#: inc/Form/Element/Rating.php:222 inc/Form/Element/Text.php:152
+#: inc/Form/Element/Textarea.php:142
+#: package/wp-eform/inc/Form/Element/Checkbox.php:166
+#: package/wp-eform/inc/Form/Element/DateTimeInput.php:143
+#: package/wp-eform/inc/Form/Element/Dropdown.php:186
+#: package/wp-eform/inc/Form/Element/MatrixChoice.php:242
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:235
+#: package/wp-eform/inc/Form/Element/Radio.php:162
+#: package/wp-eform/inc/Form/Element/Rating.php:222
+#: package/wp-eform/inc/Form/Element/Text.php:152
+#: package/wp-eform/inc/Form/Element/Textarea.php:142
+msgid "A value is required."
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:178 inc/Form/Element/Dropdown.php:198
+#: inc/Form/Element/Radio.php:174
+#: package/wp-eform/inc/Form/Element/Checkbox.php:178
+#: package/wp-eform/inc/Form/Element/Dropdown.php:198
+#: package/wp-eform/inc/Form/Element/Radio.php:174
+msgid "Other value can not be empty."
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:217 inc/Form/Element/Dropdown.php:244
+#: inc/Form/Element/Radio.php:205
+#: package/wp-eform/inc/Form/Element/Checkbox.php:217
+#: package/wp-eform/inc/Form/Element/Dropdown.php:244
+#: package/wp-eform/inc/Form/Element/Radio.php:205
+msgid "Unknown option"
+msgstr ""
+
+#: inc/Form/Element/Checkbox.php:301 inc/Form/Element/Dropdown.php:330
+#: inc/Form/Element/MatrixChoice.php:443 inc/Form/Element/Radio.php:297
+#: package/wp-eform/inc/Form/Element/Checkbox.php:301
+#: package/wp-eform/inc/Form/Element/Dropdown.php:330
+#: package/wp-eform/inc/Form/Element/MatrixChoice.php:443
+#: package/wp-eform/inc/Form/Element/Radio.php:297
+msgid "No options selected."
+msgstr ""
+
+#: inc/Form/Element/Column.php:45
+#: package/wp-eform/inc/Form/Element/Column.php:45
+msgid "Column Container"
+msgstr ""
+
+#: inc/Form/Element/Column.php:46
+#: package/wp-eform/inc/Form/Element/Column.php:46
+msgid "Goes inside Row container and can contain any other elements."
+msgstr ""
+
+#: inc/Form/Element/Column.php:71
+#: package/wp-eform/inc/Form/Element/Column.php:71
+msgid "Column Container element"
+msgstr ""
+
+#: inc/Form/Element/DateTimeInput.php:61 inc/Form/Element/DateTimeInput.php:77
+#: package/wp-eform/inc/Form/Element/DateTimeInput.php:61
+#: package/wp-eform/inc/Form/Element/DateTimeInput.php:77
+msgid "Datetime Picker"
+msgstr ""
+
+#: inc/Form/Element/DateTimeInput.php:62
+#: package/wp-eform/inc/Form/Element/DateTimeInput.php:62
+msgid "Take user input of date / time."
+msgstr ""
+
+#. translators: %1$s is replaced by datetime string
+#: inc/Form/Element/DateTimeInput.php:156
+#: package/wp-eform/inc/Form/Element/DateTimeInput.php:156
+msgid "Value must not be less than %1$s."
+msgstr ""
+
+#. translators: %1$s is replaced by datetime string
+#: inc/Form/Element/DateTimeInput.php:172
+#: package/wp-eform/inc/Form/Element/DateTimeInput.php:172
+msgid "Value must not be greater than %1$s."
+msgstr ""
+
+#: inc/Form/Element/DateTimeInput.php:183
+#: package/wp-eform/inc/Form/Element/DateTimeInput.php:183
+msgid "DateTime element requires starter plan or higher, please remove this element from your form."
+msgstr ""
+
+#: inc/Form/Element/Dropdown.php:62
+#: package/wp-eform/inc/Form/Element/Dropdown.php:62
+msgid "Dropdown Selection"
+msgstr ""
+
+#: inc/Form/Element/Dropdown.php:63
+#: package/wp-eform/inc/Form/Element/Dropdown.php:63
+msgid "Let user choose one or multiple items from a list."
+msgstr ""
+
+#: inc/Form/Element/Dropdown.php:78
+#: package/wp-eform/inc/Form/Element/Dropdown.php:78
+msgid "Dropdown Selection element"
+msgstr ""
+
+#: inc/Form/Element/Dropdown.php:93
+#: package/wp-eform/inc/Form/Element/Dropdown.php:93
+msgid "select an option"
+msgstr ""
+
+#: inc/Form/Element/Dropdown.php:98
+#: package/wp-eform/inc/Form/Element/Dropdown.php:98
+msgid "search through options"
+msgstr ""
+
+#: inc/Form/Element/Dropdown.php:102
+#: package/wp-eform/inc/Form/Element/Dropdown.php:102
+msgid "Could not find what you were looking for. Kindly broaden your search"
+msgstr ""
+
+#: inc/Form/Element/Dropdown.php:206
+#: package/wp-eform/inc/Form/Element/Dropdown.php:206
+msgid "Can have only one selection."
+msgstr ""
+
+#: inc/Form/Element/Group.php:47 package/wp-eform/inc/Form/Element/Group.php:47
+msgid "Question Group"
+msgstr ""
+
+#: inc/Form/Element/Group.php:48 package/wp-eform/inc/Form/Element/Group.php:48
+msgid "Group multiple questions together."
+msgstr ""
+
+#: inc/Form/Element/Group.php:63 package/wp-eform/inc/Form/Element/Group.php:63
+msgid "Question Group element"
+msgstr ""
+
+#: inc/Form/Element/Heading.php:53
+#: package/wp-eform/inc/Form/Element/Heading.php:53
+msgid "Heading & Article"
+msgstr ""
+
+#: inc/Form/Element/Heading.php:54
+#: package/wp-eform/inc/Form/Element/Heading.php:54
+msgid "Show a nice looking title with icons, dividers, scroll button and optionally some article."
+msgstr ""
+
+#: inc/Form/Element/Heading.php:69
+#: package/wp-eform/inc/Form/Element/Heading.php:69
+msgid "Heading Article element"
+msgstr ""
+
+#: inc/Form/Element/MathCalc.php:52
+#: package/wp-eform/inc/Form/Element/MathCalc.php:52
+msgid "Mathematical Output"
+msgstr ""
+
+#: inc/Form/Element/MathCalc.php:53
+#: package/wp-eform/inc/Form/Element/MathCalc.php:53
+msgid "Output numbers using mathematical formula involving other form elements."
+msgstr ""
+
+#: inc/Form/Element/MathCalc.php:68
+#: package/wp-eform/inc/Form/Element/MathCalc.php:68
+msgid "Mathematical Output element"
+msgstr ""
+
+#: inc/Form/Element/MathCalc.php:124
+#: package/wp-eform/inc/Form/Element/MathCalc.php:124
+msgid "MathCalc element works with starter plan or higher. Please remove this from your form."
+msgstr ""
+
+#: inc/Form/Element/MathCalcGroup.php:45
+#: package/wp-eform/inc/Form/Element/MathCalcGroup.php:45
+msgid "Math Group"
+msgstr ""
+
+#: inc/Form/Element/MathCalcGroup.php:46
+#: package/wp-eform/inc/Form/Element/MathCalcGroup.php:46
+msgid "Output a group of numbers using mathematical formula involving other form elements."
+msgstr ""
+
+#: inc/Form/Element/MathCalcGroup.php:61
+#: package/wp-eform/inc/Form/Element/MathCalcGroup.php:61
+msgid "Calculations Element"
+msgstr ""
+
+#: inc/Form/Element/MatrixChoice.php:59
+#: package/wp-eform/inc/Form/Element/MatrixChoice.php:59
+msgid "Matrix Choice"
+msgstr ""
+
+#: inc/Form/Element/MatrixChoice.php:60
+#: package/wp-eform/inc/Form/Element/MatrixChoice.php:60
+msgid "Group of radio or checkbox in tabular data."
+msgstr ""
+
+#: inc/Form/Element/MatrixChoice.php:75
+#: package/wp-eform/inc/Form/Element/MatrixChoice.php:75
+msgid "Matrix Choice element"
+msgstr ""
+
+#. translators: %1$d is replaced by row number
+#: inc/Form/Element/MatrixChoice.php:92 inc/Form/Element/MatrixInput.php:93
+#: package/wp-eform/inc/Form/Element/MatrixChoice.php:92
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:93
+msgid "Row %1$d"
+msgstr ""
+
+#. translators: %1$d is replaced by column number
+#: inc/Form/Element/MatrixChoice.php:114 inc/Form/Element/MatrixInput.php:115
+#: package/wp-eform/inc/Form/Element/MatrixChoice.php:114
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:115
+msgid "Column %1$d"
+msgstr ""
+
+#: inc/Form/Element/MatrixInput.php:60
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:60
+msgid "Matrix Input"
+msgstr ""
+
+#: inc/Form/Element/MatrixInput.php:61
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:61
+msgid "Group of text or textarea in tabular form."
+msgstr ""
+
+#: inc/Form/Element/MatrixInput.php:76
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:76
+msgid "Matrix Input element"
+msgstr ""
+
+#: inc/Form/Element/MatrixInput.php:318
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:318
+msgctxt "matrixinput-dislay-row-col-separator"
+msgid " / "
+msgstr ""
+
+#: inc/Form/Element/MatrixInput.php:324
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:324
+msgctxt "matrixinput-dislay-heading-separator"
+msgid ": "
+msgstr ""
+
+#: inc/Form/Element/MatrixInput.php:334
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:334
+msgctxt "matrixinput-display-empty-value"
+msgid "…"
+msgstr ""
+
+#: inc/Form/Element/MatrixInput.php:344
+#: package/wp-eform/inc/Form/Element/MatrixInput.php:344
+msgctxt "matrixinput-row-col-value-separator"
+msgid ", "
+msgstr ""
+
+#: inc/Form/Element/Radio.php:57 package/wp-eform/inc/Form/Element/Radio.php:57
+msgid "Single Option"
+msgstr ""
+
+#: inc/Form/Element/Radio.php:58 package/wp-eform/inc/Form/Element/Radio.php:58
+msgid "Select one option from a list of options. Input radio control."
+msgstr ""
+
+#: inc/Form/Element/Radio.php:73 package/wp-eform/inc/Form/Element/Radio.php:73
+msgid "Single Option element"
+msgstr ""
+
+#: inc/Form/Element/Range.php:57 package/wp-eform/inc/Form/Element/Range.php:57
+msgid "Range"
+msgstr ""
+
+#: inc/Form/Element/Range.php:58 package/wp-eform/inc/Form/Element/Range.php:58
+msgid "Accept two numeric values between a range."
+msgstr ""
+
+#: inc/Form/Element/Range.php:73 package/wp-eform/inc/Form/Element/Range.php:73
+msgid "Range element"
+msgstr ""
+
+#: inc/Form/Element/Range.php:152
+#: package/wp-eform/inc/Form/Element/Range.php:152
+msgid "Minimum entered value cannot be greater than maximum entered value."
+msgstr ""
+
+#: inc/Form/Element/Range.php:158 inc/Form/Element/Slider.php:142
+#: package/wp-eform/inc/Form/Element/Range.php:158
+#: package/wp-eform/inc/Form/Element/Slider.php:142
+msgid "Entered value is lower than minimum."
+msgstr ""
+
+#: inc/Form/Element/Range.php:163 inc/Form/Element/Slider.php:147
+#: package/wp-eform/inc/Form/Element/Range.php:163
+#: package/wp-eform/inc/Form/Element/Slider.php:147
+msgid "Entered value is greater than maximum."
+msgstr ""
+
+#: inc/Form/Element/Range.php:172
+#: package/wp-eform/inc/Form/Element/Range.php:172
+msgid "Range element works with starter plan or higher. Please remove this from your form."
+msgstr ""
+
+#: inc/Form/Element/RangeGroup.php:45
+#: package/wp-eform/inc/Form/Element/RangeGroup.php:45
+msgid "Range Group"
+msgstr ""
+
+#: inc/Form/Element/RangeGroup.php:46
+#: package/wp-eform/inc/Form/Element/RangeGroup.php:46
+msgid "Group of range elements."
+msgstr ""
+
+#: inc/Form/Element/RangeGroup.php:61
+#: package/wp-eform/inc/Form/Element/RangeGroup.php:61
+msgid "Range Group element"
+msgstr ""
+
+#: inc/Form/Element/Rating.php:58
+#: package/wp-eform/inc/Form/Element/Rating.php:58
+msgid "Rating"
+msgstr ""
+
+#: inc/Form/Element/Rating.php:59
+#: package/wp-eform/inc/Form/Element/Rating.php:59
+msgid "Rating with stars, emojis or custom icons with optional feedback / testimonial."
+msgstr ""
+
+#: inc/Form/Element/Rating.php:74
+#: package/wp-eform/inc/Form/Element/Rating.php:74
+msgid "Rating element"
+msgstr ""
+
+#: inc/Form/Element/Rating.php:114
+#: package/wp-eform/inc/Form/Element/Rating.php:114
+msgid "Tell us something about your rating"
+msgstr ""
+
+#: inc/Form/Element/Rating.php:232
+#: package/wp-eform/inc/Form/Element/Rating.php:232
+msgid "Selected value cannot be greater than maximum value."
+msgstr ""
+
+#: inc/Form/Element/Rating.php:247
+#: package/wp-eform/inc/Form/Element/Rating.php:247
+msgid "Feedback not provided."
+msgstr ""
+
+#: inc/Form/Element/Rating.php:257
+#: package/wp-eform/inc/Form/Element/Rating.php:257
+msgid "Rating element works with starter plan or higher. Please remove this from your form."
+msgstr ""
+
+#: inc/Form/Element/Rating.php:375
+#: package/wp-eform/inc/Form/Element/Rating.php:375
+msgid "None selected."
+msgstr ""
+
+#: inc/Form/Element/Rating.php:379
+#: package/wp-eform/inc/Form/Element/Rating.php:379
+msgctxt "rating-separator"
+msgid " / "
+msgstr ""
+
+#: inc/Form/Element/RatingGroup.php:45
+#: package/wp-eform/inc/Form/Element/RatingGroup.php:45
+msgid "Ratings Group"
+msgstr ""
+
+#: inc/Form/Element/RatingGroup.php:46
+#: package/wp-eform/inc/Form/Element/RatingGroup.php:46
+msgid "A group of rating elements."
+msgstr ""
+
+#: inc/Form/Element/RatingGroup.php:61
+#: package/wp-eform/inc/Form/Element/RatingGroup.php:61
+msgid "Ratings Group element"
+msgstr ""
+
+#: inc/Form/Element/Row.php:45 package/wp-eform/inc/Form/Element/Row.php:45
+msgid "Row Container"
+msgstr ""
+
+#: inc/Form/Element/Row.php:46 package/wp-eform/inc/Form/Element/Row.php:46
+msgid "Can contain multiple columns with different width."
+msgstr ""
+
+#: inc/Form/Element/Row.php:71 package/wp-eform/inc/Form/Element/Row.php:71
+msgid "Row Container element"
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:55
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:55
+msgid "Single Checkbox"
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:56
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:56
+msgid "A single checkbox element for yes/no type questions."
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:71
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:71
+msgid "Single Checkbox element"
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:131 inc/Form/Element/Toggle.php:139
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:131
+#: package/wp-eform/inc/Form/Element/Toggle.php:139
+msgid "The element is required."
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:152 inc/Form/Element/Toggle.php:91
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:152
+#: package/wp-eform/inc/Form/Element/Toggle.php:91
+msgid "Yes"
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:153 inc/Form/Element/Toggle.php:92
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:153
+#: package/wp-eform/inc/Form/Element/Toggle.php:92
+msgid "No"
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:218
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:218
+msgid "Yes."
+msgstr ""
+
+#: inc/Form/Element/SingleCheckbox.php:219
+#: package/wp-eform/inc/Form/Element/SingleCheckbox.php:219
+msgid "No."
+msgstr ""
+
+#: inc/Form/Element/Slider.php:56
+#: package/wp-eform/inc/Form/Element/Slider.php:56
+msgid "Slider"
+msgstr ""
+
+#: inc/Form/Element/Slider.php:57
+#: package/wp-eform/inc/Form/Element/Slider.php:57
+msgid "Accept a numeric value between a range."
+msgstr ""
+
+#: inc/Form/Element/Slider.php:72
+#: package/wp-eform/inc/Form/Element/Slider.php:72
+msgid "Slider element"
+msgstr ""
+
+#: inc/Form/Element/SliderGroup.php:45
+#: package/wp-eform/inc/Form/Element/SliderGroup.php:45
+msgid "Slider Group"
+msgstr ""
+
+#: inc/Form/Element/SliderGroup.php:46
+#: package/wp-eform/inc/Form/Element/SliderGroup.php:46
+msgid "Group of slider elements."
+msgstr ""
+
+#: inc/Form/Element/SliderGroup.php:61
+#: package/wp-eform/inc/Form/Element/SliderGroup.php:61
+msgid "Slider Group element"
+msgstr ""
+
+#: inc/Form/Element/Sortable.php:57
+#: package/wp-eform/inc/Form/Element/Sortable.php:57
+msgid "Sortable List"
+msgstr ""
+
+#: inc/Form/Element/Sortable.php:58
+#: package/wp-eform/inc/Form/Element/Sortable.php:58
+msgid "List of items which can be sorted by the form submitter."
+msgstr ""
+
+#: inc/Form/Element/Sortable.php:73
+#: package/wp-eform/inc/Form/Element/Sortable.php:73
+msgid "Sortable List element"
+msgstr ""
+
+#. translators: %1$d is replaced by the item number
+#: inc/Form/Element/Sortable.php:90
+#: package/wp-eform/inc/Form/Element/Sortable.php:90
+msgid "Sortable item %1$d"
+msgstr ""
+
+#: inc/Form/Element/StackedGroup.php:45
+#: package/wp-eform/inc/Form/Element/StackedGroup.php:45
+msgid "Stacked Group"
+msgstr ""
+
+#: inc/Form/Element/StackedGroup.php:46
+#: package/wp-eform/inc/Form/Element/StackedGroup.php:46
+msgid "Stacked form elements."
+msgstr ""
+
+#: inc/Form/Element/StackedGroup.php:61
+#: package/wp-eform/inc/Form/Element/StackedGroup.php:61
+msgid "Stacked element"
+msgstr ""
+
+#: inc/Form/Element/Text.php:58 package/wp-eform/inc/Form/Element/Text.php:58
+msgid "Single Line Input"
+msgstr ""
+
+#: inc/Form/Element/Text.php:59 package/wp-eform/inc/Form/Element/Text.php:59
+msgid "Gather one line input from users."
+msgstr ""
+
+#: inc/Form/Element/Text.php:74 package/wp-eform/inc/Form/Element/Text.php:74
+msgid "Single Line Input element"
+msgstr ""
+
+#: inc/Form/Element/Text.php:89 inc/Form/Element/Textarea.php:88
+#: package/wp-eform/inc/Form/Element/Text.php:89
+#: package/wp-eform/inc/Form/Element/Textarea.php:88
+msgid "write your answer here"
+msgstr ""
+
+#: inc/Form/Element/Textarea.php:57
+#: package/wp-eform/inc/Form/Element/Textarea.php:57
+msgid "Multi Line Input"
+msgstr ""
+
+#: inc/Form/Element/Textarea.php:58
+#: package/wp-eform/inc/Form/Element/Textarea.php:58
+msgid "Gather multi-line input from users."
+msgstr ""
+
+#: inc/Form/Element/Textarea.php:73
+#: package/wp-eform/inc/Form/Element/Textarea.php:73
+msgid "Multi Line Input element"
+msgstr ""
+
+#: inc/Form/Element/Toggle.php:57
+#: package/wp-eform/inc/Form/Element/Toggle.php:57
+msgid "Toggle Option"
+msgstr ""
+
+#: inc/Form/Element/Toggle.php:58
+#: package/wp-eform/inc/Form/Element/Toggle.php:58
+msgid "Yes or no type with a toggle switch form element."
+msgstr ""
+
+#: inc/Form/Element/Toggle.php:73
+#: package/wp-eform/inc/Form/Element/Toggle.php:73
+msgid "Toggle Option element"
+msgstr ""
+
+#: inc/Form/Element/Toggle.php:148
+#: package/wp-eform/inc/Form/Element/Toggle.php:148
+msgid "Toggle element works with starter plan or higher. Please remove this from your form."
+msgstr ""
+
+#: inc/GraphQL/Enum/Alignment.php:45
+#: package/wp-eform/inc/GraphQL/Enum/Alignment.php:45
+msgid "Alignment."
+msgstr ""
+
+#: inc/GraphQL/Enum/Alignment.php:49
+#: package/wp-eform/inc/GraphQL/Enum/Alignment.php:49
+msgid "Align left."
+msgstr ""
+
+#: inc/GraphQL/Enum/Alignment.php:53
+#: package/wp-eform/inc/GraphQL/Enum/Alignment.php:53
+msgid "Align center."
+msgstr ""
+
+#: inc/GraphQL/Enum/Alignment.php:57
+#: package/wp-eform/inc/GraphQL/Enum/Alignment.php:57
+msgid "Align right."
+msgstr ""
+
+#: inc/GraphQL/Enum/Alignment.php:61
+#: package/wp-eform/inc/GraphQL/Enum/Alignment.php:61
+msgid "Align justify."
+msgstr ""
+
+#: inc/GraphQL/Enum/AppearanceLayout.php:47
+#: package/wp-eform/inc/GraphQL/Enum/AppearanceLayout.php:47
+msgid "Appearance layout of an EForm element."
+msgstr ""
+
+#: inc/GraphQL/Enum/AppearanceLayout.php:51
+#: package/wp-eform/inc/GraphQL/Enum/AppearanceLayout.php:51
+msgid "Label on top, control on bottom."
+msgstr ""
+
+#: inc/GraphQL/Enum/AppearanceLayout.php:55
+#: package/wp-eform/inc/GraphQL/Enum/AppearanceLayout.php:55
+msgid "Label on left, control on right."
+msgstr ""
+
+#: inc/GraphQL/Enum/AppearanceLayout.php:59
+#: package/wp-eform/inc/GraphQL/Enum/AppearanceLayout.php:59
+msgid "Label on top center, control on bottom center."
+msgstr ""
+
+#: inc/GraphQL/Enum/ButtonIconPosition.php:45
+#: package/wp-eform/inc/GraphQL/Enum/ButtonIconPosition.php:45
+msgid "Button icon position."
+msgstr ""
+
+#: inc/GraphQL/Enum/ButtonIconPosition.php:49
+#: package/wp-eform/inc/GraphQL/Enum/ButtonIconPosition.php:49
+msgid "Position icon before button text."
+msgstr ""
+
+#: inc/GraphQL/Enum/ButtonIconPosition.php:53
+#: package/wp-eform/inc/GraphQL/Enum/ButtonIconPosition.php:53
+msgid "Position icon after button text."
+msgstr ""
+
+#: inc/GraphQL/Enum/ButtonOpenType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/ButtonOpenType.php:45
+msgid "Button open type."
+msgstr ""
+
+#: inc/GraphQL/Enum/ButtonOpenType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/ButtonOpenType.php:49
+msgid "Open in current window/tab."
+msgstr ""
+
+#: inc/GraphQL/Enum/ButtonOpenType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/ButtonOpenType.php:53
+msgid "Open in new window/tab."
+msgstr ""
+
+#: inc/GraphQL/Enum/ButtonOpenType.php:57
+#: package/wp-eform/inc/GraphQL/Enum/ButtonOpenType.php:57
+msgid "Open in popup window/tab."
+msgstr ""
+
+#: inc/GraphQL/Enum/CollectionPaginationType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/CollectionPaginationType.php:45
+msgid "Pagination type for a collection."
+msgstr ""
+
+#: inc/GraphQL/Enum/CollectionPaginationType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/CollectionPaginationType.php:49
+msgid "Offset based pagination."
+msgstr ""
+
+#: inc/GraphQL/Enum/CollectionPaginationType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/CollectionPaginationType.php:53
+msgid "Cursor based pagination."
+msgstr ""
+
+#: inc/GraphQL/Enum/ConsequenceAction.php:45
+#: package/wp-eform/inc/GraphQL/Enum/ConsequenceAction.php:45
+msgid "Possible action in conditional logic consequence."
+msgstr ""
+
+#: inc/GraphQL/Enum/ConsequenceAction.php:49
+#: package/wp-eform/inc/GraphQL/Enum/ConsequenceAction.php:49
+msgid "Show fields."
+msgstr ""
+
+#: inc/GraphQL/Enum/ConsequenceAction.php:53
+#: package/wp-eform/inc/GraphQL/Enum/ConsequenceAction.php:53
+msgid "Hide fields."
+msgstr ""
+
+#: inc/GraphQL/Enum/ConsequenceAction.php:57
+#: package/wp-eform/inc/GraphQL/Enum/ConsequenceAction.php:57
+msgid "Set value of a field."
+msgstr ""
+
+#: inc/GraphQL/Enum/ConsequenceAction.php:61
+#: package/wp-eform/inc/GraphQL/Enum/ConsequenceAction.php:61
+msgid "Show pages"
+msgstr ""
+
+#: inc/GraphQL/Enum/ConsequenceAction.php:65
+#: package/wp-eform/inc/GraphQL/Enum/ConsequenceAction.php:65
+msgid "Hide pages"
+msgstr ""
+
+#: inc/GraphQL/Enum/DarkThemeMode.php:45
+#: package/wp-eform/inc/GraphQL/Enum/DarkThemeMode.php:45
+msgid "Dark theme mode."
+msgstr ""
+
+#: inc/GraphQL/Enum/DarkThemeMode.php:49
+#: package/wp-eform/inc/GraphQL/Enum/DarkThemeMode.php:49
+msgid "No dark mode"
+msgstr ""
+
+#: inc/GraphQL/Enum/DarkThemeMode.php:53
+#: package/wp-eform/inc/GraphQL/Enum/DarkThemeMode.php:53
+msgid "Auto dark mode"
+msgstr ""
+
+#: inc/GraphQL/Enum/DarkThemeMode.php:57
+#: package/wp-eform/inc/GraphQL/Enum/DarkThemeMode.php:57
+msgid "Always on dark mode"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventComparison.php:45 inc/GraphQL/Enum/EventHas.php:45
+#: inc/GraphQL/Enum/Trash.php:45
+#: package/wp-eform/inc/GraphQL/Enum/EventComparison.php:45
+#: package/wp-eform/inc/GraphQL/Enum/EventHas.php:45
+#: package/wp-eform/inc/GraphQL/Enum/Trash.php:45
+msgid "Possible comparison in conditional logic."
+msgstr ""
+
+#: inc/GraphQL/Enum/EventComparison.php:49
+#: inc/GraphQL/Enum/NumberComparison.php:49
+#: package/wp-eform/inc/GraphQL/Enum/EventComparison.php:49
+#: package/wp-eform/inc/GraphQL/Enum/NumberComparison.php:49
+msgid "Equals to"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventComparison.php:53
+#: inc/GraphQL/Enum/NumberComparison.php:53
+#: package/wp-eform/inc/GraphQL/Enum/EventComparison.php:53
+#: package/wp-eform/inc/GraphQL/Enum/NumberComparison.php:53
+msgid "Greater than"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventComparison.php:57
+#: inc/GraphQL/Enum/NumberComparison.php:57
+#: package/wp-eform/inc/GraphQL/Enum/EventComparison.php:57
+#: package/wp-eform/inc/GraphQL/Enum/NumberComparison.php:57
+msgid "Less than"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventComparison.php:61
+#: package/wp-eform/inc/GraphQL/Enum/EventComparison.php:61
+msgid "Contains"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventComparison.php:65
+#: package/wp-eform/inc/GraphQL/Enum/EventComparison.php:65
+msgid "Starts with"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventComparison.php:69
+#: package/wp-eform/inc/GraphQL/Enum/EventComparison.php:69
+msgid "Ends with"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventHas.php:49
+#: package/wp-eform/inc/GraphQL/Enum/EventHas.php:49
+msgid "Value"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventHas.php:53
+#: package/wp-eform/inc/GraphQL/Enum/EventHas.php:53
+msgid "Length"
+msgstr ""
+
+#: inc/GraphQL/Enum/EventOperation.php:45
+#: package/wp-eform/inc/GraphQL/Enum/EventOperation.php:45
+msgid "Event operation."
+msgstr ""
+
+#: inc/GraphQL/Enum/EventOperation.php:49
+#: package/wp-eform/inc/GraphQL/Enum/EventOperation.php:49
+msgid "Evaluate when operation is."
+msgstr ""
+
+#: inc/GraphQL/Enum/EventOperation.php:53
+#: package/wp-eform/inc/GraphQL/Enum/EventOperation.php:53
+msgid "Evaluate when operation is not."
+msgstr ""
+
+#: inc/GraphQL/Enum/EventRelation.php:45
+#: package/wp-eform/inc/GraphQL/Enum/EventRelation.php:45
+msgid "Relation logic with the next event in the logic chain."
+msgstr ""
+
+#: inc/GraphQL/Enum/EventRelation.php:49
+#: package/wp-eform/inc/GraphQL/Enum/EventRelation.php:49
+msgid "AND operator."
+msgstr ""
+
+#: inc/GraphQL/Enum/EventRelation.php:53
+#: package/wp-eform/inc/GraphQL/Enum/EventRelation.php:53
+msgid "OR operator."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormElementCategory.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormElementCategory.php:45
+msgid "Form element category."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormElementCategory.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormElementCategory.php:49
+msgid "Multiple Choice Questions."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormElementCategory.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormElementCategory.php:53
+msgid "Text Input & Upload."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormElementCategory.php:57
+#: package/wp-eform/inc/GraphQL/Enum/FormElementCategory.php:57
+msgid "Design Elements."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormElementCategory.php:61
+#: package/wp-eform/inc/GraphQL/Enum/FormElementCategory.php:61
+msgid "Security Elements."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaginationRestriction.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormPaginationRestriction.php:45
+msgid "Pagination restriction type of a form."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaginationRestriction.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormPaginationRestriction.php:49
+msgid "No restriction."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaginationRestriction.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormPaginationRestriction.php:53
+msgid "Can paginate when all elements are valid."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaginationRestriction.php:57
+#: package/wp-eform/inc/GraphQL/Enum/FormPaginationRestriction.php:57
+msgid "Can go to next only when all elements are valid."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaymentsCouponType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormPaymentsCouponType.php:45
+msgid "Form payments coupon type."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaymentsCouponType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormPaymentsCouponType.php:49
+msgid "Percentage based discount."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaymentsCouponType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormPaymentsCouponType.php:53
+msgid "Value based discount."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaymentType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormPaymentType.php:45
+msgid "Form payment type."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaymentType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormPaymentType.php:49
+msgid "One time payment."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormPaymentType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormPaymentType.php:53
+msgid "Recurring/Subscription payment."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:45
+msgid "Form settings background scroll."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:49
+msgid "Scroll with element."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:53
+msgid "Fixed in viewport."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:57
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundAttachment.php:57
+msgid "Scroll with element content."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:45
+msgid "Form settings background origin."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:49
+msgid "Padding box (upper left)."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:53
+msgid "Border box (upper left of border)."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:57
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundOriginAndClip.php:57
+msgid "Content box (upper left of content)."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:45
+msgid "Form settings background repeat."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:49
+msgid "Repeat background image in both direction."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:53
+msgid "Repeat background image in x axis."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:57
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:57
+msgid "Repeat background image in y axis."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:61
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsBackgroundRepeat.php:61
+msgid "Do not repeat background image."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:45
+msgid "Form settings limit on login values."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:49
+msgid "No limitation based on logged in status."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:53
+msgid "Allow only logged in users."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:57
+#: package/wp-eform/inc/GraphQL/Enum/FormSettingsLimitOnLogin.php:57
+msgid "Allow only logged out users."
+msgstr ""
+
+#: inc/GraphQL/Enum/FormType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/FormType.php:45
+msgid "One of the types an EForm can be"
+msgstr ""
+
+#: inc/GraphQL/Enum/FormType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/FormType.php:49
+msgid "Tabular appearance"
+msgstr ""
+
+#: inc/GraphQL/Enum/FormType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/FormType.php:53
+msgid "Paginated appearance"
+msgstr ""
+
+#: inc/GraphQL/Enum/FormType.php:57
+#: package/wp-eform/inc/GraphQL/Enum/FormType.php:57
+msgid "Single page appearance"
+msgstr ""
+
+#: inc/GraphQL/Enum/GenericSize.php:45
+#: package/wp-eform/inc/GraphQL/Enum/GenericSize.php:45
+msgid "Generic size."
+msgstr ""
+
+#: inc/GraphQL/Enum/GenericSize.php:49
+#: package/wp-eform/inc/GraphQL/Enum/GenericSize.php:49
+msgid "Small Size."
+msgstr ""
+
+#: inc/GraphQL/Enum/GenericSize.php:53
+#: package/wp-eform/inc/GraphQL/Enum/GenericSize.php:53
+msgid "Default Size."
+msgstr ""
+
+#: inc/GraphQL/Enum/GenericSize.php:57
+#: package/wp-eform/inc/GraphQL/Enum/GenericSize.php:57
+msgid "Large Size."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingSize.php:45
+#: package/wp-eform/inc/GraphQL/Enum/HeadingSize.php:45
+msgid "Heading size."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingSize.php:49
+#: package/wp-eform/inc/GraphQL/Enum/HeadingSize.php:49
+msgid "Size 1."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingSize.php:53
+#: package/wp-eform/inc/GraphQL/Enum/HeadingSize.php:53
+msgid "Size 2."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingSize.php:57
+#: package/wp-eform/inc/GraphQL/Enum/HeadingSize.php:57
+msgid "Size 3."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingSize.php:61
+#: package/wp-eform/inc/GraphQL/Enum/HeadingSize.php:61
+msgid "Size 4."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingSize.php:65
+#: package/wp-eform/inc/GraphQL/Enum/HeadingSize.php:65
+msgid "Size 5."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingSize.php:69
+#: package/wp-eform/inc/GraphQL/Enum/HeadingSize.php:69
+msgid "Size 6."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:45
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:45
+msgid "Heading tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:49
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:49
+msgid "HTML h1 tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:53
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:53
+msgid "HTML h2 tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:57
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:57
+msgid "HTML h3 tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:61
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:61
+msgid "HTML h4 tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:65
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:65
+msgid "HTML h5 tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:69
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:69
+msgid "HTML h6 tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/HeadingTag.php:73
+#: package/wp-eform/inc/GraphQL/Enum/HeadingTag.php:73
+msgid "HTML p tag."
+msgstr ""
+
+#: inc/GraphQL/Enum/MaskType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/MaskType.php:45
+msgid "Mask type."
+msgstr ""
+
+#: inc/GraphQL/Enum/MaskType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/MaskType.php:49
+msgid "Don't use any masking."
+msgstr ""
+
+#: inc/GraphQL/Enum/MaskType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/MaskType.php:53
+msgid "Preset list of masks."
+msgstr ""
+
+#: inc/GraphQL/Enum/MaskType.php:57
+#: package/wp-eform/inc/GraphQL/Enum/MaskType.php:57
+msgid "String masks from user input."
+msgstr ""
+
+#: inc/GraphQL/Enum/MaskType.php:61
+#: package/wp-eform/inc/GraphQL/Enum/MaskType.php:61
+msgid "List of regexps."
+msgstr ""
+
+#: inc/GraphQL/Enum/NumberComparison.php:45
+#: package/wp-eform/inc/GraphQL/Enum/NumberComparison.php:45
+msgid "Number comparison."
+msgstr ""
+
+#: inc/GraphQL/Enum/OptionColumn.php:47
+#: package/wp-eform/inc/GraphQL/Enum/OptionColumn.php:47
+msgid "Possible columns for Option type elements."
+msgstr ""
+
+#: inc/GraphQL/Enum/OptionColumn.php:51
+#: package/wp-eform/inc/GraphQL/Enum/OptionColumn.php:51
+msgid "Automatic columns as per option width."
+msgstr ""
+
+#: inc/GraphQL/Enum/OptionColumn.php:55
+#: package/wp-eform/inc/GraphQL/Enum/OptionColumn.php:55
+msgid "Single column."
+msgstr ""
+
+#: inc/GraphQL/Enum/OptionColumn.php:59
+#: package/wp-eform/inc/GraphQL/Enum/OptionColumn.php:59
+msgid "Two column."
+msgstr ""
+
+#: inc/GraphQL/Enum/OptionColumn.php:63
+#: package/wp-eform/inc/GraphQL/Enum/OptionColumn.php:63
+msgid "Three column."
+msgstr ""
+
+#: inc/GraphQL/Enum/OptionColumn.php:67
+#: package/wp-eform/inc/GraphQL/Enum/OptionColumn.php:67
+msgid "Four column."
+msgstr ""
+
+#: inc/GraphQL/Enum/PrefilType.php:47
+#: package/wp-eform/inc/GraphQL/Enum/PrefilType.php:47
+msgid "Automatic prefil type of an EForm element."
+msgstr ""
+
+#: inc/GraphQL/Enum/PrefilType.php:51
+#: package/wp-eform/inc/GraphQL/Enum/PrefilType.php:51
+msgid "Prefil based on URL parameter."
+msgstr ""
+
+#: inc/GraphQL/Enum/PrefilType.php:55
+#: package/wp-eform/inc/GraphQL/Enum/PrefilType.php:55
+msgid "Prefil based on meta-data."
+msgstr ""
+
+#: inc/GraphQL/Enum/PrefilType.php:59
+#: package/wp-eform/inc/GraphQL/Enum/PrefilType.php:59
+msgid "Do not prefil this."
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:45
+msgid "Redirect type."
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:49
+msgid "No Redirection"
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:53
+msgid "View Submission Page"
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:57
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:57
+msgid "Portal Page"
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:61
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:61
+msgid "Flat Redirection"
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:65
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:65
+msgid "Total Score Based Redirection"
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:69
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:69
+msgid "Percentage Score Based Redirection"
+msgstr ""
+
+#: inc/GraphQL/Enum/RedirectType.php:73
+#: package/wp-eform/inc/GraphQL/Enum/RedirectType.php:73
+msgid "Conditional Redirection"
+msgstr ""
+
+#: inc/GraphQL/Enum/ResourceViewMode.php:45
+#: package/wp-eform/inc/GraphQL/Enum/ResourceViewMode.php:45
+msgid "Resource view mode. Mainly used to list forms and submissions filters under these modes."
+msgstr ""
+
+#: inc/GraphQL/Enum/ResourceViewMode.php:49
+#: package/wp-eform/inc/GraphQL/Enum/ResourceViewMode.php:49
+msgid "Resources owned by the current user."
+msgstr ""
+
+#: inc/GraphQL/Enum/ResourceViewMode.php:53
+#: package/wp-eform/inc/GraphQL/Enum/ResourceViewMode.php:53
+msgid "Resources shared with the current user."
+msgstr ""
+
+#: inc/GraphQL/Enum/ResourceViewMode.php:57
+#: package/wp-eform/inc/GraphQL/Enum/ResourceViewMode.php:57
+msgid "All resources, works if current user has administrator priviledges."
+msgstr ""
+
+#: inc/GraphQL/Enum/ResourceViewMode.php:61
+#: package/wp-eform/inc/GraphQL/Enum/ResourceViewMode.php:61
+msgid "Trashed resources by the current user."
+msgstr ""
+
+#: inc/GraphQL/Enum/ScoreFromToType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/ScoreFromToType.php:45
+msgid "Score from to type."
+msgstr ""
+
+#: inc/GraphQL/Enum/ScoreFromToType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/ScoreFromToType.php:49
+msgid "Numeric value."
+msgstr ""
+
+#: inc/GraphQL/Enum/ScoreFromToType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/ScoreFromToType.php:53
+msgid "Percentage value."
+msgstr ""
+
+#: inc/GraphQL/Enum/ScoreOperation.php:45
+#: package/wp-eform/inc/GraphQL/Enum/ScoreOperation.php:45
+msgid "Score operation."
+msgstr ""
+
+#: inc/GraphQL/Enum/ScoreOperation.php:49
+#: package/wp-eform/inc/GraphQL/Enum/ScoreOperation.php:49
+msgid "Add to score."
+msgstr ""
+
+#: inc/GraphQL/Enum/ScoreOperation.php:53
+#: package/wp-eform/inc/GraphQL/Enum/ScoreOperation.php:53
+msgid "Subtract from score."
+msgstr ""
+
+#: inc/GraphQL/Enum/SelectType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SelectType.php:45
+msgid "Select type."
+msgstr ""
+
+#: inc/GraphQL/Enum/SelectType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SelectType.php:49
+msgid "Choose single item."
+msgstr ""
+
+#: inc/GraphQL/Enum/SelectType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SelectType.php:53
+msgid "Choose multiple items."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceContainerLayout.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceContainerLayout.php:45
+msgid "Settings appearance layout."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceContainerLayout.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceContainerLayout.php:49
+msgid "The form container will grow per screen-size."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceContainerLayout.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceContainerLayout.php:53
+msgid "The form container will take a width most optimized for appearance."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:45
+msgid "Settings appearance control alignment."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:49
+msgid "Align control labels on left."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:53
+msgid "Align control labels on center."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:57
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlAlignment.php:57
+msgid "Align control labels on right."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:45
+msgid "Settings appearance control layout."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:49
+msgid "Vertically align labels and controls."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:53
+msgid "Horizontally align labels and controls."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:57
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlLayout.php:57
+msgid "Put labels inline of controls."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlType.php:45
+msgid "Settings appearance control types."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlType.php:49
+msgid "Design implenenting Google Material guidelines."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceControlType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceControlType.php:53
+msgid "A custom design system by WP EForm."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceProgressBarPosition.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceProgressBarPosition.php:45
+msgid "Settings appearance progress bar position."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceProgressBarPosition.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceProgressBarPosition.php:49
+msgid "Progress bar on top."
+msgstr ""
+
+#: inc/GraphQL/Enum/SettingsAppearanceProgressBarPosition.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SettingsAppearanceProgressBarPosition.php:53
+msgid "Progress bar on bottom."
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmissionStatInterval.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SubmissionStatInterval.php:45
+msgid "Submission stat interval."
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmissionStatInterval.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SubmissionStatInterval.php:49
+msgid "10 weeks"
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmissionStatInterval.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SubmissionStatInterval.php:53
+msgid "12 months"
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmissionStatInterval.php:57
+#: package/wp-eform/inc/GraphQL/Enum/SubmissionStatInterval.php:57
+msgid "30 days"
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmitTimer.php:45
+#: package/wp-eform/inc/GraphQL/Enum/SubmitTimer.php:45
+msgid "Submit timer."
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmitTimer.php:49
+#: package/wp-eform/inc/GraphQL/Enum/SubmitTimer.php:49
+msgid "No time limit."
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmitTimer.php:53
+#: package/wp-eform/inc/GraphQL/Enum/SubmitTimer.php:53
+msgid "Overall time limit."
+msgstr ""
+
+#: inc/GraphQL/Enum/SubmitTimer.php:57
+#: package/wp-eform/inc/GraphQL/Enum/SubmitTimer.php:57
+msgid "Page specific time limit."
+msgstr ""
+
+#: inc/GraphQL/Enum/Trash.php:49 package/wp-eform/inc/GraphQL/Enum/Trash.php:49
+msgid "Is trashed."
+msgstr ""
+
+#: inc/GraphQL/Enum/Trash.php:53 package/wp-eform/inc/GraphQL/Enum/Trash.php:53
+msgid "Not trashed."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:45
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:45
+msgid "Validation filter type."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:49
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:49
+msgid "Accept all values."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:53
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:53
+msgid "Accept phone numbers."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:57
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:57
+msgid "Accept proper URL or links."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:61
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:61
+msgid "Accept proper email address."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:65
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:65
+msgid "Accept integer or float."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:69
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:69
+msgid "Accept integer only."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:73
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:73
+msgid "Everything except numbers."
+msgstr ""
+
+#: inc/GraphQL/Enum/ValidationFilterType.php:77
+#: package/wp-eform/inc/GraphQL/Enum/ValidationFilterType.php:77
+msgid "Everything except letters."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:45
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:45
+msgid "Width presets."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:49
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:49
+msgid "Full Width."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:53
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:53
+msgid "Manual Width."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:57
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:57
+msgid "50% Width."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:61
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:61
+msgid "33.33333% Width."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:65
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:65
+msgid "66.66666% Width."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:69
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:69
+msgid "25% Width."
+msgstr ""
+
+#: inc/GraphQL/Enum/WidthPresets.php:73
+#: package/wp-eform/inc/GraphQL/Enum/WidthPresets.php:73
+msgid "75% Width."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Consequence.php:65
+#: package/wp-eform/inc/GraphQL/Field/Form/Consequence.php:65
+msgid "Possible action for the consequence."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Consequence.php:69
+#: package/wp-eform/inc/GraphQL/Field/Form/Consequence.php:69
+msgid "Fields to show if action is SHOW_FIELDS."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Consequence.php:73
+#: package/wp-eform/inc/GraphQL/Field/Form/Consequence.php:73
+msgid "Fields to hide if action is HIDE_FIELDS."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Consequence.php:77
+#: package/wp-eform/inc/GraphQL/Field/Form/Consequence.php:77
+msgid "Pages to show if action is SHOW_PAGES."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Consequence.php:81
+#: package/wp-eform/inc/GraphQL/Field/Form/Consequence.php:81
+msgid "Pages to hide if action is HIDE_PAGES."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Consequence.php:85
+#: package/wp-eform/inc/GraphQL/Field/Form/Consequence.php:85
+msgid "Field to set value of if action is SET_VALUE_OF"
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Consequence.php:89
+#: package/wp-eform/inc/GraphQL/Field/Form/Consequence.php:89
+msgid "Value to set if action is SET_VALUE_OF."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigFilters.php:68
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigFilters.php:68
+msgid "Minimum value for number type input."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigFilters.php:72
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigFilters.php:72
+msgid "Maximum value for number type input."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigFilters.php:76
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigFilters.php:76
+msgid "Minimum length for string type input."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigFilters.php:80
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigFilters.php:80
+msgid "Maximum length for string type input."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigFilters.php:84
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigFilters.php:84
+msgid "Minimum number of choices."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigFilters.php:88
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigFilters.php:88
+msgid "Maximum number of choices."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigMasks.php:67
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigMasks.php:67
+msgid "Predefined mask."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigMasks.php:71
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigMasks.php:71
+msgid "Mask from user input."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ElementConfigMasks.php:93
+#: inc/GraphQL/Field/Form/ElementConfigMasks.php:113
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigMasks.php:93
+#: package/wp-eform/inc/GraphQL/Field/Form/ElementConfigMasks.php:113
+msgid "List of regular expressions in sequence."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Event.php:65
+#: package/wp-eform/inc/GraphQL/Field/Form/Event.php:65
+msgid "Element Id for the event"
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Event.php:69
+#: package/wp-eform/inc/GraphQL/Field/Form/Event.php:69
+msgid "Compare against for the event."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Event.php:73
+#: package/wp-eform/inc/GraphQL/Field/Form/Event.php:73
+msgid "Is or is not operation."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Event.php:77
+#: package/wp-eform/inc/GraphQL/Field/Form/Event.php:77
+msgid "Comparison operator for the event."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Event.php:81
+#: package/wp-eform/inc/GraphQL/Field/Form/Event.php:81
+msgid "Comparison against value."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/Event.php:85
+#: package/wp-eform/inc/GraphQL/Field/Form/Event.php:85
+msgid "Logical relation with next event."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/IntegrationCustomData.php:65
+#: package/wp-eform/inc/GraphQL/Field/Form/IntegrationCustomData.php:65
+msgid "API Field/Tag Name for custom integration data."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/IntegrationCustomData.php:69
+#: package/wp-eform/inc/GraphQL/Field/Form/IntegrationCustomData.php:69
+msgid "Id of the element from which value is to be extracted."
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ScoreDesignation.php:64
+#: package/wp-eform/inc/GraphQL/Field/Form/ScoreDesignation.php:64
+msgid "which category of score the designation works on"
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ScoreDesignation.php:68
+#: package/wp-eform/inc/GraphQL/Field/Form/ScoreDesignation.php:68
+msgid "type of from and to, value or percentage"
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ScoreDesignation.php:72
+#: package/wp-eform/inc/GraphQL/Field/Form/ScoreDesignation.php:72
+msgid "min score"
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ScoreDesignation.php:76
+#: package/wp-eform/inc/GraphQL/Field/Form/ScoreDesignation.php:76
+msgid "max score"
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ScoreDesignation.php:80
+#: package/wp-eform/inc/GraphQL/Field/Form/ScoreDesignation.php:80
+msgid "name of designation"
+msgstr ""
+
+#: inc/GraphQL/Field/Form/ScoreDesignation.php:84
+#: package/wp-eform/inc/GraphQL/Field/Form/ScoreDesignation.php:84
+msgid "description of designation"
+msgstr ""
+
+#: inc/GraphQL/Field/SiteSettings.php:147
+#: package/wp-eform/inc/GraphQL/Field/SiteSettings.php:147
+msgid "View all your submissions"
+msgstr ""
+
+#: inc/GraphQL/Field/SiteSettings.php:151
+#: package/wp-eform/inc/GraphQL/Field/SiteSettings.php:151
+msgid "Welcome %%USERNAME%%"
+msgstr ""
+
+#: inc/GraphQL/Field/SiteSettings.php:155
+#: package/wp-eform/inc/GraphQL/Field/SiteSettings.php:155
+msgid "You have %%SUBMISSIONS%% submission, with an average score of %%SCOREAVG%%%."
+msgstr ""
+
+#: inc/GraphQL/Field/SiteSettings.php:159
+#: package/wp-eform/inc/GraphQL/Field/SiteSettings.php:159
+msgid "You have %%SUBMISSIONS%% submissions, with an average score of %%SCOREAVG%%%."
+msgstr ""
+
+#: inc/GraphQL/Field/SiteSettings.php:163
+#: package/wp-eform/inc/GraphQL/Field/SiteSettings.php:163
+msgid "You do not have any submissions yet."
+msgstr ""
+
+#: inc/GraphQL/Field/SiteSettings.php:170
+#: package/wp-eform/inc/GraphQL/Field/SiteSettings.php:170
+msgid "View your submission"
+msgstr ""
+
+#: inc/GraphQL/Field/SiteSettings.php:174
+#: package/wp-eform/inc/GraphQL/Field/SiteSettings.php:174
+msgid "Enter submission id"
+msgstr ""
+
+#: inc/GraphQL/Input/Form/Filter.php:56
+#: package/wp-eform/inc/GraphQL/Input/Form/Filter.php:56
+msgid "When shared is true, if mergeShared is also true, then show all forms owned by or shared with current user."
+msgstr ""
+
+#: inc/GraphQL/Input/Submission/Filter.php:64
+#: inc/GraphQL/Input/Submission/Filter.php:69
+#: package/wp-eform/inc/GraphQL/Input/Submission/Filter.php:64
+#: package/wp-eform/inc/GraphQL/Input/Submission/Filter.php:69
+msgid "Submissions before (inclusive)"
+msgstr ""
+
+#: inc/GraphQL/Resolver/Category.php:82 inc/GraphQL/Resolver/User.php:146
+#: package/wp-eform/inc/GraphQL/Resolver/Category.php:82
+#: package/wp-eform/inc/GraphQL/Resolver/User.php:146
+msgid "(deleted)"
+msgstr ""
+
+#: inc/Handler/Submission.php:676
+#: package/wp-eform/inc/Handler/Submission.php:676
+msgid "Form"
+msgstr ""
+
+#: inc/Handler/Submission.php:680
+#: package/wp-eform/inc/Handler/Submission.php:680
+msgid "Submission Id"
+msgstr ""
+
+#: inc/Handler/Submission.php:684
+#: package/wp-eform/inc/Handler/Submission.php:684
+msgid "Submission Date"
+msgstr ""
+
+#: inc/Handler/Submission.php:689
+#: package/wp-eform/inc/Handler/Submission.php:689
+msgid "Record"
+msgstr ""
+
+#: inc/Handler/Submission.php:701
+#: package/wp-eform/inc/Handler/Submission.php:701
+msgid "Remarks"
+msgstr ""
+
+#: inc/Handler/Submission.php:716
+#: package/wp-eform/inc/Handler/Submission.php:716
+msgctxt "score separator"
+msgid " / "
+msgstr ""
+
+#: inc/Handler/Submission.php:726
+#: package/wp-eform/inc/Handler/Submission.php:726
+msgid "Duration"
+msgstr ""
+
+#. translators: %1$s is time, %2$s is submission link
+#: inc/Handler/Submission.php:762
+#: package/wp-eform/inc/Handler/Submission.php:762
+msgid "generated on %1$s from<br />%2$s"
+msgstr ""
+
+#: inc/Handler/Submission.php:892
+#: package/wp-eform/inc/Handler/Submission.php:892
+msgid "View Submission"
+msgstr ""
+
+#: inc/Handler/Submission.php:1119
+#: package/wp-eform/inc/Handler/Submission.php:1119
+msgid "Anonymous"
+msgstr ""
+
+#: inc/Handler/Submission.php:1143
+#: package/wp-eform/inc/Handler/Submission.php:1143
+msgid "unpaid"
+msgstr ""
+
+#: inc/Handler/Submission.php:1146
+#: package/wp-eform/inc/Handler/Submission.php:1146
+msgid "paid"
+msgstr ""
+
+#: inc/Handler/Submission.php:1147
+#: package/wp-eform/inc/Handler/Submission.php:1147
+msgid "not needed"
+msgstr ""
+
+#: inc/Handler/Submission.php:1394
+#: package/wp-eform/inc/Handler/Submission.php:1394
+msgid "Outcome"
+msgstr ""
+
+#: inc/Handler/Submission.php:1395
+#: package/wp-eform/inc/Handler/Submission.php:1395
+msgid "Obtained"
+msgstr ""
+
+#: inc/Handler/Submission.php:1396
+#: package/wp-eform/inc/Handler/Submission.php:1396
+msgid "Out of"
+msgstr ""
+
+#: inc/Handler/Submission.php:1397
+#: package/wp-eform/inc/Handler/Submission.php:1397
+msgid "%-age"
+msgstr ""
+
+#: inc/Handler/Submission.php:1456
+#: package/wp-eform/inc/Handler/Submission.php:1456
+msgid "Designation"
+msgid_plural "Designations"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/Handler/Submission.php:1470 inc/Handler/Submission.php:1539
+#: package/wp-eform/inc/Handler/Submission.php:1470
+#: package/wp-eform/inc/Handler/Submission.php:1539
+msgid "Score"
+msgid_plural "Scores"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %1$s is element Id, handled client-side
+#: inc/Handler/Submission.php:2005
+#: package/wp-eform/inc/Handler/Submission.php:2005
+msgid "Element <mentions character=\"%1$s\"></mentions> is non existent."
+msgstr ""
+
+#. translators: %1$s is element Id, handled client-side
+#: inc/Handler/Submission.php:2142
+#: package/wp-eform/inc/Handler/Submission.php:2142
+msgid "Element <mentions character=\"%1$s\"></mentions> is not active."
+msgstr ""
+
+#. translators: %1$s is element Id, handled client-side
+#: inc/Handler/Submission.php:2210
+#: package/wp-eform/inc/Handler/Submission.php:2210
+msgid "Value cannot be null for element <mentions character=\"%1$s\"></mentions>."
+msgstr ""
+
+#. translators: %1$s is element Id, handled client-side
+#: inc/Handler/Submission.php:2246
+#: package/wp-eform/inc/Handler/Submission.php:2246
+msgid "Invalid value for element <mentions character=\"%1$s\"></mentions>."
+msgstr ""
+
+#. translators: %1$s is element Id, handled client-side
+#: inc/Handler/Submission.php:2321
+#: package/wp-eform/inc/Handler/Submission.php:2321
+msgid "Element <mentions character=\"%1$s\"></mentions> is not found in data."
+msgstr ""
+
+#. translators: %d is replaced by position
+#: inc/Helpers/element.php:43 package/wp-eform/inc/Helpers/element.php:43
+msgid "Option %d"
+msgstr ""
+
+#: inc/Helpers/element.php:155 package/wp-eform/inc/Helpers/element.php:155
+msgid "Primary Score"
+msgstr ""
+
+#: inc/Helpers/element.php:157 package/wp-eform/inc/Helpers/element.php:157
+msgid "Quiz Performance"
+msgstr ""
+
+#: inc/Helpers/element.php:158 package/wp-eform/inc/Helpers/element.php:158
+msgid "The higher the score the better the result."
+msgstr ""
+
+#: inc/Helpers/formatters.php:61 package/wp-eform/inc/Helpers/formatters.php:61
+msgctxt "wpeform-datetime-separator"
+msgid "\\a\\t "
+msgstr ""
+
+#. translators: %1$s is hours, %2$s is minutes, %3$s is seconds
+#: inc/Helpers/formatters.php:93 package/wp-eform/inc/Helpers/formatters.php:93
+msgctxt "format-time-from-seconds"
+msgid "%1$s, %2$s, %3$s"
+msgstr ""
+
+#. translators: %d is replaced by hours
+#: inc/Helpers/formatters.php:96 package/wp-eform/inc/Helpers/formatters.php:96
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d is replaced by minutes
+#: inc/Helpers/formatters.php:101 inc/Helpers/formatters.php:116
+#: package/wp-eform/inc/Helpers/formatters.php:101
+#: package/wp-eform/inc/Helpers/formatters.php:116
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d is replaced by seconds
+#: inc/Helpers/formatters.php:106 inc/Helpers/formatters.php:121
+#: inc/Helpers/formatters.php:128
+#: package/wp-eform/inc/Helpers/formatters.php:106
+#: package/wp-eform/inc/Helpers/formatters.php:121
+#: package/wp-eform/inc/Helpers/formatters.php:128
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators:%1$s is minutes, %2$s is seconds
+#: inc/Helpers/formatters.php:113
+#: package/wp-eform/inc/Helpers/formatters.php:113
+msgctxt "format-time-from-seconds"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/Helpers/validators.php:168
+#: package/wp-eform/inc/Helpers/validators.php:168
+msgid "Should be a valid phone number."
+msgstr ""
+
+#: inc/Helpers/validators.php:176
+#: package/wp-eform/inc/Helpers/validators.php:176
+msgid "Should be a valid URL."
+msgstr ""
+
+#: inc/Helpers/validators.php:183
+#: package/wp-eform/inc/Helpers/validators.php:183
+msgid "Should be a valid email."
+msgstr ""
+
+#: inc/Helpers/validators.php:191
+#: package/wp-eform/inc/Helpers/validators.php:191
+msgid "Should be a valid number."
+msgstr ""
+
+#: inc/Helpers/validators.php:199
+#: package/wp-eform/inc/Helpers/validators.php:199
+msgid "Should be a valid integer."
+msgstr ""
+
+#: inc/Helpers/validators.php:206
+#: package/wp-eform/inc/Helpers/validators.php:206
+msgid "Should not include numbers."
+msgstr ""
+
+#: inc/Helpers/validators.php:213
+#: package/wp-eform/inc/Helpers/validators.php:213
+msgid "Should not include letters."
+msgstr ""
+
+#. translators: %d is string length
+#: inc/Helpers/validators.php:232
+#: package/wp-eform/inc/Helpers/validators.php:232
+msgid "A minimum of %d string length is required."
+msgstr ""
+
+#. translators: %d is string length
+#: inc/Helpers/validators.php:243
+#: package/wp-eform/inc/Helpers/validators.php:243
+msgid "A maximum of %d string length is allowed."
+msgstr ""
+
+#. translators: %d is minimum value
+#: inc/Helpers/validators.php:261
+#: package/wp-eform/inc/Helpers/validators.php:261
+msgid "A minimum value of %d is required."
+msgstr ""
+
+#. translators: %d is maximum value
+#: inc/Helpers/validators.php:274
+#: package/wp-eform/inc/Helpers/validators.php:274
+msgid "A maximum value of %d is allowed."
+msgstr ""
+
+#. translators: %d is number of checboxes.
+#: inc/Helpers/validators.php:497
+#: package/wp-eform/inc/Helpers/validators.php:497
+msgid "A minimum of %d item is required"
+msgid_plural "A minimum of %d items are required."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d is number of checboxes.
+#: inc/Helpers/validators.php:516
+#: package/wp-eform/inc/Helpers/validators.php:516
+msgid "A maximum of %d item is allowed"
+msgid_plural "A maximum of %d items are allowed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/Model/Form.php:174 package/wp-eform/inc/Model/Form.php:174
+msgid "Uncategorized"
+msgstr ""
+
+#: inc/Model/Form.php:203 package/wp-eform/inc/Model/Form.php:203
+msgid "A Form page"
+msgstr ""
+
+#: inc/System/Init.php:279 package/wp-eform/inc/System/Init.php:279
+msgid "WP EForm Shortcodes"
+msgstr ""
+
+#: inc/System/Init.php:485 package/wp-eform/inc/System/Init.php:485
+msgid "Get started"
+msgstr ""
+
+#: inc/System/SystemEndpoint.php:327
+#: package/wp-eform/inc/System/SystemEndpoint.php:327
+msgid "You do not have permission to view this page."
+msgstr ""
+
+#: inc/System/SystemEndpoint.php:328
+#: package/wp-eform/inc/System/SystemEndpoint.php:328
+msgid "Authentication Error"
+msgstr ""
+
+#: inc/System/SystemEndpoint.php:661
+#: package/wp-eform/inc/System/SystemEndpoint.php:661
+msgid "You do not have proper permissions to access this page."
+msgstr ""
+
+#: inc/System/SystemEndpoint.php:662
+#: package/wp-eform/inc/System/SystemEndpoint.php:662
+msgid "Unauthorized access"
+msgstr ""
+
+#: inc/System/SystemEndpoint.php:729
+#: package/wp-eform/inc/System/SystemEndpoint.php:729
+msgid "You do not have sufficient permission to view this resource."
+msgstr ""
+
+#: inc/System/SystemEndpoint.php:730
+#: package/wp-eform/inc/System/SystemEndpoint.php:730
+msgid "Insufficient Permission"
+msgstr ""
+
+#: inc/System/SystemEndpoint.php:782
+#: package/wp-eform/inc/System/SystemEndpoint.php:782
+msgid "Can only be accessed when logged in."
+msgstr ""
+
+#: inc/Util/FormTemplate.php:121 package/wp-eform/inc/Util/FormTemplate.php:121
+msgid "Free Forms"
+msgstr ""
+
+#: inc/Util/Icon.php:68 inc/Util/Icon.php:76
+#: package/wp-eform/inc/Util/Icon.php:68 package/wp-eform/inc/Util/Icon.php:76
+msgid "Checked"
+msgstr ""
+
+#: inc/Util/Icon.php:72 inc/Util/Icon.php:80
+#: package/wp-eform/inc/Util/Icon.php:72 package/wp-eform/inc/Util/Icon.php:80
+msgid "Unchecked"
+msgstr ""
+
+#: inc/Util/mailer-templates/postmark.php:431
+#: package/wp-eform/inc/Util/mailer-templates/postmark.php:431
+msgid "If you're having trouble viewing the email, copy and paste the URL below into your web browser."
+msgstr ""
+
+#: inc/Util/mailer-templates/postmark.php:480
+#: package/wp-eform/inc/Util/mailer-templates/postmark.php:480
+msgid "View the submission online."
+msgstr ""
+
+#. translators: %1$s is replaced by audio link
+#: inc/Util/SlateJS.php:786 package/wp-eform/inc/Util/SlateJS.php:786
+msgid "Click <a href=\"%1$s\">here</a> to play audio."
+msgstr ""
+
+#. translators: %1$s is replaced by video link
+#: inc/Util/SlateJS.php:802 package/wp-eform/inc/Util/SlateJS.php:802
+msgid "Click <a href=\"%1$s\">here</a> to play video."
+msgstr ""
+
+#: inc/View/Admin/App.php:56 package/wp-eform/inc/View/Admin/App.php:56
+msgid "WPEForm - WordPress Form Builder"
+msgstr ""
+
+#: inc/View/Admin/App.php:81 package/wp-eform/inc/View/Admin/App.php:81
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+#: inc/View/Admin/App.php:87 package/wp-eform/inc/View/Admin/App.php:87
+msgid "Forms"
+msgstr "ফর্ম গুলি"
+
+#: inc/View/Admin/App.php:92 package/wp-eform/inc/View/Admin/App.php:92
+msgid "Submissions"
+msgstr "দাখিল গুলি"
+
+#: inc/View/Admin/App.php:99 package/wp-eform/inc/View/Admin/App.php:99
+msgid "Category"
+msgstr "বিষয়শ্রেণী"
+
+#: inc/View/Admin/App.php:106 package/wp-eform/inc/View/Admin/App.php:106
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: inc/View/Admin/App.php:112 package/wp-eform/inc/View/Admin/App.php:112
+msgid "Standalone App"
+msgstr "স্ট্যান্ডঅ্যালোন অ্যাপ"
+
+#: inc/View/Admin/templates/admin-app.php:24
+#: package/wp-eform/inc/View/Admin/templates/admin-app.php:24
+msgid "WPEForm - Form Builder Application"
+msgstr ""
+
+#: inc/View/Front/ShortcodeGenerator.php:111
+#: package/wp-eform/inc/View/Front/ShortcodeGenerator.php:111
+msgid "Generate Shortcode"
+msgstr ""

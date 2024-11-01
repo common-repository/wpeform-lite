@@ -1,0 +1,52 @@
+{
+  "blocks.js": "editor/blocks-2a3223cc.js",
+  "blocks.js.map": "editor/blocks-2a3223cc.js.map",
+  "editor/assets/FormPreview.svg": "editor/assets/FormPreview-07b97d22.svg",
+  "editor/assets/SummaryPage.svg": "editor/assets/SummaryPage-96c468fa.svg",
+  "editor/assets/UserPortal.svg": "editor/assets/UserPortal-fcef2ea1.svg",
+  "editor/blocks-2a3223cc.js.LICENSE.txt": "editor/blocks-2a3223cc.js.LICENSE.txt",
+  "editor/runtime-9e0294da.js.LICENSE.txt": "editor/runtime-9e0294da.js.LICENSE.txt",
+  "editor/shortcodeGenerator-7f4644d5.js.LICENSE.txt": "editor/shortcodeGenerator-7f4644d5.js.LICENSE.txt",
+  "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js.LICENSE.txt": "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js.LICENSE.txt",
+  "editor/vendors~shortcodeGenerator-01219a4a.js.LICENSE.txt": "editor/vendors~shortcodeGenerator-01219a4a.js.LICENSE.txt",
+  "runtime.js": "editor/runtime-9e0294da.js",
+  "runtime.js.map": "editor/runtime-9e0294da.js.map",
+  "shortcodeGenerator.js": "editor/shortcodeGenerator-7f4644d5.js",
+  "shortcodeGenerator.js.map": "editor/shortcodeGenerator-7f4644d5.js.map",
+  "vendors~blocks~shortcodeGenerator.js": "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js",
+  "vendors~blocks~shortcodeGenerator.js.map": "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js.map",
+  "vendors~shortcodeGenerator.js": "editor/vendors~shortcodeGenerator-01219a4a.js",
+  "vendors~shortcodeGenerator.js.map": "editor/vendors~shortcodeGenerator-01219a4a.js.map",
+  "wpackioEp": {
+    "blocks": {
+      "assets": {
+        "js": [
+          "editor/runtime-9e0294da.js",
+          "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js",
+          "editor/blocks-2a3223cc.js"
+        ],
+        "js.map": [
+          "editor/runtime-9e0294da.js.map",
+          "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js.map",
+          "editor/blocks-2a3223cc.js.map"
+        ]
+      }
+    },
+    "shortcodeGenerator": {
+      "assets": {
+        "js": [
+          "editor/runtime-9e0294da.js",
+          "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js",
+          "editor/vendors~shortcodeGenerator-01219a4a.js",
+          "editor/shortcodeGenerator-7f4644d5.js"
+        ],
+        "js.map": [
+          "editor/runtime-9e0294da.js.map",
+          "editor/vendors~blocks~shortcodeGenerator-3a17fafa.js.map",
+          "editor/vendors~shortcodeGenerator-01219a4a.js.map",
+          "editor/shortcodeGenerator-7f4644d5.js.map"
+        ]
+      }
+    }
+  }
+}

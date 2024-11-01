@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "react",
+    "react-dom",
+    "wp-block-editor",
+    "wp-blocks",
+    "wp-i18n"
+  ],
+  "version": "55d96052d0c55f75e604a90cf1810c31e16c669b23ace15ca3411eb5c060925c"
+}
